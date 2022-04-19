@@ -1,0 +1,1766 @@
+Ranking,University,City,State,Region,Founded,Students_count,Staff_count,Setting,Latitude,Longitude,Air_quality
+1,Massachusetts Institute of Technology,Cambridge ,Massachusetts,Northeast,1861,14999,1499,Urban,42.365248,-71.105015,2
+2,Harvard University,Cambridge ,Massachusetts,Northeast,1636,44999,2499,Urban,42.365248,-71.105015,2
+3,Stanford University,Stanford ,California,West,1885,24999,2499,Suburban,37.437516,-122.165747,1
+4,Cornell University,Ithaca ,New York,Northeast,1865,24999,2499,Urban,42.422372,-76.461572,2
+5,"University of California, Berkeley",Berkeley ,California,West,1868,44999,2999,Urban,37.869058,-122.270455,2
+6,Columbia University in the City of New York,New York City ,New York,Northeast,1754,34999,5000,Urban,40.713054,-74.007228,2
+7,University of Michigan,Ann Arbor ,Michigan,Midwest,1817,45000,5000,Urban,42.281419,-83.748478,2
+8,University of Washington,Seattle ,Washington,West,1861,45000,5000,Urban,47.603229,-122.33028,2
+9,University of Pennsylvania,Philadelphia ,Pennsylvania,Northeast,1740,29999,5000,Urban,39.951061,-75.16562,2
+10,University of Minnesota-Twin Cities,Minneapolis ,Minnesota,Midwest,1851,45000,4499,Urban,44.977479,-93.264346,1
+11,Yale University,New Haven ,Connecticut,Northeast,1701,14999,4999,Urban,41.308252,-72.924161,2
+12,"University of California, Los Angeles",Los Angeles ,California,West,1919,45000,5000,Urban,34.052238,-118.243344,2
+13,Johns Hopkins University,Baltimore ,Maryland,Southeast,1876,34999,5000,Urban,39.290443,-76.612333,2
+14,The University of Texas at Austin,Austin ,Texas,Southwest,1883,45000,3499,Urban,30.264979,-97.746598,1
+15,New York University,New York City ,New York,Northeast,1831,45000,5000,Urban,40.713054,-74.007228,2
+16,University of Wisconsin-Madison,Madison ,Wisconsin,Midwest,1848,45000,4999,Urban,43.073926,-89.385244,2
+17,Purdue University,West Lafayette ,Indiana,Midwest,1869,45000,2499,Suburban,40.454773,-86.915695,2
+18,Penn State University,University Park ,Pennsylvania,Northeast,1855,45000,4499,Rural,40.801899,-77.856697,2
+19,Princeton University,Princeton ,New Jersey,Northeast,1746,8999,1499,Suburban,40.35198,-74.660744,2
+20,Carnegie Mellon University,Pittsburgh ,Pennsylvania,Northeast,1900,19999,1499,Urban,40.442169,-79.994945,2
+21,University of Southern California,Los Angeles ,California,West,1880,45000,5000,Urban,34.052238,-118.243344,2
+22,University of Chicago,Chicago ,Illinois,Midwest,1891,19999,2999,Urban,41.883229,-87.632398,2
+23,Arizona State University,Tempe ,Arizona,Southwest,1885,45000,2999,Urban,33.425522,-111.941253,3
+24,University of Florida,Gainesville ,Florida,Southeast,1853,45000,5000,Urban,29.651958,-82.325024,1
+25,Michigan State University,East Lansing ,Michigan,Midwest,1855,45000,3499,Urban,42.781472,-84.482761,2
+26,"University of California, San Diego",San Diego ,California,West,1960,39999,3499,Urban,32.71576,-117.163817,4
+27,University of Illinois at Urbana-Champaign,Champaign ,Illinois,Midwest,1867,45000,3499,Urban,40.116328,-88.243522,2
+28,University of North Carolina at Chapel Hill,Chapel Hill ,North Carolina,Southeast,1789,34999,4999,Urban,35.910262,-79.055474,1
+29,Duke University,Durham ,North Carolina,Southeast,1838,19999,4499,Urban,35.996948,-78.899023,1
+30,Northwestern University,Evanston ,Illinois,Midwest,1851,29999,3499,Urban,42.052157,-87.687867,2
+31,"University of California, Davis",Davis ,California,West,1905,39999,2999,Suburban,38.546421,-121.745384,2
+32,Boston University,Boston ,Massachusetts,Northeast,1869,44999,3999,Urban,42.358894,-71.056742,2
+33,University of Maryland,College Park ,Maryland,Southeast,1856,44999,4999,Suburban,38.987195,-76.946,3
+34,"Rutgers, The State University of New Jersey",New Brunswick ,New Jersey,Northeast,1766,45000,5000,Urban,40.495921,-74.444139,2
+35,"University of California, Irvine",Irvine ,California,West,1965,39999,2499,Urban,33.685908,-117.824719,4
+36,The University of Arizona,Tucson ,Arizona,Southwest,1885,45000,3499,Urban,32.221878,-110.971225,2
+37,Texas A&M University,College Station ,Texas,Southwest,1876,45000,3999,Urban,30.622373,-96.32585,1
+38,The University of Utah,Salt Lake City ,Utah,West,1850,39999,3499,Urban,40.758478,-111.888142,2
+39,University of Virginia,Charlottesville ,Virginia,Southeast,1819,29999,3499,Suburban,38.031046,-78.474159,1
+40,The Ohio State University,Columbus ,Ohio,Midwest,1870,45000,5000,Urban,39.962649,-82.996216,1
+41,University of Colorado Boulder,Boulder ,Colorado,West,1876,39999,3999,Urban,40.015831,-105.27927,2
+42,North Carolina State University,Raleigh ,North Carolina,Southeast,1887,39999,2999,Urban,35.781295,-78.64167,1
+43,Georgia Institute of Technology,Atlanta ,Georgia,Southeast,1885,34999,1499,Urban,33.748547,-84.391502,3
+44,University of Pittsburgh,Pittsburgh ,Pennsylvania,Northeast,1787,34999,5000,Urban,40.442169,-79.994945,2
+45,Indiana University Bloomington,Bloomington ,Indiana,Midwest,1820,45000,2999,Urban,39.166587,-86.534893,2
+46,California Institute of Technology,Pasadena ,California,West,1891,2999,399,Urban,34.14955,-118.141452,2
+47,Washington University in St. Louis,St. Louis ,Missouri,Midwest,1853,19999,3999,Suburban,38.630276,-90.200309,1
+48,"University of California, Santa Barbara",Santa Barbara ,California,West,1921,29999,1499,Suburban,34.420867,-119.698342,1
+49,Georgetown University,Washington ,District of Columbia,Northeast,1789,24999,2999,Urban,38.892062,-77.019912,2
+50,Tufts University,Medford ,Massachusetts,Northeast,1852,14999,1999,Suburban,42.418557,-71.106454,2
+51,University of Nebraska-Lincoln,Lincoln ,Nebraska,Midwest,1869,29999,1999,Urban,40.813599,-96.70261,1
+52,Virginia Polytechnic Institute and State University,Blacksburg ,Virginia,Southeast,1872,39999,4499,Urban,37.225855,-80.410073,1
+53,Florida State University,Tallahassee ,Florida,Southeast,1851,45000,2999,Urban,30.440741,-84.278328,1
+54,University of South Florida,Tampa ,Florida,Southeast,1956,45000,2999,Urban,27.947423,-82.458776,1
+55,Oregon State University,Corvallis ,Oregon,West,1868,39999,2499,Urban,44.571648,-123.277703,1
+56,University of Massachusetts Amherst,Amherst ,Massachusetts,Northeast,1863,39999,1999,Suburban,42.375805,-72.519871,2
+57,University of Georgia,Athens ,Georgia,Southeast,1785,44999,3499,Urban,33.957412,-83.376798,3
+58,Brown University,Providence ,Rhode Island,Northeast,1764,14999,1499,Urban,41.824461,-71.412747,2
+59,Iowa State University,Ames ,Iowa,Midwest,1858,39999,1999,Urban,42.026802,-93.620181,2
+60,Brigham Young University,Provo ,Utah,West,1875,39999,2499,Urban,40.233677,-111.663926,2
+61,University of Rochester,Rochester ,New York,Northeast,1850,14999,2999,Urban,43.155708,-77.612547,2
+62,University of Iowa,Iowa City ,Iowa,Midwest,1847,39999,2999,Urban,41.66124,-91.530128,1
+63,"University of California, Riverside",Riverside ,California,West,1954,24999,1499,Urban,33.980534,-117.377025,4
+64,Washington State University,Pullman ,Washington,West,1890,34999,2499,Rural,46.729725,-117.181834,1
+65,University of Delaware,Newark ,Delaware,Southeast,1743,24999,1999,Suburban,39.681656,-75.753614,1
+66,Georgia State University,Atlanta ,Georgia,Southeast,1913,39999,1999,Urban,33.748547,-84.391502,3
+67,William Marsh Rice University,Houston ,Texas,Southwest,1891,7999,999,Urban,29.760803,-95.369506,1
+68,"University at Buffalo, State University of New York",Buffalo ,New York,Northeast,1846,34999,2499,Suburban,42.887691,-78.879374,2
+69,Dartmouth College,Hanover ,New Hampshire,Northeast,1769,7999,999,Rural,43.700835,-72.289408,2
+70,George Washington University,Washington ,District of Columbia,Northeast,1821,34999,2999,Urban,38.892062,-77.019912,2
+71,Vanderbilt University,Nashville ,Tennessee,Southeast,1873,14999,1999,Urban,36.166687,-86.779932,2
+72,Syracuse University,Syracuse ,New York,Northeast,1870,39999,1999,Urban,43.047945,-76.147448,2
+73,Colorado State University,Fort Collins ,Colorado,West,1870,39999,2499,Urban,40.588972,-105.082459,2
+74,University of Houston,Houston ,Texas,Southwest,1927,45000,1999,Urban,29.760803,-95.369506,1
+75,George Mason University,Fairfax ,Virginia,Southeast,1957,45000,2999,Suburban,38.847183,-77.306292,2
+76,University of Oregon,Eugene ,Oregon,West,1876,29999,2499,Urban,44.052153,-123.091195,1
+77,"University of California, Santa Cruz",Santa Cruz ,California,West,1965,24999,899,Urban,36.97414,-122.028795,1
+78,University of Illinois at Chicago,Chicago ,Illinois,Midwest,1858,34999,3999,Urban,41.883229,-87.632398,2
+79,"University of California, San Francisco",San Francisco ,California,West,1864,3999,3499,Urban,37.78008,-122.420168,2
+80,University of Notre Dame,Notre Dame ,Indiana,Midwest,1844,14999,1999,Suburban,41.705669,-86.247525,2
+81,University of Connecticut,Storrs ,Connecticut,Northeast,1881,29999,2999,Rural,41.801124,-72.240997,2
+82,Emory University,Atlanta ,Georgia,Southeast,1836,19999,3999,Suburban,33.748547,-84.391502,3
+83,Temple University,Philadelphia ,Pennsylvania,Northeast,1884,44999,4499,Urban,39.951061,-75.16562,2
+84,Northeastern University,Boston ,Massachusetts,Northeast,1898,29999,1999,Urban,42.358894,-71.056742,2
+85,University of Missouri,Columbia ,Missouri,Midwest,1839,34999,3499,Urban,38.951551,-92.328594,2
+86,University of Central Florida,Orlando ,Florida,Southeast,1963,45000,1999,Suburban,28.538331,-81.378879,2
+87,University of Kansas,Lawrence ,Kansas,Midwest,1865,34999,3499,Urban,38.973037,-95.235957,2
+88,University of Kentucky,Lexington ,Kentucky,Southeast,1865,34999,3499,Urban,38.046356,-84.497021,2
+89,Florida International University,Miami ,Florida,Southeast,1965,45000,1999,Suburban,25.775084,-80.194702,2
+90,University of New Mexico,Albuquerque ,New Mexico,Southwest,1889,34999,2999,Urban,35.084248,-106.649241,2
+91,Drexel University,Philadelphia ,Pennsylvania,Northeast,1891,29999,2499,Urban,39.951061,-75.16562,2
+92,"The University of Tennessee, Knoxville",Knoxville ,Tennessee,Southeast,1794,34999,2499,Urban,35.962631,-83.916677,2
+93,Rochester Institute of Technology,Rochester ,New York,Northeast,1829,19999,1999,Suburban,43.155708,-77.612547,2
+94,University of Miami,Coral Gables ,Florida,Southeast,1925,19999,3499,Suburban,25.710291,-80.268654,2
+95,Louisiana State University,Baton Rouge ,Louisiana,Southeast,1860,34999,2499,Urban,30.443319,-91.187488,1
+96,The University of Alabama,Tuscaloosa ,Alabama,Southeast,1831,44999,2499,Urban,33.210617,-87.565564,1
+97,San Diego State University,San Diego ,California,West,1897,39999,1999,Urban,32.71576,-117.163817,4
+98,American University,Washington ,District of Columbia,Northeast,1893,19999,1999,Suburban,38.892062,-77.019912,2
+99,Boston College,Chestnut Hill ,Massachusetts,Northeast,1863,19999,1499,Urban,42.330601,-71.166702,2
+100,Fordham University,The Bronx ,New York,Northeast,1841,19999,599,Urban,40.826153,-73.920265,2
+101,The University of Oklahoma,Norman ,Oklahoma,Southwest,1890,34999,1999,Suburban,35.221051,-97.445943,2
+102,University of Vermont,Burlington ,Vermont,Northeast,1791,19999,1999,Urban,44.475949,-73.212481,1
+103,The University of Tennessee at Martin,Martin ,Tennessee,Southeast,1927,7999,499,Rural,36.343182,-88.850491,2
+104,University of New Hampshire,Durham ,New Hampshire,Northeast,1866,19999,1499,Suburban,43.132924,-70.921226,2
+105,Clemson University,Clemson ,South Carolina,Southeast,1889,29999,1999,Suburban,34.688685,-82.834885,2
+106,University of Cincinnati,Cincinnati ,Ohio,Midwest,1819,44999,3999,Urban,39.104427,-84.513808,1
+107,University of North Texas,Denton ,Texas,Southwest,1890,44999,1999,Urban,33.215533,-97.13245,2
+108,University of South Carolina,Columbia ,South Carolina,Southeast,1801,39999,2499,Urban,34.009286,-81.037094,1
+109,Southern Methodist University,Dallas ,Texas,Southwest,1911,14999,1499,Suburban,32.777977,-96.796215,1
+110,"California State University, Northridge",Northridge ,California,West,1958,44999,2499,Urban,34.228298,-118.535797,2
+111,San José State University,San José ,California,West,1857,39999,1999,Urban,37.334807,-121.888128,4
+112,Utah State University,Logan ,Utah,West,1888,34999,1499,Urban,41.735211,-111.834857,2
+113,Case Western Reserve University,Cleveland ,Ohio,Midwest,1826,14999,1999,Urban,41.505546,-81.6915,2
+114,Virginia Commonwealth University,Richmond ,Virginia,Southeast,1838,34999,3499,Urban,37.540759,-77.433932,1
+115,San Francisco State University,San Francisco ,California,West,1899,34999,1999,Urban,37.78008,-122.420168,2
+116,Baylor University,Waco ,Texas,Southwest,1845,19999,1999,Urban,31.556767,-97.129989,2
+117,Oklahoma State University,Stillwater ,Oklahoma,Southwest,1890,29999,1999,Rural,36.110175,-97.05857,2
+118,Auburn University,Auburn ,Alabama,Southeast,1856,34999,1999,Urban,32.609077,-85.48172,1
+119,West Virginia University,Morgantown ,West Virginia,Southeast,1867,34999,2999,Urban,39.629757,-79.955946,2
+120,Rensselaer Polytechnic Institute,Troy ,New York,Northeast,1824,7999,599,Urban,42.727684,-73.691059,2
+121,University of Alabama at Birmingham,Birmingham ,Alabama,Southeast,1969,24999,2999,Urban,33.522859,-86.807705,1
+122,Texas Tech University,Lubbock ,Texas,Southwest,1923,39999,1999,Urban,33.583578,-101.855113,1
+123,Florida Atlantic University,Boca Raton ,Florida,Southeast,1961,39999,1999,Urban,26.35052,-80.089831,2
+124,Portland State University,Portland ,Oregon,West,1946,39999,1999,Urban,45.516018,-122.681425,1
+125,College of William & Mary,Williamsburg ,Virginia,Southeast,1693,9999,999,Suburban,37.275563,-76.709017,1
+126,Tulane University,New Orleans ,Louisiana,Southeast,1834,14999,1999,Urban,29.950621,-90.074948,1
+127,Stony Brook University,Stony Brook ,New York,Northeast,1957,29999,2999,Suburban,40.925686,-73.141129,3
+128,University of Wisconsin-Milwaukee,Milwaukee ,Wisconsin,Midwest,1885,29999,1999,Urban,43.041072,-87.909421,3
+129,The University of Texas at Dallas,Richardson ,Texas,Southwest,1969,34999,1499,Urban,32.960761,-96.733518,1
+130,Michigan Technological University,Houghton ,Michigan,Midwest,1885,7999,599,Rural,47.121239,-88.564482,2
+131,Mississippi State University,Mississippi State ,Mississippi,Southeast,1878,24999,1499,Rural,33.460464,-88.780663,1
+132,University of Denver,Denver ,Colorado,West,1864,14999,1499,Urban,39.738453,-104.984853,2
+133,Kent State University,Kent ,Ohio,Midwest,1910,34999,1999,Suburban,41.149028,-81.360799,2
+134,Wayne State University,Detroit ,Michigan,Midwest,1868,34999,2999,Urban,42.332916,-83.047853,4
+135,Brandeis University,Waltham ,Massachusetts,Northeast,1948,6999,599,Urban,42.376228,-71.237058,2
+136,The New School,New York City ,New York,Northeast,1919,14999,2499,Urban,40.713054,-74.007228,2
+137,"University of Maryland, Baltimore County",Baltimore ,Maryland,Southeast,1966,19999,1499,Suburban,39.290443,-76.612333,2
+138,"California State University, Long Beach",Long Beach ,California,West,1949,44999,2499,Urban,33.767168,-118.193723,4
+139,Marquette University,Milwaukee ,Wisconsin,Midwest,1881,14999,1499,Urban,43.041072,-87.909421,3
+140,Santa Clara University,Santa Clara ,California,West,1851,9999,899,Urban,37.352395,-121.953076,4
+141,University of Arkansas,Fayetteville ,Arkansas,Southeast,1871,34999,1999,Urban,36.061928,-94.160583,2
+142,Southern New Hampshire University,Manchester ,New Hampshire,Northeast,1932,45000,199,Urban,42.990926,-71.463091,2
+143,Indiana University - Purdue University Indianapolis,Indianapolis ,Indiana,Midwest,1969,34999,4999,Urban,39.76845,-86.156212,2
+144,Northern Illinois University,DeKalb ,Illinois,Midwest,1895,24999,1499,Suburban,41.929921,-88.751347,1
+145,"University at Albany, State University of New York",Albany ,New York,Northeast,1844,24999,1499,Urban,42.651242,-73.755418,2
+146,University of Rhode Island,Kingston ,Rhode Island,Northeast,1892,24999,1499,Suburban,41.479983,-71.523105,2
+147,DePaul University,Chicago ,Illinois,Midwest,1898,29999,1999,Urban,41.883229,-87.632398,2
+148,The University of Maine,Orono ,Maine,Northeast,1865,14999,899,Suburban,44.883468,-68.672168,1
+149,Kansas State University,Manhattan ,Kansas,Midwest,1863,24999,5000,Rural,39.190363,-96.549656,2
+150,"University of Nevada, Reno",Reno ,Nevada,West,1874,24999,2499,Urban,39.526903,-119.813283,1
+151,Illinois Institute of Technology,Chicago ,Illinois,Midwest,1890,7999,799,Urban,41.883229,-87.632398,2
+152,Liberty University,Lynchburg ,Virginia,Southeast,1971,45000,2999,Urban,37.414345,-79.143204,1
+153,Loyola University Chicago,Chicago ,Illinois,Midwest,1870,19999,1999,Urban,41.883229,-87.632398,2
+154,New Mexico State University,Las Cruces ,New Mexico,Southwest,1888,19999,1499,Suburban,32.316215,-106.780434,2
+155,"California State University, Fullerton",Fullerton ,California,West,1957,45000,2499,Suburban,33.870345,-117.924302,5
+156,"California Polytechnic State University, San Luis Obispo",San Luis Obispo ,California,West,1901,24999,1499,Suburban,35.282619,-120.660014,1
+157,The University of Texas at San Antonio,San Antonio ,Texas,Southwest,1969,34999,1499,Urban,29.425173,-98.494599,1
+158,"Binghamton University, State University of New York",Vestal ,New York,Northeast,1946,19999,1499,Suburban,42.085651,-76.049207,2
+159,University of Wyoming,Laramie ,Wyoming,West,1886,14999,1499,Rural,41.311026,-105.593606,2
+160,Northern Arizona University,Flagstaff ,Arizona,Southwest,1899,34999,1999,Urban,35.198177,-111.65132,1
+161,University of Missouri-Kansas City,Kansas City ,Missouri,Midwest,1933,19999,1499,Urban,39.099792,-94.578559,2
+162,Montana State University,Bozeman ,Montana,West,1893,19999,1499,Rural,45.679294,-111.046611,1
+163,Wake Forest University,Winston-Salem ,North Carolina,Southeast,1834,8999,2499,Urban,36.096261,-80.243735,1
+164,The University of Texas at Arlington,Arlington ,Texas,Southwest,1895,45000,1999,Urban,32.735594,-97.10711,2
+165,Western Michigan University,Kalamazoo ,Michigan,Midwest,1903,29999,1499,Urban,42.289777,-85.584682,2
+166,University of Idaho,Moscow ,Idaho,West,1889,14999,999,Rural,46.733689,-117.000002,1
+167,"University of Nevada, Las Vegas",Las Vegas ,Nevada,West,1957,39999,1499,Urban,36.169202,-115.140597,1
+168,The University of Texas MD Anderson Cancer Center,Houston ,Texas,Southwest,1941,999,50,Urban,29.760803,-95.369506,1
+169,Bowling Green State University,Bowling Green ,Ohio,Midwest,1910,24999,1499,Suburban,41.374913,-83.650438,2
+170,Oregon Health & Science University,Portland ,Oregon,West,1887,3999,2999,Urban,45.516018,-122.681425,1
+171,James Madison University,Harrisonburg ,Virginia,Southeast,1908,24999,2499,Urban,38.435982,-78.88,1
+172,Quinnipiac University,Hamden ,Connecticut,Northeast,1929,14999,699,Suburban,41.382918,-72.907743,2
+173,University of Mississippi,University ,Mississippi,Southeast,1848,29999,2499,Rural,34.36379,-89.535826,1
+174,Nova Southeastern University,Fort Lauderdale ,Florida,Southeast,1964,24999,1999,Suburban,26.124163,-80.143586,2
+175,University of San Francisco,San Francisco ,California,West,1855,14999,1499,Urban,37.78008,-122.420168,2
+176,Carleton College,Northfield ,Minnesota,Midwest,1866,2999,299,Rural,44.475627,-93.193244,1
+177,University of Alaska Fairbanks,Fairbanks ,Alaska,Outside,1917,14999,899,Suburban,64.836661,-147.738891,1
+178,Middlebury College,Middlebury ,Vermont,Northeast,1800,4999,399,Rural,44.014215,-73.166695,2
+179,New Jersey Institute of Technology,Newark ,New Jersey,Northeast,1881,14999,799,Urban,40.731507,-74.174388,2
+180,Ohio University,Athens ,Ohio,Midwest,1804,34999,1499,Rural,39.3292,-82.101165,2
+181,Worcester Polytechnic Institute,Worcester ,Massachusetts,Northeast,1865,7999,599,Urban,42.262073,-71.802278,2
+182,University of Louisville,Louisville ,Kentucky,Southeast,1798,24999,2999,Urban,38.256078,-85.751569,1
+183,United States Air Force Academy,Colorado Springs ,Colorado,West,1954,4999,399,Suburban,38.835224,-104.819798,2
+184,The University of Montana,Missoula ,Montana,West,1893,14999,899,Urban,46.872129,-113.994017,1
+185,Texas State University,San Marcos ,Texas,Southwest,1899,44999,1999,Suburban,29.882083,-97.939985,1
+186,Berklee College of Music,Boston ,Massachusetts,Northeast,1945,7999,899,Urban,42.358894,-71.056742,2
+187,Pepperdine University,Malibu ,California,West,1937,8999,799,Suburban,34.035796,-118.691535,1
+188,Wesleyan University,Middletown ,Connecticut,Northeast,1831,3999,499,Urban,41.544654,-72.651713,2
+189,Lehigh University,Bethlehem ,Pennsylvania,Northeast,1865,7999,699,Urban,40.632222,-75.407938,2
+190,Saint Louis University,St. Louis ,Missouri,Midwest,1818,19999,1999,Urban,38.630276,-90.200309,1
+191,Appalachian State University,Boone ,North Carolina,Southeast,1899,24999,1999,Rural,36.20401,-81.669431,2
+192,Swarthmore College,Swarthmore ,Pennsylvania,Northeast,1864,1999,299,Suburban,39.898491,-75.343882,2
+193,Williams College,Williamstown ,Massachusetts,Northeast,1793,2999,499,Suburban,42.71235,-73.203801,2
+194,University of North Dakota,Grand Forks ,North Dakota,Midwest,1883,19999,799,Urban,47.925705,-97.036068,2
+195,Old Dominion University,Norfolk ,Virginia,Southeast,1930,29999,1999,Urban,36.846164,-76.285913,1
+196,Bard College,Annandale-on-Hudson ,New York,Northeast,1860,2999,399,Suburban,42.012798,-73.9086,2
+197,Southern Illinois University Carbondale,Carbondale ,Illinois,Midwest,1869,19999,1499,Urban,37.725277,-89.21672,1
+198,Chapman University,Orange ,California,West,1861,14999,599,Suburban,33.791489,-117.853096,4
+199,University of Massachusetts Boston,Boston ,Massachusetts,Northeast,1964,19999,1499,Urban,42.358894,-71.056742,2
+200,Embry-Riddle Aeronautical University,Daytona Beach ,Florida,Southeast,1925,6999,499,Urban,29.207056,-81.020739,2
+201,The University of Memphis,Memphis ,Tennessee,Southeast,1912,24999,1499,Urban,35.143378,-90.052136,1
+202,"University of Maryland, Baltimore",Baltimore ,Maryland,Southeast,1807,7999,2999,Urban,39.290443,-76.612333,2
+203,University of Richmond,Richmond ,Virginia,Southeast,1830,4999,699,Urban,37.540759,-77.433932,1
+204,University of North Carolina at Greensboro,Greensboro ,North Carolina,Southeast,1891,24999,1499,Urban,36.072701,-79.793899,1
+205,"California State Polytechnic University, Pomona",Pomona ,California,West,1938,29999,1499,Suburban,34.055118,-117.750048,1
+206,University of Dayton,Dayton ,Ohio,Midwest,1850,14999,1499,Urban,39.760982,-84.192203,1
+207,Pace University,New York City ,New York,Northeast,1906,14999,499,Urban,40.713054,-74.007228,2
+208,University of North Carolina at Charlotte,Charlotte ,North Carolina,Southeast,1946,34999,1999,Urban,35.222936,-80.840161,1
+209,"California State University, Sacramento",Sacramento ,California,West,1947,39999,1999,Urban,38.582087,-121.50012,1
+210,"California State University, Chico",Chico ,California,West,1887,19999,999,Urban,39.728956,-121.838779,1
+211,Western Washington University,Bellingham ,Washington,West,1893,19999,999,Urban,48.754899,-122.478122,2
+212,Miami University,Oxford ,Ohio,Midwest,1809,24999,1499,Suburban,39.507394,-84.74566,2
+213,Kennesaw State University,Kennesaw ,Georgia,Southeast,1963,39999,3499,Suburban,34.025354,-84.618822,2
+214,Amherst College,Amherst ,Massachusetts,Northeast,1821,1999,299,Suburban,42.375805,-72.519871,2
+215,Grand Valley State University,Allendale ,Michigan,Midwest,1960,29999,1999,Suburban,42.974574,-85.954088,3
+216,Howard University,Washington ,District of Columbia,Northeast,1867,9999,1499,Urban,38.892062,-77.019912,2
+217,Baylor College of Medicine,Houston ,Texas,Southwest,1900,1999,3999,Urban,29.760803,-95.369506,1
+218,Calvin University,Grand Rapids ,Michigan,Midwest,1876,4999,299,Urban,42.965446,-85.670209,3
+219,Clark University,Worcester ,Massachusetts,Northeast,1887,3999,299,Urban,42.262073,-71.802278,2
+220,University of Massachusetts Lowell,Lowell ,Massachusetts,Northeast,1894,24999,1499,Suburban,42.645426,-71.3074,2
+221,Smith College,Northampton ,Massachusetts,Northeast,1871,3999,499,Suburban,42.31952,-72.629756,2
+222,Villanova University,Villanova ,Pennsylvania,Northeast,1842,14999,1499,Suburban,40.038043,-75.344449,2
+223,University of Colorado Denver,Denver ,Colorado,West,1912,34999,5000,Urban,39.738453,-104.984853,2
+224,Yeshiva University,New York City ,New York,Northeast,1886,6999,1499,Urban,40.713054,-74.007228,2
+225,University of Akron,Akron ,Ohio,Midwest,1870,24999,1499,Urban,41.084821,-81.515607,2
+226,Hofstra University,Hempstead ,New York,Northeast,1935,14999,1499,Suburban,40.7069,-73.620349,4
+227,Creighton University,Omaha ,Nebraska,Midwest,1878,14999,1499,Urban,41.258652,-95.937195,1
+228,The University of Texas at El Paso,El Paso ,Texas,Southwest,1914,29999,1499,Urban,31.76006,-106.492257,1
+229,The Catholic University of America,Washington ,District of Columbia,Northeast,1887,6999,699,Urban,38.892062,-77.019912,2
+230,University of San Diego,San Diego ,California,West,1949,9999,1499,Urban,32.71576,-117.163817,4
+231,University of Michigan-Dearborn,Dearborn ,Michigan,Midwest,1959,14999,599,Suburban,42.322141,-83.17594,4
+232,Mount Holyoke College,South Hadley ,Massachusetts,Northeast,1888,2999,299,Suburban,42.259426,-72.575368,2
+233,Middle Tennessee State University,Murfreesboro ,Tennessee,Southeast,1911,29999,1499,Urban,35.845963,-86.391449,2
+234,North Dakota State University,Fargo ,North Dakota,Midwest,1890,19999,799,Urban,46.87696,-96.784636,2
+235,Seton Hall University,South Orange ,New Jersey,Northeast,1856,14999,599,Suburban,40.745776,-74.258015,2
+236,Boise State University,Boise ,Idaho,West,1932,34999,1999,Urban,43.615791,-116.201579,1
+237,Illinois State University,Normal ,Illinois,Midwest,1857,24999,1499,Suburban,40.518091,-88.995074,2
+238,University of Northern Iowa,Cedar Falls ,Iowa,Midwest,1876,14999,799,Urban,42.537809,-92.4534,1
+239,Bryn Mawr College,Bryn Mawr ,Pennsylvania,Northeast,1885,1999,299,Suburban,40.022711,-75.320873,2
+240,United States Military Academy,West Point ,New York,Northeast,1802,4999,299,Suburban,41.401184,-73.97232,2
+241,Babson College,Babson Park ,Massachusetts,Northeast,1919,4999,299,Suburban,42.298599,-71.260002,2
+242,Bucknell University,Lewisburg ,Pennsylvania,Northeast,1846,3999,499,Rural,40.966311,-76.884932,2
+243,Wellesley College,Wellesley ,Massachusetts,Northeast,1870,2999,499,Suburban,42.296927,-71.291858,2
+244,Loyola Marymount University,Los Angeles ,California,West,1911,14999,1499,Urban,34.052238,-118.243344,2
+245,Vassar College,Poughkeepsie ,New York,Northeast,1861,2999,399,Suburban,41.699322,-73.921694,2
+246,University of Nebraska at Omaha,Omaha ,Nebraska,Midwest,1908,19999,1499,Urban,41.258652,-95.937195,1
+247,Wright State University,Dayton ,Ohio,Midwest,1964,19999,899,Suburban,39.760982,-84.192203,1
+248,Brigham Young University-Idaho,Rexburg ,Idaho,West,1888,45000,1499,Rural,43.826071,-111.789532,1
+249,Cleveland State University,Cleveland ,Ohio,Midwest,1964,19999,1499,Urban,41.505546,-81.6915,2
+250,Savannah College of Art and Design,Savannah ,Georgia,Southeast,1978,19999,699,Urban,32.08059,-81.090103,1
+251,Colby College,Waterville ,Maine,Northeast,1813,2999,299,Rural,44.552839,-69.631309,1
+252,University of Toledo,Toledo ,Ohio,Midwest,1872,24999,1999,Urban,41.655298,-83.535717,2
+253,East Carolina University,Greenville ,North Carolina,Southeast,1907,34999,2499,Rural,35.611332,-77.3741,1
+254,Montclair State University,Montclair ,New Jersey,Northeast,1908,24999,1999,Suburban,40.822167,-74.212664,2
+255,Monmouth University,West Long Branch ,New Jersey,Northeast,1933,6999,399,Suburban,40.285867,-74.017419,2
+256,Thomas Jefferson University,Philadelphia ,Pennsylvania,Northeast,1824,8999,2999,Urban,39.951061,-75.16562,2
+257,Central Michigan University,Mount Pleasant ,Michigan,Midwest,1892,29999,1499,Rural,43.598106,-84.767574,4
+258,Marist College,Poughkeepsie ,New York,Northeast,1929,7999,699,Suburban,41.699322,-73.921694,2
+259,Humboldt State University,Arcata ,California,West,1913,9999,599,Rural,40.868186,-124.090548,1
+260,Texas Christian University,Fort Worth ,Texas,Southwest,1873,14999,799,Urban,32.739977,-97.340038,2
+261,Rasmussen College,St. Cloud ,Minnesota,Midwest,1900,9999,399,Urban,45.569048,-94.115542,2
+262,Grand Canyon University,Phoenix ,Arizona,Southwest,1949,45000,5000,Urban,33.448204,-112.072585,4
+263,Western Kentucky University,Bowling Green ,Kentucky,Southeast,1906,24999,1499,Urban,37.002405,-86.443486,1
+264,Elon University,Elon ,North Carolina,Southeast,1889,7999,699,Suburban,36.10294,-79.506717,1
+265,University of Missouri-St. Louis,St. Louis ,Missouri,Midwest,1963,24999,899,Urban,38.630276,-90.200309,1
+266,University of North Florida,Jacksonville ,Florida,Southeast,1969,19999,699,Urban,30.325968,-81.65676,2
+267,The University of Alabama in Huntsville,Huntsville ,Alabama,Southeast,1969,14999,599,Urban,34.729538,-86.585283,1
+268,Ithaca College,Ithaca ,New York,Northeast,1892,7999,799,Suburban,42.422372,-76.461572,2
+269,"Lehman College, CUNY",The Bronx ,New York,Northeast,1968,19999,1499,Urban,40.826153,-73.920265,2
+270,Medical University of South Carolina,Charleston ,South Carolina,Southeast,1824,3999,1499,Urban,32.77647,-79.931027,1
+271,"California State University, San Bernardino",San Bernardino ,California,West,1960,24999,999,Urban,34.108323,-117.29415,1
+272,Oakland University,Rochester ,Michigan,Midwest,1957,24999,1499,Suburban,42.682057,-83.133822,3
+273,Missouri State University,Springfield ,Missouri,Midwest,1905,29999,1499,Urban,37.215521,-93.292361,2
+274,Harvey Mudd College,Claremont ,California,West,1955,999,199,Suburban,34.096606,-117.719315,1
+275,Southern Illinois University Edwardsville,Edwardsville ,Illinois,Midwest,1957,19999,999,Suburban,38.811309,-89.955724,1
+276,Loma Linda University,Loma Linda ,California,West,1905,5999,599,Suburban,34.048261,-117.261123,1
+277,University of Southern Mississippi,Hattiesburg ,Mississippi,Southeast,1910,19999,799,Urban,31.326447,-89.289635,1
+278,Ball State University,Muncie ,Indiana,Midwest,1918,29999,1499,Urban,40.193655,-85.386524,2
+279,Sonoma State University,Rohnert Park ,California,West,1960,14999,599,Suburban,38.345984,-122.709959,1
+280,Wichita State University,Wichita ,Kansas,Midwest,1895,19999,599,Urban,37.686024,-97.335571,2
+281,Oberlin College,Oberlin ,Ohio,Midwest,1833,2999,399,Suburban,41.28887,-82.217507,2
+282,College of Charleston,Charleston ,South Carolina,Southeast,1770,14999,999,Urban,32.77647,-79.931027,1
+283,Missouri University of Science and Technology,Rolla ,Missouri,Midwest,1870,9999,599,Rural,37.951497,-91.772551,2
+284,Towson University,Towson ,Maryland,Southeast,1866,29999,1999,Suburban,39.401814,-76.602736,2
+285,Eastern Michigan University,Ypsilanti ,Michigan,Midwest,1849,24999,799,Urban,42.239806,-83.614543,2
+286,Bowdoin College,Brunswick ,Maine,Northeast,1794,1999,299,Suburban,43.916679,-69.96599,2
+287,Suffolk University,Boston ,Massachusetts,Northeast,1906,8999,699,Urban,42.358894,-71.056742,2
+288,University of St. Thomas,Saint Paul ,Minnesota,Midwest,1885,14999,899,Urban,44.943719,-93.094281,1
+289,University of Texas Southwestern Medical Center,Dallas ,Texas,Southwest,1943,2999,2499,Urban,32.777977,-96.796215,1
+290,University of Massachusetts Medical School,Worcester ,Massachusetts,Northeast,1962,1999,1499,Urban,42.262073,-71.802278,2
+291,Kenyon College,Gambier ,Ohio,Midwest,1824,1999,299,Rural,40.375935,-82.395205,1
+292,Marshall University,Huntington ,West Virginia,Southeast,1837,19999,1499,Urban,38.419051,-82.445205,2
+293,Rhode Island School of Design,Providence ,Rhode Island,Northeast,1877,2999,499,Urban,41.824461,-71.412747,2
+294,Idaho State University,Pocatello ,Idaho,West,1901,19999,699,Urban,42.866617,-112.443496,1
+295,Eastern Kentucky University,Richmond ,Kentucky,Southeast,1906,19999,1499,Rural,37.747764,-84.29509,2
+296,Florida Institute of Technology,Melbourne ,Florida,Southeast,1958,7999,399,Urban,28.079931,-80.603516,2
+297,Ferris State University,Big Rapids ,Michigan,Midwest,1884,19999,799,Rural,43.702205,-85.48398,2
+298,"California State University, Fresno",Fresno ,California,West,1911,29999,1499,Urban,36.731654,-119.785856,1
+299,"University of California, Merced",Merced ,California,West,2005,9999,499,Suburban,37.306968,-120.481971,1
+300,Lamar University,Beaumont ,Texas,Southwest,1923,19999,699,Urban,30.08617,-94.102012,1
+301,Sam Houston State University,Huntsville ,Texas,Southwest,1879,24999,1499,Rural,30.720391,-95.551435,1
+302,University of North Carolina Wilmington,Wilmington ,North Carolina,Southeast,1947,19999,1499,Urban,34.2367,-77.946197,1
+303,Earlham College,Richmond ,Indiana,Midwest,1847,1999,199,Rural,39.827286,-84.890357,2
+304,The University of Texas Health Science Center at San Antonio,San Antonio ,Texas,Southwest,1959,3999,1999,Urban,29.425173,-98.494599,1
+305,University of Baltimore,Baltimore ,Maryland,Southeast,1925,6999,499,Urban,39.290443,-76.612333,2
+306,Fashion Institute of Technology,New York City ,New York,Northeast,1944,14999,299,Urban,40.713054,-74.007228,2
+307,East Tennessee State University,Johnson City ,Tennessee,Southeast,1911,19999,1499,Urban,36.320614,-82.342538,2
+308,Pomona College,Claremont ,California,West,1887,1999,299,Suburban,34.096606,-117.719315,1
+309,Gallaudet University,Washington ,District of Columbia,Northeast,1864,1999,199,Urban,38.892062,-77.019912,2
+310,Duquesne University,Pittsburgh ,Pennsylvania,Northeast,1878,14999,999,Urban,40.442169,-79.994945,2
+311,University of Wisconsin-Eau Claire,Eau Claire ,Wisconsin,Midwest,1916,14999,599,Urban,44.812135,-91.49917,1
+312,The Evergreen State College,Olympia ,Washington,West,1967,4999,299,Suburban,47.035534,-122.900827,1
+313,Seattle University,Seattle ,Washington,West,1891,8999,799,Urban,47.603229,-122.33028,2
+314,University of Colorado Colorado Springs,Colorado Springs ,Colorado,West,1965,19999,899,Urban,38.835224,-104.819798,2
+315,Bentley University,Waltham ,Massachusetts,Northeast,1917,5999,499,Suburban,42.376228,-71.237058,2
+316,Washington and Lee University,Lexington ,Virginia,Southeast,1749,2999,399,Rural,37.780936,-79.446556,2
+317,Weber State University,Ogden ,Utah,West,1889,39999,599,Urban,41.222761,-111.970419,1
+318,Rowan University,Glassboro ,New Jersey,Northeast,1923,24999,2499,Suburban,39.702773,-75.111957,2
+319,"Minnesota State University, Mankato",Mankato ,Minnesota,Midwest,1868,19999,899,Urban,44.166117,-94.005587,1
+320,Dickinson College,Carlisle ,Pennsylvania,Northeast,1773,2999,299,Urban,40.201476,-77.189095,2
+321,Biola University,La Mirada ,California,West,1908,6999,299,Suburban,33.908859,-118.011725,5
+322,Western Illinois University,Macomb ,Illinois,Midwest,1899,14999,599,Rural,40.459931,-90.671696,2
+323,Valencia College,Orlando ,Florida,Southeast,1967,45000,2499,Urban,28.538331,-81.378879,2
+324,University of Wisconsin-Stevens Point,Stevens Point ,Wisconsin,Midwest,1894,9999,499,Rural,44.523544,-89.569496,1
+325,Davidson College,Davidson ,North Carolina,Southeast,1837,1999,299,Suburban,35.49925,-80.848485,2
+326,Reed College,Portland ,Oregon,West,1908,1999,199,Urban,45.516018,-122.681425,1
+327,The University of Texas Health Science Center at Houston,Houston ,Texas,Southwest,1972,6999,2499,Urban,29.760803,-95.369506,1
+328,Webster University,St. Louis ,Missouri,Midwest,1915,19999,199,Suburban,38.630276,-90.200309,1
+329,Georgia Southern University,Statesboro ,Georgia,Southeast,1906,34999,1999,Rural,32.44877,-81.777753,2
+330,Hanover College,Hanover ,Indiana,Midwest,1827,1999,99,Rural,38.716008,-85.473757,2
+331,School of Visual Arts,New York City ,New York,Northeast,1947,4999,1499,Urban,40.713054,-74.007228,2
+332,Barnard College,New York City ,New York,Northeast,1889,2999,399,Urban,40.713054,-74.007228,2
+333,University of Illinois at Springfield,Springfield ,Illinois,Midwest,1969,5999,399,Urban,39.79936,-89.643624,2
+334,The Rockefeller University,New York City ,New York,Northeast,1901,250,99,Urban,40.713054,-74.007228,2
+335,University of South Dakota,Vermillion ,South Dakota,Midwest,1862,14999,699,Rural,42.787576,-96.926779,2
+336,The University of Tulsa,Tulsa ,Oklahoma,Southwest,1894,4999,499,Urban,36.155327,-95.992083,2
+337,"California State University, Los Angeles",Los Angeles ,California,West,1947,34999,1999,Urban,34.052238,-118.243344,2
+338,The University of Texas Medical Branch at Galveston,Galveston ,Texas,Southwest,1891,4999,799,Suburban,29.300128,-94.795846,2
+339,University of Massachusetts Dartmouth,North Dartmouth ,Massachusetts,Northeast,1895,9999,699,Suburban,41.638901,-70.970802,2
+340,Central Connecticut State University,New Britain ,Connecticut,Northeast,1849,14999,1499,Suburban,41.667528,-72.783437,2
+341,Simmons University,Boston ,Massachusetts,Northeast,1899,8999,1999,Urban,42.358894,-71.056742,2
+342,DeVry University,Chicago ,Illinois,Midwest,1931,29999,1499,Urban,41.883229,-87.632398,2
+343,Lock Haven University,Lock Haven ,Pennsylvania,Northeast,1870,4999,299,Suburban,41.133509,-77.456293,2
+344,Stetson University,DeLand ,Florida,Southeast,1883,4999,499,Suburban,29.028093,-81.29927,2
+345,Trinity College,Hartford ,Connecticut,Northeast,1823,2999,399,Urban,41.765775,-72.673356,2
+346,Bates College,Lewiston ,Maine,Northeast,1855,1999,299,Urban,44.100658,-70.214978,2
+347,Fairleigh Dickinson University,Teaneck ,New Jersey,Northeast,1942,9999,699,Suburban,40.88482,-74.006556,2
+348,College of the Holy Cross,Worcester ,Massachusetts,Northeast,1843,2999,399,Urban,42.262073,-71.802278,2
+349,Radford University,Radford ,Virginia,Southeast,1910,14999,699,Urban,37.14008,-80.562315,1
+350,Miami Dade College,Miami ,Florida,Southeast,1960,45000,3999,Urban,25.775084,-80.194702,2
+351,University of Nebraska Medical Center,Omaha ,Nebraska,Midwest,1869,4999,1999,Urban,41.258652,-95.937195,1
+352,Hobart and William Smith Colleges,Geneva ,New York,Northeast,1822,2999,299,Suburban,42.867972,-76.985573,2
+353,United States Naval Academy,Annapolis ,Maryland,Southeast,1845,4999,399,Suburban,38.97829,-76.495683,2
+354,University of Texas Rio Grande Valley,Edinburg ,Texas,Southwest,2013,34999,1499,Urban,26.299359,-98.162704,2
+355,Colgate University,Hamilton ,New York,Northeast,1819,3999,499,Rural,42.826892,-75.544286,2
+356,Northern Michigan University,Marquette ,Michigan,Midwest,1899,9999,499,Rural,46.54391,-87.397554,2
+357,California State University San Marcos,San Marcos ,California,West,1989,19999,899,Suburban,33.141383,-117.160845,2
+358,New Mexico Institute of Mining and Technology,Socorro ,New Mexico,Southwest,1889,2999,299,Rural,34.048456,-106.893444,2
+359,Clarkson University,Potsdam ,New York,Northeast,1896,4999,399,Suburban,44.668662,-74.984933,2
+360,St. John's University,Queens ,New York,Northeast,1870,24999,1999,Urban,40.759776,-73.817302,2
+361,Wheaton College,Wheaton ,Illinois,Midwest,1860,3999,399,Suburban,41.866128,-88.106633,2
+362,Eastern Illinois University,Charleston ,Illinois,Midwest,1895,8999,599,Rural,39.494272,-88.177555,2
+363,Furman University,Greenville ,South Carolina,Southeast,1826,3999,399,Suburban,34.850746,-82.398964,2
+364,Indiana University of Pennsylvania,Indiana ,Pennsylvania,Northeast,1875,14999,999,Rural,40.622982,-79.156034,2
+365,Maharishi International University,Fairfield ,Iowa,Midwest,1971,2999,199,Rural,41.006634,-91.965049,2
+366,Pratt Institute,Brooklyn ,New York,Northeast,1887,5999,1499,Urban,40.692529,-73.990996,2
+367,Macalester College,Saint Paul ,Minnesota,Midwest,1874,2999,299,Urban,44.943719,-93.094281,1
+368,Utah Valley University,Orem ,Utah,West,1941,45000,1999,Urban,40.295836,-111.694436,2
+369,Gonzaga University,Spokane ,Washington,West,1887,8999,899,Urban,47.658999,-117.425022,1
+370,Florida Gulf Coast University,Fort Myers ,Florida,Southeast,1991,19999,899,Suburban,26.614149,-81.825769,2
+371,University of Arkansas at Little Rock,Little Rock ,Arkansas,Southeast,1927,14999,499,Urban,34.748745,-92.275105,1
+372,Eastern Washington University,Cheney ,Washington,West,1882,19999,699,Suburban,47.495512,-117.575534,1
+373,Maryville University,St. Louis ,Missouri,Midwest,1872,14999,899,Suburban,38.630276,-90.200309,1
+374,"California State University, Dominguez Hills",Carson ,California,West,1960,19999,999,Urban,33.83159,-118.263583,5
+375,University of the Pacific,Stockton ,California,West,1851,6999,999,Urban,37.957541,-121.292451,2
+376,Medical College of Wisconsin,Milwaukee ,Wisconsin,Midwest,1893,1999,2499,Suburban,43.041072,-87.909421,3
+377,University of Wisconsin-Green Bay,Green Bay ,Wisconsin,Midwest,1965,8999,399,Urban,44.513288,-88.013256,1
+378,St. Olaf College,Northfield ,Minnesota,Midwest,1874,3999,399,Suburban,44.475627,-93.193244,1
+379,Stevens Institute of Technology,Hoboken ,New Jersey,Northeast,1870,8999,399,Suburban,40.743464,-74.029065,2
+380,College of Saint Benedict/Saint John's University,St. Joseph ,Minnesota,Midwest,1913,2999,399,Suburban,45.56477,-94.317889,2
+381,ArtCenter College of Design,Pasadena ,California,West,1930,2999,499,Suburban,34.14955,-118.141452,2
+382,Colorado School of Mines,Golden ,Colorado,West,1873,6999,499,Suburban,39.749672,-105.216019,2
+383,The Culinary Institute of America,Hyde Park ,New York,Northeast,1946,4999,199,Suburban,41.791474,-73.936283,2
+384,Indiana State University,Terre Haute ,Indiana,Midwest,1865,19999,799,Urban,39.466479,-87.414045,2
+385,West Chester University of Pennsylvania,West Chester ,Pennsylvania,Northeast,1871,19999,1499,Suburban,39.960481,-75.605214,2
+386,Gettysburg College,Gettysburg ,Pennsylvania,Northeast,1832,2999,399,Urban,39.830906,-77.233328,2
+387,Georgetown College,Georgetown ,Kentucky,Southeast,1789,2999,199,Suburban,38.209947,-84.559769,2
+388,Western Carolina University,Cullowhee ,North Carolina,Southeast,1889,14999,899,Rural,35.307393,-83.188036,2
+389,State University of New York at Oswego,Oswego ,New York,Northeast,1861,14999,599,Suburban,43.457605,-76.507694,2
+390,Emerson College,Boston ,Massachusetts,Northeast,1880,4999,499,Urban,42.358894,-71.056742,2
+391,Hillsdale College,Hillsdale ,Michigan,Midwest,1844,1999,199,Rural,41.919964,-84.630676,2
+392,Haverford College,Haverford ,Pennsylvania,Northeast,1833,1999,199,Suburban,40.007272,-75.317628,2
+393,Hamilton College,Clinton ,New York,Northeast,1812,2999,299,Suburban,43.0486,-75.377987,2
+394,University of Wisconsin-Oshkosh,Oshkosh ,Wisconsin,Midwest,1871,19999,799,Urban,44.020796,-88.540014,1
+395,Skidmore College,Saratoga Springs ,New York,Northeast,1911,2999,399,Suburban,43.083233,-73.78477,2
+396,Augusta University,Augusta ,Georgia,Southeast,2013,9999,1999,Urban,33.472494,-81.964397,2
+397,DePauw University,Greencastle ,Indiana,Midwest,1837,2999,299,Rural,39.644033,-86.864449,2
+398,"California State University, Stanislaus",Turlock ,California,West,1960,14999,699,Suburban,37.492749,-120.848984,3
+399,Northern Kentucky University,Highland Heights ,Kentucky,Southeast,1968,19999,699,Suburban,39.033722,-84.453259,2
+400,University of Hawaii-West Oahu,Kapolei ,Hawaii,Northeast,1976,4999,299,Suburban,21.334722,-158.080833,1
+401,Central Washington University,Ellensburg ,Washington,West,1891,19999,799,Rural,46.999606,-120.548818,1
+402,Texas A&M University-Corpus Christi,Corpus Christi ,Texas,Southwest,1947,14999,699,Urban,27.796416,-97.404131,2
+403,Drew University,Madison ,New Jersey,Northeast,1928,2999,299,Suburban,40.758748,-74.414988,2
+404,Grinnell College,Grinnell ,Iowa,Midwest,1846,1999,299,Rural,41.743267,-92.727362,2
+405,SUNY College of Environmental Science and Forestry,Syracuse ,New York,Northeast,1911,2999,199,Urban,43.047945,-76.147448,2
+406,North Carolina Agricultural and Technical State University,Greensboro ,North Carolina,Southeast,1891,14999,899,Urban,36.072701,-79.793899,1
+407,Rider University,Lawrenceville ,New Jersey,Northeast,1865,5999,599,Suburban,40.283199,-74.731772,2
+408,Drake University,Des Moines ,Iowa,Midwest,1881,5999,599,Urban,41.588822,-93.620309,2
+409,The Juilliard School,New York City ,New York,Northeast,1905,999,399,Urban,40.713054,-74.007228,2
+410,Loyola University New Orleans,New Orleans ,Louisiana,Southeast,1912,4999,499,Suburban,29.950621,-90.074948,1
+411,University of Northern Colorado,Greeley ,Colorado,West,1889,19999,899,Urban,40.422554,-104.694445,2
+412,Colorado College,Colorado Springs ,Colorado,West,1874,2999,299,Urban,38.835224,-104.819798,2
+413,Fairfield University,Fairfield ,Connecticut,Northeast,1942,5999,399,Suburban,41.143322,-73.249812,2
+414,Loyola University Maryland,Baltimore ,Maryland,Southeast,1852,6999,399,Urban,39.290443,-76.612333,2
+415,St. Cloud State University,St. Cloud ,Minnesota,Midwest,1869,19999,799,Urban,45.569048,-94.115542,2
+416,Union College,Schenectady ,New York,Northeast,1795,2999,299,Urban,42.814219,-73.944103,2
+417,Lafayette College,Easton ,Pennsylvania,Northeast,1826,2999,399,Suburban,40.689353,-75.216698,2
+418,Connecticut College,New London ,Connecticut,Northeast,1911,1999,299,Urban,41.355167,-72.099561,2
+419,University of Wisconsin-La Crosse,La Crosse ,Wisconsin,Midwest,1909,14999,599,Urban,43.808767,-91.25186,1
+420,Lewis & Clark College,Portland ,Oregon,West,1867,3999,499,Urban,45.516018,-122.681425,1
+421,Bradley University,Peoria ,Illinois,Midwest,1897,6999,599,Suburban,40.694592,-89.590362,2
+422,"California State University, East Bay",Hayward ,California,West,1957,19999,899,Urban,37.672111,-122.083963,2
+423,Tennessee Tech University,Cookeville ,Tennessee,Southeast,1915,14999,499,Suburban,36.156589,-85.501014,2
+424,Strayer University,Washington ,District of Columbia,Northeast,1892,1999,50,Urban,38.892062,-77.019912,2
+425,Hope College,Holland ,Michigan,Midwest,1866,3999,499,Suburban,42.751561,-86.096297,2
+426,Shippensburg University of Pennsylvania,Shippensburg ,Pennsylvania,Northeast,1871,7999,499,Suburban,40.050604,-77.520602,2
+427,University of Evansville,Evansville ,Indiana,Midwest,1854,3999,199,Urban,37.975708,-87.569907,2
+428,Hult International Business School,Cambridge ,Massachusetts,Northeast,2003,3999,199,Urban,42.365248,-71.105015,2
+429,Butler University,Indianapolis ,Indiana,Midwest,1855,5999,399,Urban,39.76845,-86.156212,2
+430,Arkansas State University,Jonesboro ,Arkansas,Southeast,1909,19999,699,Urban,35.838393,-90.710505,2
+431,Broward College,Fort Lauderdale ,Florida,Southeast,1959,45000,1999,Urban,26.124163,-80.143586,2
+432,Naval Postgraduate School,Monterey ,California,West,1909,3999,699,Suburban,36.596808,-121.897127,2
+433,Occidental College,Los Angeles ,California,West,1887,2999,299,Urban,34.052238,-118.243344,3
+434,Long Island University,Brooklyn ,New York,Northeast,1926,19999,1499,Suburban,40.692529,-73.990996,2
+435,Willamette University,Salem ,Oregon,West,1842,2999,299,Urban,44.939016,-123.039307,1
+436,Saint Joseph's University,Philadelphia ,Pennsylvania,Northeast,1851,9999,299,Urban,39.951061,-75.16562,2
+437,The University of Tennessee at Chattanooga,Chattanooga ,Tennessee,Southeast,1886,14999,799,Urban,35.045756,-85.308287,2
+438,Azusa Pacific University,Azusa ,California,West,1899,14999,1499,Suburban,34.133484,-117.907543,1
+439,The College of New Jersey,Ewing ,New Jersey,Northeast,1855,8999,899,Suburban,40.2659,-74.819239,2
+440,The Cooper Union for the Advancement of Science and Art,New York City ,New York,Northeast,1859,999,399,Urban,40.713054,-74.007228,2
+441,Stephen F. Austin State University,Nacogdoches ,Texas,Southwest,1923,14999,799,Rural,31.603869,-94.656017,1
+442,Rhode Island College,Providence ,Rhode Island,Northeast,1854,9999,399,Suburban,41.824461,-71.412747,2
+443,Johnson and Wales University,Providence ,Rhode Island,Northeast,1914,9999,299,Urban,41.824461,-71.412747,2
+444,Hampshire College,Amherst ,Massachusetts,Northeast,1965,1999,199,Suburban,42.375805,-72.519871,2
+445,Adelphi University,Garden City ,New York,Northeast,1896,9999,1499,Suburban,40.728121,-73.63508,4
+446,South Dakota State University,Brookings ,South Dakota,Midwest,1881,19999,799,Rural,44.307945,-96.798558,2
+447,Widener University,Chester ,Pennsylvania,Northeast,1862,7999,799,Suburban,39.85268,-75.360689,2
+448,Regent University,Virginia Beach ,Virginia,Southeast,1978,14999,199,Suburban,36.845117,-75.975518,2
+449,Trinity University,San Antonio ,Texas,Southwest,1869,2999,399,Urban,29.425173,-98.494599,1
+450,University of Louisiana at Lafayette,Lafayette ,Louisiana,Southeast,1898,19999,999,Urban,30.22126,-92.018773,2
+451,Mercer University,Macon ,Georgia,Southeast,1833,9999,699,Urban,32.836038,-83.631709,2
+452,SUNY Cortland,Cortland ,New York,Northeast,1868,7999,599,Rural,42.601213,-76.180483,2
+453,Valparaiso University,Valparaíso ,Indiana,Midwest,1859,4999,499,Suburban,41.478143,-87.055372,2
+454,Whitman College,Walla Walla ,Washington,West,1859,1999,299,Urban,46.065552,-118.333644,1
+455,University of West Florida,Pensacola ,Florida,Southeast,1963,19999,399,Urban,30.406931,-87.217578,2
+456,University of Wisconsin-Whitewater,Whitewater ,Wisconsin,Midwest,1868,14999,799,Rural,42.850353,-88.72881,2
+457,University of New Orleans,New Orleans ,Louisiana,Southeast,1956,9999,599,Urban,29.950621,-90.074948,1
+458,University of Central Arkansas,Conway ,Arkansas,Southeast,1907,14999,799,Urban,35.091798,-92.4367,1
+459,Stockton University,Galloway ,New Jersey,Northeast,1969,14999,799,Suburban,39.428299,-74.5047,2
+460,Rose-Hulman Institute of Technology,Terre Haute ,Indiana,Midwest,1874,2999,299,Urban,39.466479,-87.414045,2
+461,Pitzer College,Claremont ,California,West,1963,1999,199,Suburban,34.096606,-117.719315,1
+462,"University of California, Hastings College of the Law",San Francisco ,California,West,1878,1999,99,Urban,37.78008,-122.420168,2
+463,Andrews University,Berrien Springs ,Michigan,Midwest,1874,4999,299,Suburban,41.946404,-86.338655,2
+464,Seattle Pacific University,Seattle ,Washington,West,1891,4999,499,Urban,47.603229,-122.33028,2
+465,Pacific University,Forest Grove ,Oregon,West,1849,4999,599,Suburban,45.518392,-123.11119,1
+466,Belmont University,Nashville ,Tennessee,Southeast,1890,8999,999,Urban,36.166687,-86.779932,2
+467,Academy of Art University,San Francisco ,California,West,1929,14999,1499,Urban,37.78008,-122.420168,2
+468,Plymouth State University,Plymouth ,New Hampshire,Northeast,1871,5999,499,Rural,43.757025,-71.687818,2
+469,University of West Georgia,Carrollton ,Georgia,Southeast,1906,19999,799,Suburban,33.580312,-85.077583,2
+470,Xavier University,Cincinnati ,Ohio,Midwest,1831,7999,899,Urban,39.104427,-84.513808,1
+471,State University of New York at New Paltz,New Paltz ,New York,Northeast,1828,9999,699,Suburban,41.74753,-74.086891,2
+472,Franklin and Marshall College,Lancaster ,Pennsylvania,Northeast,1787,2999,399,Urban,40.039401,-76.307078,2
+473,Columbia College Chicago,Chicago ,Illinois,Midwest,1890,7999,999,Urban,41.883229,-87.632398,2
+474,Bridgewater State University,Bridgewater ,Massachusetts,Northeast,1840,14999,399,Suburban,41.990196,-70.975402,2
+475,Abilene Christian University,Abilene ,Texas,Southwest,1906,5999,399,Urban,32.453562,-99.732654,2
+476,Purdue University Fort Wayne,Fort Wayne ,Indiana,Midwest,2018,14999,399,Suburban,41.077474,-85.137495,2
+477,Truman State University,Kirksville ,Missouri,Midwest,1867,6999,399,Rural,40.194722,-92.582052,2
+478,Antioch University,Yellow Springs ,Ohio,Midwest,1852,250,N/A,Suburban,39.799009,-83.893555,2
+479,University of Mary Washington,Fredericksburg ,Virginia,Southeast,1908,5999,399,Suburban,38.303297,-77.460658,2
+480,West Texas A&M University,Canyon ,Texas,Southwest,1910,14999,499,Suburban,34.979872,-101.927566,2
+481,Tennessee State University,Nashville ,Tennessee,Southeast,1912,14999,499,Urban,36.166687,-86.779932,2
+482,Claremont Graduate University,Claremont ,California,West,1925,2999,199,Suburban,34.096606,-117.719315,1
+483,Morgan State University,Baltimore ,Maryland,Southeast,1867,8999,799,Urban,39.290443,-76.612333,2
+484,National University,La Jolla ,California,West,1971,29999,1499,Urban,32.847198,-117.2733,2
+485,Champlain College,Burlington ,Vermont,Northeast,1878,6999,199,Urban,44.475949,-73.212481,1
+486,Youngstown State University,Youngstown ,Ohio,Midwest,1908,14999,499,Urban,41.100083,-80.649387,2
+487,Cedarville University,Cedarville ,Ohio,Midwest,1887,4999,399,Suburban,39.74494,-83.808139,2
+488,Samford University,Birmingham ,Alabama,Southeast,1841,5999,399,Suburban,33.522859,-86.807705,1
+489,University of Scranton,Scranton ,Pennsylvania,Northeast,1888,6999,499,Urban,41.409113,-75.662346,2
+490,Norwich University,Northfield ,Vermont,Northeast,1819,4999,499,Rural,44.150647,-72.655705,2
+491,University of Southern Indiana,Evansville ,Indiana,Midwest,1965,14999,399,Suburban,37.975708,-87.569907,2
+492,Rollins College,Winter Park ,Florida,Southeast,1885,3999,299,Suburban,28.600246,-81.33882,2
+493,Pacific Lutheran University,Tacoma ,Washington,West,1890,3999,399,Suburban,47.25308,-122.44153,2
+494,Frostburg State University,Frostburg ,Maryland,Southeast,1898,6999,399,Suburban,39.651439,-78.923162,2
+495,Delaware State University,Dover ,Delaware,Southeast,1891,4999,399,Urban,39.161912,-75.524704,2
+496,Louisiana Tech University,Ruston ,Louisiana,Southeast,1894,14999,499,Rural,32.532435,-92.639039,1
+497,The University of Tampa,Tampa ,Florida,Southeast,1931,14999,399,Urban,27.947423,-82.458776,2
+498,Metropolitan State University of Denver,Denver ,Colorado,West,1965,24999,599,Urban,39.738453,-104.984853,2
+499,Texas Woman's University,Denton ,Texas,Southwest,1901,19999,499,Urban,33.215533,-97.13245,2
+500,University of Arkansas for Medical Sciences,Little Rock ,Arkansas,Southeast,1879,3999,1499,Urban,34.748745,-92.275105,1
+501,National Defense University,Fort Lesley J McNair ,District of Columbia,Northeast,1976,N/A,N/A,N/A,38.86349,-77.01562,2
+502,Gustavus Adolphus College,St. Peter ,Minnesota,Midwest,1862,2999,299,Suburban,44.323871,-93.959297,1
+503,Sweet Briar College,Sweet Briar ,Virginia,Southeast,1901,499,99,Suburban,37.55278,-79.066673,2
+504,Agnes Scott College,Decatur ,Georgia,Southeast,1889,999,199,Suburban,33.773556,-84.296562,2
+505,Troy University,Troy ,Alabama,Southeast,1887,24999,1499,Rural,31.81016,-85.972215,2
+506,Siena College,Loudonville ,New York,Northeast,1937,3999,399,Suburban,42.7047,-73.755302,2
+507,Fort Hays State University,Hays ,Kansas,Midwest,1902,19999,799,Rural,38.87821,-99.317831,2
+508,Valdosta State University,Valdosta ,Georgia,Southeast,1906,14999,699,Urban,30.830747,-83.278796,2
+509,SUNY Geneseo,Geneseo ,New York,Northeast,1871,6999,399,Rural,42.800062,-77.815838,2
+510,Florida Agricultural and Mechanical University,Tallahassee ,Florida,Southeast,1887,14999,699,Urban,30.440741,-84.278328,2
+511,University of New England,Biddeford ,Maine,Northeast,1831,14999,699,Suburban,43.482944,-70.471358,2
+512,California Institute of the Arts,Valencia ,California,West,1961,1999,299,Suburban,34.389444,-118.564722,2
+513,Touro College,New York City ,New York,Northeast,1971,19999,1499,Urban,40.713054,-74.007228,2
+514,Seton Hill University,Greensburg ,Pennsylvania,Northeast,1885,3999,199,Suburban,40.310785,-79.547152,2
+515,Elmhurst University,Elmhurst ,Illinois,Midwest,1871,3999,399,Suburban,41.902162,-87.939953,2
+516,Emporia State University,Emporia ,Kansas,Midwest,1863,6999,299,Rural,38.412238,-96.200172,2
+517,University of Hartford,West Hartford ,Connecticut,Northeast,1957,8999,999,Urban,41.762008,-72.741807,2
+518,School of the Art Institute of Chicago,Chicago ,Illinois,Midwest,1866,3999,799,Urban,41.883229,-87.632398,2
+519,University of Wisconsin-Stout,Menomonie ,Wisconsin,Midwest,1891,14999,499,Rural,44.876467,-91.929799,1
+520,Kean University,Union ,New Jersey,Northeast,1855,19999,1499,Suburban,40.696436,-74.269889,2
+521,Illinois Wesleyan University,Bloomington ,Illinois,Midwest,1850,1999,299,Urban,40.477092,-88.993221,2
+522,"California State University, Monterey Bay",Seaside ,California,West,1994,8999,499,Suburban,36.604439,-121.854625,2
+523,Wabash College,Crawfordsville ,Indiana,Midwest,1832,999,99,Suburban,40.042859,-86.903342,2
+524,Lawrence University,Appleton ,Wisconsin,Midwest,1847,1999,299,Urban,44.261982,-88.40724,1
+525,Morehouse College,Atlanta ,Georgia,Southeast,1867,2999,199,Urban,33.748547,-84.391502,2
+526,Lesley University,Cambridge ,Massachusetts,Northeast,1909,6999,699,Urban,42.365248,-71.105015,2
+527,Hamline University,Saint Paul ,Minnesota,Midwest,1854,5999,399,Urban,44.943719,-93.094281,1
+528,St. Catherine University,Saint Paul ,Minnesota,Midwest,1905,5999,499,Urban,44.943719,-93.094281,1
+529,Louisiana State University Health Sciences Center,New Orleans ,Louisiana,Southeast,1931,3999,1499,Urban,29.950621,-90.074948,1
+530,Claremont McKenna College,Claremont ,California,West,1946,1999,199,Suburban,34.096606,-117.719315,1
+531,Rhodes College,Memphis ,Tennessee,Southeast,1848,2999,299,Urban,35.143378,-90.052136,1
+532,Texas Tech University Health Sciences Center,Lubbock ,Texas,Southwest,1969,6999,899,Urban,33.583578,-101.855113,2
+533,Western Oregon University,Monmouth ,Oregon,West,1856,6999,399,Suburban,44.848552,-123.23732,1
+534,Spelman College,Atlanta ,Georgia,Southeast,1881,2999,299,Urban,33.748547,-84.391502,2
+535,Sewanee: The University of the South,Sewanee ,Tennessee,Southeast,1857,1999,299,Rural,35.194813,-85.917464,2
+536,Icahn School of Medicine at Mount Sinai,New York City ,New York,Northeast,1963,1999,4499,Urban,40.713054,-74.007228,2
+537,Coastal Carolina University,Conway ,South Carolina,Southeast,1954,14999,599,Urban,33.837943,-79.059913,2
+538,Muhlenberg College,Allentown ,Pennsylvania,Northeast,1848,2999,399,Urban,40.602753,-75.469759,2
+539,Berea College,Berea ,Kentucky,Southeast,1855,1999,199,Rural,37.568457,-84.296789,2
+540,Maryland Institute College of Art,Baltimore ,Maryland,Southeast,1826,2999,199,Urban,39.290443,-76.612333,2
+541,William Paterson University,Wayne ,New Jersey,Northeast,1855,14999,499,Suburban,40.927178,-74.231046,2
+542,The College of Wooster,Wooster ,Ohio,Midwest,1866,2999,299,Suburban,40.79818,-81.939946,2
+543,Salisbury University,Salisbury ,Maryland,Southeast,1925,9999,799,Suburban,38.365568,-75.599181,2
+544,Tuskegee University,Tuskegee ,Alabama,Southeast,1881,3999,299,Rural,32.423636,-85.690489,2
+545,Southern Oregon University,Ashland ,Oregon,West,1926,7999,399,Suburban,42.190417,-122.703274,1
+546,California Lutheran University,Thousand Oaks ,California,West,1959,4999,199,Urban,34.176083,-118.848743,1
+547,SUNY College at Oneonta,Oneonta ,New York,Northeast,1889,7999,499,Rural,42.45297,-75.063158,2
+548,Southern Utah University,Cedar City ,Utah,West,1897,19999,499,Rural,37.677344,-113.061742,1
+549,North Carolina Central University,Durham ,North Carolina,Southeast,1910,9999,699,Urban,35.996948,-78.899023,1
+550,Golden Gate University,San Francisco ,California,West,1901,3999,99,Urban,37.78008,-122.420168,2
+551,University of Puget Sound,Tacoma ,Washington,West,1888,2999,399,Urban,47.25308,-122.44153,2
+552,University of Hawaii at Manoa,Honolulu ,Hawaii,Northeast,1907,24999,2499,Urban,21.30992,-157.858158,1
+553,Virginia Military Institute,Lexington ,Virginia,Southeast,1839,1999,199,Rural,37.780936,-79.446556,2
+554,St. Edward's University,Austin ,Texas,Southwest,1885,4999,399,Urban,30.264979,-97.746598,2
+555,Bryant University,Smithfield ,Rhode Island,Northeast,1863,4999,299,Suburban,41.879115,-71.483358,2
+556,Southeast Missouri State University,Cape Girardeau ,Missouri,Midwest,1873,14999,499,Rural,37.313167,-89.552421,2
+557,Goucher College,Towson ,Maryland,Southeast,1885,2999,199,Suburban,39.401814,-76.602736,2
+558,Murray State University,Murray ,Kentucky,Southeast,1922,14999,699,Rural,36.610582,-88.315258,2
+559,Roger Williams University,Bristol ,Rhode Island,Northeast,1956,5999,599,Suburban,41.677071,-71.259798,2
+560,Denison University,Granville ,Ohio,Midwest,1831,2999,299,Suburban,40.066734,-82.520263,2
+561,Northeastern Illinois University,Chicago ,Illinois,Midwest,1949,14999,699,Urban,41.883229,-87.632398,2
+562,Roosevelt University,Chicago ,Illinois,Midwest,1945,5999,599,Urban,41.883229,-87.632398,2
+563,High Point University,High Point ,North Carolina,Southeast,1924,5999,399,Urban,35.953972,-80.003935,1
+564,The State University of New York at Potsdam,Potsdam ,New York,Northeast,1816,4999,399,Rural,44.668662,-74.984933,2
+565,Winthrop University,Rock Hill ,South Carolina,Southeast,1886,7999,599,Urban,34.94133,-81.0301,2
+566,Southeastern Louisiana University,Hammond ,Louisiana,Southeast,1925,19999,699,Urban,30.503682,-90.458285,1
+567,St. Lawrence University,Canton ,New York,Northeast,1856,2999,299,Rural,44.595632,-75.169226,2
+568,New York Institute of Technology,Old Westbury ,New York,Northeast,1955,8999,999,Suburban,40.788748,-73.599747,4
+569,Georgia College and State University,Milledgeville ,Georgia,Southeast,1889,7999,499,Rural,33.080242,-83.232058,2
+570,The University of Oklahoma Health Sciences Center,Oklahoma City ,Oklahoma,Southwest,1900,3999,1999,Urban,35.468494,-97.521264,2
+571,Alfred University,Alfred ,New York,Northeast,1836,2999,299,Rural,42.254724,-77.790363,2
+572,Millersville University of Pennsylvania,Millersville ,Pennsylvania,Northeast,1855,9999,499,Suburban,40.002712,-76.356259,2
+573,Augsburg University,Minneapolis ,Minnesota,Midwest,1869,4999,399,Urban,44.977479,-93.264346,1
+574,Elizabethtown College,Elizabethtown ,Pennsylvania,Northeast,1899,1999,199,Suburban,40.15153,-76.605969,2
+575,La Salle University,Philadelphia ,Pennsylvania,Northeast,1863,7999,599,Urban,39.951061,-75.16562,2
+576,Lake Superior State University,Sault Ste. Marie ,Michigan,Midwest,1946,2999,199,Rural,46.497691,-84.347598,2
+577,California College of the Arts,San Francisco ,California,West,1907,2999,499,Urban,37.78008,-122.420168,2
+578,Oral Roberts University,Tulsa ,Oklahoma,Southwest,1963,4999,399,Urban,36.155327,-95.992083,2
+579,"Hunter College, CUNY",New York City ,New York,Northeast,1870,29999,2499,Urban,40.713054,-74.007228,2
+580,SUNY Upstate Medical University,Syracuse ,New York,Northeast,1834,1999,999,Urban,43.047945,-76.147448,2
+581,Bloomsburg University of Pennsylvania,Bloomsburg ,Pennsylvania,Northeast,1839,14999,599,Rural,41.003507,-76.457647,2
+582,University of Mississippi Medical Center,Jackson ,Mississippi,Southeast,1955,2999,N/A,Urban,32.302897,-90.183488,2
+583,University of La Verne,La Verne ,California,West,1891,9999,799,Suburban,34.111558,-117.765873,1
+584,Bluffton University,Bluffton ,Ohio,Midwest,1899,999,199,Rural,40.895194,-83.889436,2
+585,Pittsburg State University,Pittsburg ,Kansas,Midwest,1903,8999,499,Rural,37.411115,-94.704813,2
+586,Sacred Heart University,Fairfield ,Connecticut,Northeast,1963,9999,999,Suburban,41.143322,-73.249812,2
+587,Sarah Lawrence College,Bronxville ,New York,Northeast,1926,1999,399,Suburban,40.936383,-73.831381,2
+588,St. Bonaventure University,St. Bonaventure ,New York,Northeast,1858,2999,299,Rural,42.081076,-78.477899,2
+589,SUNY Downstate Medical Center,Brooklyn ,New York,Northeast,1860,2999,799,Urban,40.692529,-73.990996,2
+590,University of Portland,Portland ,Oregon,West,1901,5999,599,Urban,45.516018,-122.681425,1
+591,"The Citadel, The Military College of South Carolina",Charleston ,South Carolina,Southeast,1842,4999,399,Urban,32.77647,-79.931027,1
+592,Minneapolis College of Art and Design,Minneapolis ,Minnesota,Midwest,1886,999,199,Urban,44.977479,-93.264346,1
+593,Capital University,Columbus ,Ohio,Midwest,1830,3999,499,Suburban,39.962649,-82.996216,2
+594,Minnesota State University Moorhead,Moorhead ,Minnesota,Midwest,1887,7999,399,Suburban,46.873809,-96.767816,2
+595,Barry University,Miami ,Florida,Southeast,1940,8999,999,Suburban,25.775084,-80.194702,2
+596,University of South Alabama,Mobile ,Alabama,Southeast,1963,19999,1499,Urban,30.688943,-88.044822,2
+597,Beloit College,Beloit ,Wisconsin,Midwest,1846,1999,199,Urban,42.499646,-89.033615,1
+598,Saint Mary's College of California,Moraga ,California,West,1863,4999,999,Suburban,37.838529,-122.126077,2
+599,Messiah University,Mechanicsburg ,Pennsylvania,Northeast,1909,3999,399,Suburban,40.213283,-77.008033,2
+600,Mills College,Oakland ,California,West,1852,1999,199,Urban,37.804828,-122.27248,1
+601,Longwood University,Farmville ,Virginia,Southeast,1839,5999,499,Rural,37.296592,-78.394282,2
+602,Austin Peay State University,Clarksville ,Tennessee,Southeast,1927,14999,499,Urban,36.527278,-87.360338,2
+603,Carson-Newman University,Jefferson City ,Tennessee,Southeast,1851,2999,299,Suburban,36.117917,-83.490238,2
+604,University of Nebraska at Kearney,Kearney ,Nebraska,Midwest,1903,8999,499,Rural,40.701497,-99.082969,2
+605,Baldwin Wallace University,Berea ,Ohio,Midwest,1845,4999,499,Suburban,41.366288,-81.853772,2
+606,Arcadia University,Glenside ,Pennsylvania,Northeast,1853,4999,599,Suburban,40.102454,-75.151903,2
+607,Saint Michael's College,Colchester ,Vermont,Northeast,1904,3999,199,Suburban,44.543794,-73.148215,2
+608,California Institute of Integral Studies,San Francisco ,California,West,1968,1999,299,Urban,37.78008,-122.420168,2
+609,The University of Texas at Tyler,Tyler ,Texas,Southwest,1971,14999,499,Suburban,32.350763,-95.300644,1
+610,SUNY Empire State College,Saratoga Springs ,New York,Northeast,1971,19999,899,Suburban,43.083233,-73.78477,2
+611,St Petersburg College,Clearwater ,Florida,Southeast,1927,39999,1499,Urban,27.963991,-82.799957,2
+612,Milwaukee School of Engineering,Milwaukee ,Wisconsin,Midwest,1903,2999,299,Urban,43.041072,-87.909421,2
+613,Bellevue University,Bellevue ,Nebraska,Midwest,1966,14999,699,Suburban,41.151057,-95.90025,2
+614,Texas A&M University-Commerce,Commerce ,Texas,Southwest,1889,19999,399,Rural,33.250697,-95.898194,2
+615,Gordon College,Wenham ,Massachusetts,Northeast,1889,2999,199,Suburban,42.605427,-70.895446,2
+616,The College at Brockport,Brockport ,New York,Northeast,1867,9999,699,Suburban,43.214471,-77.938805,3
+617,Saint Anselm College,Manchester ,New Hampshire,Northeast,1889,2999,299,Suburban,42.990926,-71.463091,2
+618,Saint Leo University,Saint Leo ,Florida,Southeast,1889,24999,999,Rural,28.335805,-82.257249,2
+619,Regis University,Denver ,Colorado,West,1877,14999,799,Urban,39.738453,-104.984853,1
+620,Santa Fe College,Gainesville ,Florida,Southeast,1966,19999,799,Suburban,29.651958,-82.325024,2
+621,Kettering University,Flint ,Michigan,Midwest,1919,2999,199,Urban,43.00992,-83.685109,3
+622,Hampton University,Hampton ,Virginia,Southeast,1868,4999,299,Urban,37.028265,-76.342338,2
+623,SUNY Polytechnic Institute,Utica ,New York,Northeast,1966,3999,299,Suburban,43.102016,-75.230012,2
+624,Luther College,Decorah ,Iowa,Midwest,1861,2999,299,Rural,43.303293,-91.788341,2
+625,Hendrix College,Conway ,Arkansas,Southeast,1876,1999,199,Suburban,35.091798,-92.4367,1
+626,Christopher Newport University,Newport News ,Virginia,Southeast,1961,5999,499,Urban,36.977714,-76.430349,2
+627,Jackson State University,Jackson ,Mississippi,Southeast,1877,14999,599,Urban,32.302897,-90.183488,2
+628,Ohio Wesleyan University,Delaware ,Ohio,Midwest,1842,1999,299,Suburban,40.301498,-83.067539,2
+629,State University of New York at Fredonia,Fredonia ,New York,Northeast,1826,4999,499,Rural,42.439996,-79.331441,2
+630,Bellarmine University,Louisville ,Kentucky,Southeast,1950,4999,499,Suburban,38.256078,-85.751569,2
+631,Bethel University,Saint Paul ,Minnesota,Midwest,1871,4999,499,Suburban,44.943719,-93.094281,1
+632,"Purchase College, State University of New York",Purchase ,New York,Northeast,1967,4999,499,Suburban,41.040798,-73.714996,2
+633,St. Mary's University,San Antonio ,Texas,Southwest,1852,3999,499,Urban,29.425173,-98.494599,2
+634,"Wheaton College, Massachusetts",Norton ,Massachusetts,Northeast,1912,1999,199,Suburban,41.967205,-71.188528,2
+635,South University,Savannah ,Georgia,Southeast,1899,1999,199,Urban,32.08059,-81.090103,1
+636,George Fox University,Newberg ,Oregon,West,1891,4999,699,Suburban,45.300317,-122.979156,1
+637,Harding University,Searcy ,Arkansas,Southeast,1924,6999,499,Suburban,35.250783,-91.736336,2
+638,Ashland University,Ashland ,Ohio,Midwest,1878,9999,499,Suburban,40.86933,-82.317916,2
+639,Southern Connecticut State University,New Haven ,Connecticut,Northeast,1893,14999,1499,Urban,41.308252,-72.924161,2
+640,University of Detroit Mercy,Detroit ,Michigan,Midwest,1877,5999,399,Urban,42.332916,-83.047853,3
+641,University of Redlands,Redlands ,California,West,1907,5999,299,Urban,34.055562,-117.182603,1
+642,California State University Channel Islands,Camarillo ,California,West,2002,8999,499,Suburban,34.225403,-119.050667,1
+643,Albion College,Albion ,Michigan,Midwest,1835,1999,199,Suburban,42.248,-84.753018,2
+644,Dominican University of California,San Rafael ,California,West,1890,1999,399,Urban,37.974575,-122.531868,1
+645,Campbell University,Buies Creek ,North Carolina,Southeast,1887,7999,699,Suburban,35.407032,-78.737457,2
+646,Southwestern University,Georgetown ,Texas,Southwest,1840,1999,199,Suburban,30.63325,-97.676978,2
+647,Wilkes University,Wilkes-Barre ,Pennsylvania,Northeast,1933,7999,499,Urban,41.246249,-75.881184,2
+648,Western Connecticut State University,Danbury ,Connecticut,Northeast,1903,6999,299,Urban,41.393666,-73.451539,2
+649,University of Wisconsin-Platteville,Platteville ,Wisconsin,Midwest,1866,9999,499,Rural,42.732914,-90.4781,1
+650,University of Southern Maine,Portland ,Maine,Northeast,1878,14999,899,Urban,43.659218,-70.256519,2
+651,Canisius College,Buffalo ,New York,Northeast,1870,3999,399,Urban,42.887691,-78.879374,2
+652,Hood College,Frederick ,Maryland,Southeast,1893,2999,299,Urban,39.414181,-77.410935,2
+653,Le Moyne College,Syracuse ,New York,Northeast,1946,3999,399,Urban,43.047945,-76.147448,2
+654,University of North Carolina at Asheville,Asheville ,North Carolina,Southeast,1927,4999,399,Urban,35.595889,-82.550039,2
+655,Hawaii Pacific University,Honolulu ,Hawaii,Northeast,1965,4999,399,Urban,21.30992,-157.858158,1
+656,Washington College,Chestertown ,Maryland,Southeast,1782,1999,199,Rural,39.211199,-76.06576,2
+657,University of New Haven,West Haven ,Connecticut,Northeast,1920,7999,699,Suburban,41.272336,-72.949817,2
+658,Clark Atlanta University,Atlanta ,Georgia,Southeast,1988,4999,299,Urban,33.748547,-84.391502,2
+659,John Carroll University,University Heights ,Ohio,Midwest,1886,4999,199,Suburban,41.4978,-81.536268,3
+660,Columbia College,Columbia ,Missouri,Midwest,1851,19999,99,Urban,38.951551,-92.328594,2
+661,Northwest Missouri State University,Maryville ,Missouri,Midwest,1905,7999,299,Rural,40.346095,-94.872948,2
+662,University of Central Oklahoma,Edmond ,Oklahoma,Southwest,1890,19999,599,Suburban,35.65314,-97.481511,2
+663,New Jersey City University,Jersey City ,New Jersey,Northeast,1927,9999,299,Urban,40.717495,-74.044111,2
+664,University of North Carolina at Pembroke,Pembroke ,North Carolina,Southeast,1887,7999,499,Rural,34.680993,-79.195647,2
+665,"California State University, Bakersfield",Bakersfield ,California,West,1965,14999,699,Urban,35.373405,-119.018911,1
+666,The University of the Arts,Philadelphia ,Pennsylvania,Northeast,1876,2999,199,Urban,39.951061,-75.16562,2
+667,Texas Southern University,Houston ,Texas,Southwest,1927,14999,699,Urban,29.760803,-95.369506,2
+668,South Dakota School of Mines and Technology,Rapid City ,South Dakota,Midwest,1885,3999,199,Urban,44.082995,-103.224443,2
+669,Kutztown University of Pennsylvania,Kutztown ,Pennsylvania,Northeast,1866,8999,499,Suburban,40.518999,-75.776185,2
+670,Augustana College,Rock Island ,Illinois,Midwest,1860,2999,299,Urban,41.472348,-90.583568,2
+671,New York Law School,New York City ,New York,Northeast,1891,1999,199,Urban,40.713054,-74.007228,2
+672,Salem State University,Salem ,Massachusetts,Northeast,1854,14999,399,Suburban,42.521406,-70.89864,2
+673,The College of St. Scholastica,Duluth ,Minnesota,Midwest,1912,5999,499,Urban,46.782882,-92.105457,1
+674,Fayetteville State University,Fayetteville ,North Carolina,Southeast,1867,7999,499,Urban,35.054417,-78.883659,2
+675,The University of Tennessee Health Science Center,Memphis ,Tennessee,Southeast,1911,3999,1999,Urban,35.143378,-90.052136,2
+676,Northeastern State University,Tahlequah ,Oklahoma,Southwest,1851,9999,499,Rural,35.911688,-94.971727,2
+677,State University of New York College at Plattsburgh,Plattsburgh ,New York,Northeast,1889,6999,499,Suburban,44.699668,-73.451807,2
+678,Uniformed Services University of the Health Sciences,Bethesda ,Maryland,Southeast,1972,1499,N/A,N/A,38.984757,-77.094135,2
+679,University of Houston-Downtown,Houston ,Texas,Southwest,1974,19999,799,Urban,29.760803,-95.369506,2
+680,Jacksonville State University,Jacksonville ,Alabama,Southeast,1883,14999,499,Urban,33.816553,-85.761223,2
+681,Ramapo College of New Jersey,Mahwah ,New Jersey,Northeast,1969,6999,299,Suburban,41.093988,-74.145079,2
+682,Colorado Technical University,Colorado Springs ,Colorado,West,1965,44999,N/A,Urban,38.835224,-104.819798,2
+683,Ohio Northern University,Ada ,Ohio,Midwest,1871,3999,599,Suburban,40.769416,-83.823205,2
+684,University of Bridgeport,Bridgeport ,Connecticut,Northeast,1927,6999,599,Urban,41.179195,-73.189476,2
+685,University of Central Missouri,Warrensburg ,Missouri,Midwest,1871,19999,499,Rural,38.771088,-93.735354,2
+686,University of Mary Hardin-Baylor,Belton ,Texas,Southwest,1845,4999,199,Suburban,31.056417,-97.463763,2
+687,Knox College,Galesburg ,Illinois,Midwest,1837,1999,199,Rural,40.947504,-90.372488,2
+688,Carthage College,Kenosha ,Wisconsin,Midwest,1847,3999,399,Suburban,42.588079,-87.822877,2
+689,Brigham Young University-Hawaii,Laie ,Hawaii,Northeast,1955,4999,199,Suburban,21.648998,-157.923491,2
+690,Mercy College,Dobbs Ferry ,New York,Northeast,1952,14999,899,Suburban,41.014257,-73.872696,2
+691,Bennington College,Bennington ,Vermont,Northeast,1932,999,199,Rural,42.878372,-73.19709,2
+692,Winona State University,Winona ,Minnesota,Midwest,1858,8999,599,Rural,44.049877,-91.639366,1
+693,Lipscomb University,Nashville ,Tennessee,Southeast,1891,5999,699,Urban,36.166687,-86.779932,2
+694,Roanoke College,Salem ,Virginia,Southeast,1842,2999,299,Suburban,37.292986,-80.056759,2
+695,Goshen College,Goshen ,Indiana,Midwest,1894,1999,199,Urban,41.581218,-85.834392,2
+696,Lawrence Technological University,Southfield ,Michigan,Midwest,1932,3999,399,Urban,42.477952,-83.240756,3
+697,University of Indianapolis,Indianapolis ,Indiana,Midwest,1902,6999,399,Urban,39.76845,-86.156212,2
+698,Jacksonville University,Jacksonville ,Florida,Southeast,1934,5999,499,Urban,30.325968,-81.65676,2
+699,University of the Incarnate Word,San Antonio ,Texas,Southwest,1881,14999,899,Urban,29.425173,-98.494599,2
+700,Shenandoah University,Winchester ,Virginia,Southeast,1875,5999,499,Urban,39.177858,-78.169844,1
+701,Bastyr University,Kenmore ,Washington,West,1978,1999,99,Suburban,47.758572,-122.252815,2
+702,Franklin University,Columbus ,Ohio,Midwest,1902,7999,699,Urban,39.962649,-82.996216,2
+703,Pennsylvania Academy of the Fine Arts,Philadelphia ,Pennsylvania,Northeast,1805,499,99,Urban,39.951061,-75.16562,2
+704,University of North Georgia,Dahlonega ,Georgia,Southeast,1873,24999,1499,Suburban,34.533691,-83.983274,2
+705,Lander University,Greenwood ,South Carolina,Southeast,1872,3999,299,Rural,34.187578,-82.159499,2
+706,Colorado Christian University,Lakewood ,Colorado,West,1914,14999,599,Urban,39.710997,-105.088872,2
+707,Manhattan College,Riverdale ,New York,Northeast,1853,4999,499,Urban,40.9006,-73.906403,2
+708,Slippery Rock University of Pennsylvania,Slippery Rock ,Pennsylvania,Northeast,1889,14999,499,Rural,41.064073,-80.056487,2
+709,University of Findlay,Findlay ,Ohio,Midwest,1882,5999,399,Suburban,41.039123,-83.6503,2
+710,Providence College,Providence ,Rhode Island,Northeast,1917,5999,599,Urban,41.824461,-71.412747,2
+711,Vermont Law School,South Royalton ,Vermont,Northeast,1972,999,99,Rural,43.820531,-72.521361,2
+712,Eastern Virginia Medical School,Norfolk ,Virginia,Southeast,1973,1999,299,Urban,36.846164,-76.285913,2
+713,Allegheny College,Meadville ,Pennsylvania,Northeast,1815,1999,199,Rural,41.646099,-80.147115,2
+714,Benedictine University,Lisle ,Illinois,Midwest,1887,7999,499,Suburban,41.801252,-88.074781,2
+715,Point Loma Nazarene University,San Diego ,California,West,1902,5999,199,Urban,32.71576,-117.163817,4
+716,Eckerd College,Saint Petersburg ,Florida,Southeast,1958,2999,299,Urban,27.772069,-82.638488,2
+717,University of Houston-Clear Lake,Houston ,Texas,Southwest,1974,14999,499,Suburban,29.760803,-95.369506,2
+718,University of Wisconsin-River Falls,River Falls ,Wisconsin,Midwest,1874,6999,399,Rural,44.861644,-92.624347,1
+719,Berry College,Mount Berry ,Georgia,Southeast,1902,2999,299,Suburban,34.275002,-85.183296,2
+720,University of North Alabama,Florence ,Alabama,Southeast,1830,8999,299,Urban,34.801317,-87.673264,2
+721,United States Merchant Marine Academy,Kings Point ,New York,Northeast,1943,999,199,Suburban,40.819745,-73.734966,2
+722,Fort Lewis College,Durango ,Colorado,West,1911,3999,199,Rural,37.28225,-107.877762,2
+723,National Louis University,Chicago ,Illinois,Midwest,1886,8999,199,Urban,41.883229,-87.632398,2
+724,Bob Jones University,Greenville ,South Carolina,Southeast,1927,3999,299,Urban,34.850746,-82.398964,2
+725,Cornell College,Mount Vernon ,Iowa,Midwest,1853,1999,99,Suburban,41.924519,-91.420984,2
+726,Ursinus College,Collegeville ,Pennsylvania,Northeast,1869,1999,199,Suburban,40.192526,-75.461082,2
+727,Saginaw Valley State University,University Center ,Michigan,Midwest,1963,8999,699,Suburban,43.5583,-83.982498,4
+728,Keene State College,Keene ,New Hampshire,Northeast,1909,4999,399,Rural,42.933677,-72.278255,2
+729,Dakota State University,Madison ,South Dakota,Midwest,1881,5999,199,Rural,44.0072,-97.11319,2
+730,St. Norbert College,De Pere ,Wisconsin,Midwest,1898,2999,199,Suburban,44.44754,-88.070584,1
+731,Washburn University,Topeka ,Kansas,Midwest,1865,7999,599,Urban,39.050976,-95.670433,2
+732,Chatham University,Pittsburgh ,Pennsylvania,Northeast,1869,2999,199,Urban,40.442169,-79.994945,2
+733,Bellevue College,Bellevue ,Washington,West,1966,24999,499,Suburban,47.613702,-122.190934,1
+734,Columbus State University,Columbus ,Georgia,Southeast,1958,14999,699,Urban,32.466682,-84.990405,2
+735,Olivet Nazarene University,Bourbonnais ,Illinois,Midwest,1907,6999,599,Suburban,41.161565,-87.890819,2
+736,Davenport University,Grand Rapids ,Michigan,Midwest,1866,9999,599,Suburban,42.965446,-85.670209,2
+737,Assumption College,Worcester ,Massachusetts,Northeast,1904,2999,299,Urban,42.262073,-71.802278,2
+738,Augustana University,Sioux Falls ,South Dakota,Midwest,1860,2999,199,Urban,43.488765,-96.743185,1
+739,Niagara University,Niagara University ,New York,Northeast,1856,4999,199,Suburban,43.13571,-79.04183,2
+740,New England College,Henniker ,New Hampshire,Northeast,1946,3999,199,Rural,43.186268,-71.826307,2
+741,Drury University,Springfield ,Missouri,Midwest,1873,1999,199,Urban,37.215521,-93.292361,2
+742,Wofford College,Spartanburg ,South Carolina,Southeast,1854,1999,199,Urban,34.947914,-81.934664,2
+743,Dominican University,River Forest ,Illinois,Midwest,1901,3999,399,Suburban,41.894047,-87.81635,2
+744,Naropa University,Boulder ,Colorado,West,1974,1999,199,Urban,40.015831,-105.27927,2
+745,Arkansas Tech University,Russellville ,Arkansas,Southeast,1909,14999,399,Rural,35.278146,-93.133722,2
+746,"Concordia University, St. Paul",Saint Paul ,Minnesota,Midwest,1893,6999,399,Urban,44.943719,-93.094281,1
+747,McDaniel College,Westminster ,Maryland,Southeast,1867,3999,599,Suburban,39.575232,-76.99604,2
+748,Dixie State University,St. George ,Utah,West,1911,14999,699,Urban,37.108284,-113.583277,2
+749,Cambridge College,Boston ,Massachusetts,Northeast,1971,3999,50,Urban,42.358894,-71.056742,2
+750,Mississippi College,Clinton ,Mississippi,Southeast,1826,6999,499,Suburban,32.335656,-90.337665,2
+751,Indiana Wesleyan University,Marion ,Indiana,Midwest,1920,3999,499,Suburban,40.551869,-85.668138,2
+752,Otis College of Art and Design,Los Angeles ,California,West,1918,1999,399,Urban,34.052238,-118.243344,3
+753,Concordia University Wisconsin,Mequon ,Wisconsin,Midwest,1881,8999,299,Suburban,43.221598,-88.014829,2
+754,Susquehanna University,Selinsgrove ,Pennsylvania,Northeast,1858,2999,299,Rural,40.801057,-76.866235,2
+755,Florida Southern College,Lakeland ,Florida,Southeast,1883,3999,199,Urban,28.040507,-81.954113,2
+756,Texas A&M University-Kingsville,Kingsville ,Texas,Southwest,1925,14999,499,Rural,27.506723,-97.855992,2
+757,Lewis University,Romeoville ,Illinois,Midwest,1932,7999,699,Suburban,41.647813,-88.087129,2
+758,Florida State College at Jacksonville,Jacksonville ,Florida,Southeast,1966,39999,899,Urban,30.325968,-81.65676,2
+759,Springfield College,Springfield ,Massachusetts,Northeast,1885,3999,199,Urban,42.102051,-72.585757,2
+760,University of the District of Columbia,Washington ,District of Columbia,Northeast,1977,5999,699,Urban,38.892062,-77.019912,2
+761,College of Southern Nevada,Las Vegas ,Nevada,West,1971,45000,599,Urban,36.169202,-115.140597,1
+762,Utica College,Utica ,New York,Northeast,1946,6999,499,Urban,43.102016,-75.230012,2
+763,Franklin W. Olin College of Engineering,Needham ,Massachusetts,Northeast,1997,499,99,Suburban,42.280944,-71.23684,2
+764,St. Mary's College of Maryland,St. Mary's City ,Maryland,Southeast,1840,1999,299,Suburban,38.186901,-76.4347,1
+765,University of Wisconsin-Parkside,Kenosha ,Wisconsin,Midwest,1968,4999,299,Suburban,42.588079,-87.822877,2
+766,Brooklyn Law School,Brooklyn ,New York,Northeast,1901,1999,99,Urban,40.692529,-73.990996,2
+767,Midwestern University,Downers Grove ,Illinois,Midwest,1900,3999,299,Suburban,41.808855,-88.011135,2
+768,Whittier College,Whittier ,California,West,1887,2999,199,Suburban,33.967318,-118.048051,5
+769,Westmont College,Santa Barbara ,California,West,1937,1999,299,Suburban,34.420867,-119.698342,1
+770,Clarion University of Pennsylvania,Clarion ,Pennsylvania,Northeast,1867,6999,399,Rural,41.211475,-79.380948,2
+771,Palm Beach State College,Lake Worth ,Florida,Southeast,1933,44999,1499,Urban,26.609859,-80.058568,2
+772,Marymount University,Arlington ,Virginia,Southeast,1950,4999,399,Urban,38.890763,-77.084755,2
+773,Oklahoma City University,Oklahoma City ,Oklahoma,Southwest,1904,3999,399,Urban,35.468494,-97.521264,2
+774,Park University,Parkville ,Missouri,Midwest,1875,19999,1499,Suburban,39.195041,-94.682372,2
+775,Wentworth Institute of Technology,Boston ,Massachusetts,Northeast,1904,4999,199,Urban,42.358894,-71.056742,2
+776,St. John Fisher College,Rochester ,New York,Northeast,1948,4999,299,Suburban,43.155708,-77.612547,2
+777,Scripps College,Claremont ,California,West,1926,1999,199,Suburban,34.096606,-117.719315,1
+778,Massachusetts College of Art and Design,Boston ,Massachusetts,Northeast,1873,2999,199,Urban,42.358894,-71.056742,2
+779,Oregon Institute of Technology,Klamath Falls ,Oregon,West,1947,8999,199,Rural,42.224918,-121.780952,1
+780,Juniata College,Huntingdon ,Pennsylvania,Northeast,1876,1999,199,Rural,40.483256,-78.007155,2
+781,North Park University,Chicago ,Illinois,Midwest,1891,3999,199,Urban,41.883229,-87.632398,2
+782,Angelo State University,San Angelo ,Texas,Southwest,1928,14999,499,Urban,31.46378,-100.437304,2
+783,Tarleton State University,Stephenville ,Texas,Southwest,1899,14999,799,Rural,32.220657,-98.202145,2
+784,Midwestern State University,Wichita Falls ,Texas,Southwest,1922,7999,399,Urban,33.90976,-98.500854,2
+785,University of Michigan-Flint,Flint ,Michigan,Midwest,1956,9999,599,Urban,43.00992,-83.685109,3
+786,SIT Graduate Institute,Brattleboro ,Vermont,Northeast,1964,999,50,Suburban,42.84586,-72.562996,2
+787,Montana Tech,Butte ,Montana,West,1899,2999,299,Rural,46.01284,-112.535583,2
+788,Texas A&M International University,Laredo ,Texas,Southwest,1970,8999,399,Urban,27.507114,-99.507505,2
+789,Regis College,Weston ,Massachusetts,Northeast,1927,3999,399,Suburban,42.367939,-71.298243,2
+790,Morehouse School of Medicine,Atlanta ,Georgia,Southeast,1975,999,399,Urban,33.748547,-84.391502,2
+791,Kalamazoo College,Kalamazoo ,Michigan,Midwest,1833,1999,199,Urban,42.289777,-85.584682,2
+792,Queens University of Charlotte,Charlotte ,North Carolina,Southeast,1857,3999,399,Urban,35.222936,-80.840161,2
+793,Western New England University,Springfield ,Massachusetts,Northeast,1919,4999,399,Urban,42.102051,-72.585757,2
+794,Flagler College,St. Augustine ,Florida,Southeast,1968,2999,299,Suburban,29.896004,-81.316709,2
+795,Wartburg College,Waverly ,Iowa,Midwest,1852,1999,99,Rural,42.725714,-92.475648,1
+796,Norfolk State University,Norfolk ,Virginia,Southeast,1935,5999,499,Urban,36.846164,-76.285913,2
+797,Bank Street College of Education,New York City ,New York,Northeast,1916,999,50,Urban,40.713054,-74.007228,2
+798,University of Dallas,Irving ,Texas,Southwest,1956,2999,299,Urban,32.813879,-96.949933,1
+799,Grove City College,Grove City ,Pennsylvania,Northeast,1876,2999,199,Rural,41.157879,-80.088687,2
+800,Southern University and A&M College,Baton Rouge ,Louisiana,Southeast,1880,6999,299,Urban,30.443319,-91.187488,1
+801,Marietta College,Marietta ,Ohio,Midwest,1835,1999,199,Suburban,39.419998,-81.45731,2
+802,Salve Regina University,Newport ,Rhode Island,Northeast,1934,3999,199,Suburban,41.496349,-71.308244,2
+803,Morehead State University,Morehead ,Kentucky,Southeast,1966,14999,499,Rural,38.184528,-83.431284,2
+804,Virginia State University,Petersburg ,Virginia,Southeast,1882,5999,499,Suburban,37.205498,-77.387642,2
+805,Fisk University,Nashville ,Tennessee,Southeast,1866,999,99,Urban,36.166687,-86.779932,2
+806,Pennsylvania College of Technology,Williamsport ,Pennsylvania,Northeast,1989,5999,499,Urban,41.241489,-77.04192,2
+807,Linfield University,McMinnville ,Oregon,West,1858,1999,199,Rural,45.210028,-123.192128,1
+808,King University,Bristol ,Tennessee,Southeast,1867,3999,299,Urban,36.58453,-82.185697,2
+809,St John's College,Annapolis ,Maryland,Southeast,1696,999,99,Suburban,38.97829,-76.495683,2
+810,St. Thomas University,Miami Gardens ,Florida,Southeast,1961,5999,199,Suburban,25.927232,-80.228484,2
+811,Governors State University,University Park ,Illinois,Midwest,1969,6999,599,Suburban,41.436946,-87.678022,2
+812,Stonehill College,Easton ,Massachusetts,Northeast,1948,2999,299,Suburban,42.029789,-71.131459,2
+813,Eastern Mennonite University,Harrisonburg ,Virginia,Southeast,1917,2999,199,Urban,38.435982,-78.88,2
+814,Baker College,Flint ,Michigan,Midwest,1911,19999,1999,Suburban,43.00992,-83.685109,3
+815,Ringling College of Art and Design,Sarasota ,Florida,Southeast,1931,1999,199,Urban,27.336483,-82.538602,2
+816,Colorado Mesa University,Grand Junction ,Colorado,West,1925,14999,699,Suburban,39.067379,-108.570816,2
+817,Oglethorpe University,Atlanta ,Georgia,Southeast,1835,1999,99,Suburban,33.748547,-84.391502,2
+818,Moravian College,Bethlehem ,Pennsylvania,Northeast,1742,2999,199,Urban,40.632222,-75.407938,2
+819,Washington & Jefferson College,Washington ,Pennsylvania,Northeast,1781,1999,199,Suburban,40.170885,-80.245438,2
+820,Lourdes University,Sylvania ,Ohio,Midwest,1958,2999,199,Suburban,41.715606,-83.703091,2
+821,King's College,Wilkes-Barre ,Pennsylvania,Northeast,1946,2999,299,Urban,41.246249,-75.881184,2
+822,Kentucky State University,Frankfort ,Kentucky,Southeast,1886,2999,199,Rural,38.201005,-84.87329,2
+823,York College of Pennsylvania,York ,Pennsylvania,Northeast,1787,4999,499,Suburban,39.960339,-76.734668,2
+824,Seminole State College of Florida,Sanford ,Florida,Southeast,1965,24999,899,Suburban,28.800795,-81.273111,2
+825,Xavier University of Louisiana,New Orleans ,Louisiana,Southeast,1925,3999,299,Urban,29.950621,-90.074948,1
+826,Westminster College,Salt Lake City ,Utah,West,1875,2999,199,Urban,40.758478,-111.888142,3
+827,Auburn University at Montgomery,Montgomery ,Alabama,Southeast,1967,6999,299,Urban,32.376547,-86.299651,2
+828,Iona College,New Rochelle ,New York,Northeast,1940,4999,399,Suburban,40.911546,-73.782337,2
+829,Otterbein University,Westerville ,Ohio,Midwest,1847,3999,399,Suburban,40.125943,-82.931621,2
+830,California Baptist University,Riverside ,California,West,1950,14999,1499,Urban,33.980534,-117.377025,4
+831,Alliant International University,San Diego ,California,West,2001,5999,199,Urban,32.71576,-117.163817,4
+832,Lindenwood University,St. Charles ,Missouri,Midwest,1827,14999,299,Urban,38.781153,-90.486926,2
+833,Western University of Health Sciences,Pomona ,California,West,1977,3999,399,Suburban,34.055118,-117.750048,1
+834,Quincy University,Quincy ,Illinois,Midwest,1860,1999,199,Rural,39.93553,-91.388754,2
+835,Chicago State University,Chicago ,Illinois,Midwest,1867,3999,299,Urban,41.883229,-87.632398,2
+836,Keck Graduate Institute,Claremont ,California,West,1997,999,99,Suburban,34.096606,-117.719315,1
+837,Indiana University South Bend,South Bend ,Indiana,Midwest,1922,6999,499,Urban,41.675032,-86.251962,2
+838,Union University,Jackson ,Tennessee,Southeast,1823,4999,399,Urban,35.614344,-88.81938,2
+839,University of Louisiana at Monroe,Monroe ,Louisiana,Southeast,1931,14999,399,Urban,32.500759,-92.111225,1
+840,Louisiana State University in Shreveport,Shreveport ,Louisiana,Southeast,1967,7999,299,Urban,32.51424,-93.747757,1
+841,Bowie State University,Bowie ,Maryland,Southeast,1865,6999,499,Suburban,38.943547,-76.730278,3
+842,Central Methodist University,Fayette ,Missouri,Midwest,1854,1999,99,Rural,39.147271,-92.684682,2
+843,Muskingum University,New Concord ,Ohio,Midwest,1837,3999,99,Rural,39.993883,-81.731857,2
+844,South Carolina State University,Orangeburg ,South Carolina,Southeast,1896,3999,199,Rural,33.487414,-80.863927,2
+845,North Central College,Naperville ,Illinois,Midwest,1861,3999,399,Urban,41.771495,-88.147999,2
+846,Bemidji State University,Bemidji ,Minnesota,Midwest,1919,6999,299,Rural,47.472647,-94.879661,1
+847,The American College of Financial Services,Bryn Mawr ,Pennsylvania,Northeast,1927,14999,50,Suburban,40.022711,-75.320873,2
+848,Meredith College,Raleigh ,North Carolina,Southeast,1891,2999,199,Urban,35.781295,-78.64167,2
+849,Gannon University,Erie ,Pennsylvania,Northeast,1925,4999,499,Urban,42.127951,-80.08258,2
+850,Northern State University,Aberdeen ,South Dakota,Midwest,1901,5999,199,Rural,45.465163,-98.488057,2
+851,Prairie View A&M University,Prairie View ,Texas,Southwest,1876,9999,499,Rural,30.095406,-95.987187,2
+852,Centre College,Danville ,Kentucky,Southeast,1819,1999,199,Suburban,37.64591,-84.774043,2
+853,"Baruch College, CUNY",New York City ,New York,Northeast,1919,19999,1499,Urban,40.713054,-74.007228,2
+854,Husson University,Bangor ,Maine,Northeast,1898,3999,399,Suburban,44.801602,-68.771334,2
+855,Taylor University,Upland ,Indiana,Midwest,1846,2999,299,Rural,40.475259,-85.494489,2
+856,Voorhees College,Denmark ,South Carolina,Southeast,1897,999,99,Rural,33.322219,-81.14257,2
+857,Texas A&M University at Galveston,Galveston ,Texas,Southwest,1962,1999,399,Urban,29.300128,-94.795846,2
+858,Clayton State University,Morrow ,Georgia,Southeast,1969,8999,399,Suburban,33.583311,-84.341454,2
+859,Eastern New Mexico University,Portales ,New Mexico,Southwest,1934,7999,299,Rural,34.181053,-103.345211,2
+860,Concordia University Irvine,Irvine ,California,West,1976,5999,199,Urban,33.685908,-117.824719,5
+861,Concordia College,Moorhead ,Minnesota,Midwest,1891,2999,299,Suburban,46.873809,-96.767816,2
+862,St. Ambrose University,Davenport ,Iowa,Midwest,1882,3999,299,Urban,41.523527,-90.577036,2
+863,Wittenberg University,Springfield ,Ohio,Midwest,1845,2999,199,Urban,39.924581,-83.810137,2
+864,Capitol Technology University,Laurel ,Maryland,Southeast,1927,999,199,Suburban,39.099535,-76.848374,2
+865,Edinboro University of Pennsylvania,Edinboro ,Pennsylvania,Northeast,1857,6999,399,Suburban,41.875745,-80.131692,2
+866,Curtis Institute of Music,Philadelphia ,Pennsylvania,Northeast,1924,250,199,Urban,39.951061,-75.16562,2
+867,Robert Morris University,Moon Township ,Pennsylvania,Northeast,1921,5999,299,Suburban,40.504501,-80.191299,2
+868,Lincoln University,Lincoln University ,Pennsylvania,Northeast,1854,2999,199,Suburban,39.80477,-75.93349,2
+869,Ottawa University,Ottawa ,Kansas,Midwest,1865,999,99,Rural,38.608498,-95.268637,2
+870,Northwest Nazarene University,Nampa ,Idaho,West,1913,6999,199,Suburban,43.585322,-116.573581,1
+871,ECPI University,Virginia Beach ,Virginia,Southeast,1966,19999,1499,Urban,36.845117,-75.975518,2
+872,Northwestern State University of Louisiana,Natchitoches ,Louisiana,Southeast,1884,14999,599,Rural,31.753482,-93.087377,1
+873,University of Lynchburg,Lynchburg ,Virginia,Southeast,1903,3999,299,Urban,37.414345,-79.143204,2
+874,Penn State College of Medicine,Hershey ,Pennsylvania,Northeast,1967,999,1499,Suburban,40.284764,-76.64926,2
+875,Hartwick College,Oneonta ,New York,Northeast,1797,1999,99,Rural,42.45297,-75.063158,2
+876,Gwynedd Mercy University,Gwynedd Valley ,Pennsylvania,Northeast,1948,3999,499,Suburban,40.1842,-75.256699,2
+877,Eastern Connecticut State University,Willimantic ,Connecticut,Northeast,1889,5999,399,Suburban,41.711724,-72.211975,2
+878,Southeastern University,Lakeland ,Florida,Southeast,1935,8999,199,Urban,28.040507,-81.954113,2
+879,"Westminster College, Pennsylvania",New Wilmington ,Pennsylvania,Northeast,1852,1999,199,Suburban,41.122483,-80.333095,2
+880,Lebanon Valley College,Annville ,Pennsylvania,Northeast,1866,2999,299,Suburban,40.329628,-76.517407,2
+881,Manhattan School of Music,New York City ,New York,Northeast,1917,1999,399,Urban,40.713054,-74.007228,2
+882,Montana State University Billings,Billings ,Montana,West,1927,5999,399,Urban,45.78265,-108.504578,1
+883,Christian Brothers University,Memphis ,Tennessee,Southeast,1871,2999,199,Urban,35.143378,-90.052136,2
+884,Saint Mary's University of Minnesota,Winona ,Minnesota,Midwest,1912,7999,499,Rural,44.049877,-91.639366,1
+885,Eastern Oregon University,La Grande ,Oregon,West,1929,4999,199,Rural,45.324565,-118.087985,1
+886,Lake Forest College,Lake Forest ,Illinois,Midwest,1857,1999,199,Suburban,42.232631,-87.854956,2
+887,University of North Carolina School of the Arts,Winston-Salem ,North Carolina,Southeast,1963,1999,199,Urban,36.096261,-80.243735,2
+888,Alabama State University,Montgomery ,Alabama,Southeast,1867,5999,499,Urban,32.376547,-86.299651,2
+889,Indiana University Southeast,New Albany ,Indiana,Midwest,1941,6999,299,Suburban,38.283507,-85.823002,2
+890,Lynn University,Boca Raton ,Florida,Southeast,1962,3999,199,Urban,26.35052,-80.089831,2
+891,Carroll University,Waukesha ,Wisconsin,Midwest,1846,3999,499,Urban,43.012805,-88.235085,2
+892,East Stroudsburg University,East Stroudsburg ,Pennsylvania,Northeast,1893,7999,399,Urban,41.002827,-75.183229,2
+893,Lincoln Memorial University,Harrogate ,Tennessee,Southeast,1897,5999,599,Rural,36.583098,-83.656329,2
+894,Dordt University,Sioux Center ,Iowa,Midwest,1955,1999,199,Rural,43.075969,-96.175468,2
+895,University of Mary,Bismarck ,North Dakota,Midwest,1959,4999,399,Rural,46.80537,-100.781609,1
+896,Alabama A&M University,Huntsville ,Alabama,Southeast,1875,6999,399,Urban,34.729538,-86.585283,2
+897,Manhattanville College,Purchase ,New York,Northeast,1841,3999,399,Suburban,41.040798,-73.714996,2
+898,New England Conservatory,Boston ,Massachusetts,Northeast,1867,999,399,Urban,42.358894,-71.056742,2
+899,City University of Seattle,Seattle ,Washington,West,1973,3999,499,Urban,47.603229,-122.33028,2
+900,Central College,Pella ,Iowa,Midwest,1853,1999,199,Rural,41.408107,-92.916445,2
+901,Mayo Clinic College of Medicine and Science,Rochester ,Minnesota,Midwest,1972,1999,699,Urban,44.019331,-92.458867,1
+902,Baker University,Baldwin City ,Kansas,Midwest,1858,3999,499,Suburban,38.774931,-95.186096,2
+903,University of Wisconsin-Superior,Superior ,Wisconsin,Midwest,1893,3999,199,Suburban,46.72064,-92.097919,1
+904,Guilford College,Greensboro ,North Carolina,Southeast,1837,1999,199,Urban,36.072701,-79.793899,2
+905,Charleston Southern University,Charleston ,South Carolina,Southeast,1964,4999,399,Urban,32.77647,-79.931027,2
+906,Eastern University,St. Davids ,Pennsylvania,Northeast,1952,4999,499,Suburban,40.040798,-75.378899,2
+907,Sterling College,Sterling ,Kansas,Midwest,1887,999,99,Rural,38.209868,-98.206928,2
+908,San Francisco Art Institute,San Francisco ,California,West,1871,999,99,Urban,37.78008,-122.420168,2
+909,Nazareth College,Rochester ,New York,Northeast,1924,3999,499,Suburban,43.155708,-77.612547,2
+910,Mercyhurst University,Erie ,Pennsylvania,Northeast,1926,3999,299,Urban,42.127951,-80.08258,2
+911,Spring Hill College,Mobile ,Alabama,Southeast,1830,1999,199,Urban,30.688943,-88.044822,2
+912,Southern Adventist University,Collegedale ,Tennessee,Southeast,1892,3999,199,Suburban,35.05286,-85.048644,1
+913,Point Park University,Pittsburgh ,Pennsylvania,Northeast,1960,5999,699,Urban,40.442169,-79.994945,2
+914,Spring Arbor University,Spring Arbor ,Michigan,Midwest,1873,4999,399,Suburban,42.205223,-84.554027,2
+915,College for Creative Studies,Detroit ,Michigan,Midwest,1906,1999,99,Urban,42.332916,-83.047853,3
+916,Seattle Central College,Seattle ,Washington,West,1965,14999,399,Urban,47.603229,-122.33028,2
+917,John Brown University,Siloam Springs ,Arkansas,Southeast,1919,2999,199,Rural,36.188546,-94.541382,2
+918,Marian University,Indianapolis ,Indiana,Midwest,1937,4999,399,Urban,39.76845,-86.156212,2
+919,Lycoming College,Williamsport ,Pennsylvania,Northeast,1812,1999,199,Urban,41.241489,-77.04192,2
+920,Wilmington University,New Castle ,Delaware,Southeast,1968,19999,1999,Suburban,39.660057,-75.560876,2
+921,Transylvania University,Lexington ,Kentucky,Southeast,1780,999,199,Urban,38.046356,-84.497021,2
+922,Hampden-Sydney College,Hampden-Sydney ,Virginia,Southeast,1775,1999,199,Rural,37.236964,-78.458567,2
+923,Austin College,Sherman ,Texas,Southwest,1849,1999,199,Urban,33.63559,-96.609017,2
+924,McNeese State University,Lake Charles ,Louisiana,Southeast,1939,8999,299,Urban,30.229289,-93.217112,1
+925,Winston-Salem State University,Winston-Salem ,North Carolina,Southeast,1892,5999,499,Urban,36.096261,-80.243735,2
+926,Belhaven University,Jackson ,Mississippi,Southeast,1883,5999,99,Urban,32.302897,-90.183488,2
+927,Farmingdale State College,Farmingdale ,New York,Northeast,1912,19999,899,Suburban,40.732911,-73.445878,4
+928,Coe College,Cedar Rapids ,Iowa,Midwest,1851,1999,199,Urban,41.978122,-91.669808,2
+929,Delta State University,Cleveland ,Mississippi,Southeast,1924,5999,299,Rural,33.747697,-90.721696,1
+930,Western Colorado University,Gunnison ,Colorado,West,1901,3999,199,Rural,38.545502,-106.926898,2
+931,Brooklyn College,Brooklyn ,New York,Northeast,1930,24999,1499,Urban,40.692529,-73.990996,2
+932,American International College,Springfield ,Massachusetts,Northeast,1885,3999,499,Urban,42.102051,-72.585757,2
+933,Warren Wilson College,Swannanoa ,North Carolina,Southeast,1894,999,199,Suburban,35.601923,-82.397773,2
+934,DeSales University,Center Valley ,Pennsylvania,Northeast,1964,4999,399,Suburban,40.529258,-75.393782,2
+935,Saint Xavier University,Chicago ,Illinois,Midwest,1846,4999,399,Urban,41.883229,-87.632398,2
+936,Southwestern Law School,Los Angeles ,California,West,1911,999,99,Urban,34.052238,-118.243344,3
+937,Rosemont College,Rosemont ,Pennsylvania,Northeast,1921,1999,199,Suburban,40.0256,-75.324203,2
+938,"Anderson University, Indiana",Anderson ,Indiana,Midwest,1917,2999,199,Urban,40.107884,-85.67821,2
+939,Endicott College,Beverly ,Massachusetts,Northeast,1939,6999,499,Suburban,42.552163,-70.882679,2
+940,Paul Smith's College,Paul Smiths ,New York,Northeast,1946,999,99,Rural,44.435899,-74.251543,2
+941,Ripon College,Ripon ,Wisconsin,Midwest,1851,999,99,Rural,43.84154,-88.835355,1
+942,Lewis-Clark State College,Lewiston ,Idaho,West,1893,4999,199,Urban,46.419101,-117.019012,1
+943,Centenary College of Louisiana,Shreveport ,Louisiana,Southeast,1825,999,99,Urban,32.51424,-93.747757,1
+944,Metropolitan State University,Saint Paul ,Minnesota,Midwest,1971,14999,699,Urban,44.943719,-93.094281,1
+945,Grambling State University,Grambling ,Louisiana,Southeast,1901,6999,199,Rural,32.529843,-92.713617,1
+946,Dillard University,New Orleans ,Louisiana,Southeast,1869,1999,199,Urban,29.950621,-90.074948,1
+947,"The Graduate Center, CUNY",New York City ,New York,Northeast,1961,9999,599,Urban,40.713054,-74.007228,2
+948,Lee University,Cleveland ,Tennessee,Southeast,1918,6999,299,Urban,35.159867,-84.8755,2
+949,Concordia University Texas,Austin ,Texas,Southwest,1926,3999,99,Urban,30.264979,-97.746598,2
+950,Saint Mary's College,Notre Dame ,Indiana,Midwest,1844,1999,299,Suburban,41.705669,-86.247525,2
+951,Berkeley College,New York City ,New York,Northeast,1931,5999,99,Urban,40.713054,-74.007228,2
+952,California University of Pennsylvania,California ,Pennsylvania,Northeast,1852,14999,499,Suburban,40.067097,-79.894911,2
+953,Hollins University,Roanoke ,Virginia,Southeast,1842,999,199,Suburban,37.270496,-79.940581,2
+954,The College of Saint Rose,Albany ,New York,Northeast,1920,4999,399,Urban,42.651242,-73.755418,2
+955,Bennett College,Greensboro ,North Carolina,Southeast,1873,999,99,Urban,36.072701,-79.793899,2
+956,Pacific Union College,Angwin ,California,West,1882,1999,99,Rural,38.575715,-122.450037,1
+957,The University of West Alabama,Livingston ,Alabama,Southeast,1835,6999,299,Rural,32.584139,-88.186665,2
+958,Keiser University,Fort Lauderdale ,Florida,Southeast,1977,34999,1999,Urban,26.124163,-80.143586,2
+959,Gardner-Webb University,Boiling Springs ,North Carolina,Southeast,1905,4999,199,Rural,35.250545,-81.662918,2
+960,Millikin University,Decatur ,Illinois,Midwest,1901,2999,399,Urban,39.841454,-88.955851,2
+961,Moody Bible Institute,Chicago ,Illinois,Midwest,1886,3999,299,Urban,41.883229,-87.632398,2
+962,Mitchell Hamline School of Law,Saint Paul ,Minnesota,Midwest,2015,1999,499,Urban,44.943719,-93.094281,1
+963,Mount St. Joseph University,Cincinnati ,Ohio,Midwest,1920,2999,199,Suburban,39.104427,-84.513808,2
+964,Cameron University,Lawton ,Oklahoma,Southwest,1908,5999,299,Urban,34.606378,-98.396817,2
+965,Fresno Pacific University,Fresno ,California,West,1944,5999,199,Urban,36.731654,-119.785856,1
+966,Walsh University,North Canton ,Ohio,Midwest,1960,3999,199,Suburban,40.877204,-81.402456,2
+967,Western New Mexico University,Silver City ,New Mexico,Southwest,1893,4999,299,Rural,32.769511,-108.273837,2
+968,Aurora University,Aurora ,Illinois,Midwest,1893,7999,499,Suburban,41.75527,-88.309507,2
+969,Rogers State University,Claremore ,Oklahoma,Southwest,1909,4999,299,Suburban,36.313969,-95.61658,2
+970,Saint Vincent College,Latrobe ,Pennsylvania,Northeast,1846,1999,199,Suburban,40.318276,-79.381082,2
+971,Wagner College,Staten Island ,New York,Northeast,1883,2999,199,Urban,40.643498,-74.076203,2
+972,Simpson College,Indianola ,Iowa,Midwest,1860,1999,299,Suburban,41.35826,-93.558337,2
+973,Manchester University,North Manchester ,Indiana,Midwest,1889,1999,199,Rural,40.999013,-85.774476,2
+974,Buena Vista University,Storm Lake ,Iowa,Midwest,1891,2999,599,Rural,42.640945,-95.200862,1
+975,South Texas College of Law,Houston ,Texas,Southwest,1923,1999,199,Urban,29.760803,-95.369506,2
+976,Shepherd University,Shepherdstown ,West Virginia,Southeast,1871,4999,399,Suburban,39.430374,-77.804289,2
+977,Alvernia University,Reading ,Pennsylvania,Northeast,1958,3999,199,Urban,40.336919,-75.921965,2
+978,Merrimack College,North Andover ,Massachusetts,Northeast,1947,5999,499,Suburban,42.687667,-71.121572,2
+979,LeTourneau University,Longview ,Texas,Southwest,1946,3999,299,Urban,32.494556,-94.742336,1
+980,The Sage Colleges,Troy ,New York,Northeast,1916,2999,199,Urban,42.727684,-73.691059,2
+981,Rush University,Chicago ,Illinois,Midwest,1972,3999,1499,Urban,41.883229,-87.632398,2
+982,University of Maine at Machias,Machias ,Maine,Northeast,1909,999,99,Rural,44.7143,-67.459751,2
+983,New College of Florida,Sarasota ,Florida,Southeast,1960,999,199,Suburban,27.336483,-82.538602,2
+984,Adams State University,Alamosa ,Colorado,West,1921,4999,299,Rural,37.468191,-105.874293,2
+985,Tougaloo College,Tougaloo ,Mississippi,Southeast,1869,999,99,Urban,32.397499,-90.158897,2
+986,Buffalo State College,Buffalo ,New York,Northeast,1871,14999,899,Urban,42.887691,-78.879374,2
+987,MCPHS University,Boston ,Massachusetts,Northeast,1823,7999,899,Urban,42.358894,-71.056742,2
+988,Whitworth University,Spokane ,Washington,West,1890,2999,199,Suburban,47.658999,-117.425022,1
+989,Notre Dame of Maryland University,Baltimore ,Maryland,Southeast,1895,3999,299,Urban,39.290443,-76.612333,2
+990,Woodbury University,Burbank ,California,West,1884,1999,299,Urban,34.182052,-118.307476,3
+991,Bethune-Cookman University,Daytona Beach ,Florida,Southeast,1904,4999,299,Urban,29.207056,-81.020739,2
+992,Framingham State University,Framingham ,Massachusetts,Northeast,1839,9999,399,Urban,42.28156,-71.418825,2
+993,Trinity Washington University,Washington ,District of Columbia,Northeast,1897,2999,299,Urban,38.892062,-77.019912,2
+994,Walla Walla University,College Place ,Washington,West,1892,2999,199,Suburban,46.0439,-118.378229,1
+995,Saint Francis University,Loretto ,Pennsylvania,Northeast,1847,3999,199,Suburban,40.508837,-78.63748,2
+996,Mount St. Mary's University,Emmitsburg ,Maryland,Southeast,1808,2999,199,Suburban,39.704508,-77.32596,2
+997,Unity College,Unity ,Maine,Northeast,1965,999,99,Rural,44.611297,-69.33421,2
+998,Molloy College,Rockville Centre ,New York,Northeast,1955,8999,799,Suburban,40.662249,-73.640293,4
+999,Southwestern College,Winfield ,Kansas,Midwest,1885,2999,99,Rural,37.240493,-96.987168,2
+1000,Alfred State College,Alfred ,New York,Northeast,1908,4999,299,Rural,42.254724,-77.790363,2
+1001,University of St. Thomas,Houston ,Texas,Southwest,1947,3999,199,Urban,29.760803,-95.369506,2
+1002,Alma College,Alma ,Michigan,Midwest,1886,1999,199,Rural,43.377637,-84.658593,4
+1003,Edgewood College,Madison ,Wisconsin,Midwest,1927,2999,299,Urban,43.073926,-89.385244,2
+1004,Grace College,Winona Lake ,Indiana,Midwest,1948,2999,99,Rural,41.227491,-85.816558,2
+1005,Oklahoma Christian University,Edmond ,Oklahoma,Southwest,1950,2999,199,Urban,35.65314,-97.481511,2
+1006,Chadron State College,Chadron ,Nebraska,Midwest,1911,3999,99,Rural,42.830856,-103.00023,2
+1007,Hiram College,Hiram ,Ohio,Midwest,1850,1999,99,Suburban,41.309419,-81.143599,2
+1008,Henderson State University,Arkadelphia ,Arkansas,Southeast,1890,3999,299,Rural,34.120959,-93.053523,1
+1009,Bridgewater College,Bridgewater ,Virginia,Southeast,1880,1999,199,Suburban,38.386509,-78.970604,2
+1010,D'Youville College,Buffalo ,New York,Northeast,1908,3999,399,Urban,42.887691,-78.879374,2
+1011,Alverno College,Milwaukee ,Wisconsin,Midwest,1887,2999,299,Urban,43.041072,-87.909421,2
+1012,Saint Martin's University,Lacey ,Washington,West,1895,1999,299,Suburban,47.043299,-122.823152,1
+1013,California State University Maritime Academy,Vallejo ,California,West,1929,1999,99,Urban,38.101088,-122.254959,1
+1014,Doane University,Crete ,Nebraska,Midwest,1872,1999,199,Rural,40.625243,-96.957913,1
+1015,Northwood University,Midland ,Michigan,Midwest,1959,4999,99,Urban,43.623616,-84.225536,3
+1016,Herzing University,Madison ,Wisconsin,Midwest,1965,4999,499,Urban,43.073926,-89.385244,2
+1017,Aquinas College,Grand Rapids ,Michigan,Midwest,1886,1999,299,Urban,42.965446,-85.670209,2
+1018,University of South Carolina-Upstate,Spartanburg ,South Carolina,Southeast,1967,7999,499,Suburban,34.947914,-81.934664,2
+1019,Post University,Waterbury ,Connecticut,Northeast,1890,19999,599,Suburban,41.554261,-73.043069,2
+1020,Morrisville State College,Morrisville ,New York,Northeast,1908,3999,299,Rural,42.898931,-75.645966,2
+1021,Emmanuel College,Boston ,Massachusetts,Northeast,1919,2999,199,Urban,42.358894,-71.056742,2
+1022,Columbus College of Art and Design,Columbus ,Ohio,Midwest,1879,1999,299,Urban,39.962649,-82.996216,2
+1023,Albany Medical College,Albany ,New York,Northeast,1839,999,499,Urban,42.651242,-73.755418,2
+1024,Upper Iowa University,Fayette ,Iowa,Midwest,1857,8999,99,Rural,42.842107,-91.800913,1
+1025,Chaminade University of Honolulu,Honolulu ,Hawaii,Northeast,1955,2999,99,Urban,21.30992,-157.858158,1
+1026,Southeastern Oklahoma State University,Durant ,Oklahoma,Southwest,1909,5999,199,Rural,33.991879,-96.387254,1
+1027,The University of Texas Permian Basin,Odessa ,Texas,Southwest,1969,9999,299,Urban,31.849462,-102.374677,2
+1028,Monroe College,The Bronx ,New York,Northeast,1933,9999,599,Urban,40.826153,-73.920265,2
+1029,New York Medical College,Valhalla ,New York,Northeast,1860,1999,599,Suburban,41.080281,-73.776807,2
+1030,Boston Architectural College,Boston ,Massachusetts,Northeast,1889,999,299,Urban,42.358894,-71.056742,2
+1031,Malone University,Canton ,Ohio,Midwest,2008,2999,199,Urban,40.797388,-81.377036,2
+1032,Marywood University,Scranton ,Pennsylvania,Northeast,1915,3999,399,Urban,41.409113,-75.662346,2
+1033,The City College of New York,New York City ,New York,Northeast,1847,19999,1499,Urban,40.713054,-74.007228,2
+1034,Southwestern Oklahoma State University,Weatherford ,Oklahoma,Southwest,1901,6999,299,Rural,35.526058,-98.704959,1
+1035,Stevenson University,Stevenson ,Maryland,Southeast,1947,4999,499,Suburban,39.410301,-76.713303,2
+1036,University of St. Francis,Joliet ,Illinois,Midwest,1920,6999,199,Suburban,41.524956,-88.082979,2
+1037,Geneva College,Beaver Falls ,Pennsylvania,Northeast,1848,1999,99,Suburban,40.755968,-80.319427,2
+1038,University of South Carolina-Aiken,Aiken ,South Carolina,Southeast,1961,4999,399,Urban,33.563871,-81.71615,2
+1039,Evangel University,Springfield ,Missouri,Midwest,1955,2999,299,Urban,37.215521,-93.292361,2
+1040,New Mexico Highlands University,Las Vegas ,New Mexico,Southwest,1893,3999,199,Rural,35.598521,-105.218849,2
+1041,Vincennes University,Vincennes ,Indiana,Midwest,1801,24999,899,Suburban,38.682025,-87.5125,2
+1042,University of North Texas Health Science Center,Fort Worth ,Texas,Southwest,1970,2999,399,Urban,32.739977,-97.340038,2
+1043,Purdue University Northwest,Hammond ,Indiana,Midwest,2016,14999,699,Suburban,41.604595,-87.508921,2
+1044,San Francisco Conservatory of Music,San Francisco ,California,West,1917,499,50,Urban,37.78008,-122.420168,2
+1045,Ferrum College,Ferrum ,Virginia,Southeast,1913,1999,99,Rural,36.924113,-80.018603,2
+1046,Life University,Marietta ,Georgia,Southeast,1974,3999,299,Urban,33.952304,-84.549051,2
+1047,North Carolina Wesleyan College,Rocky Mount ,North Carolina,Southeast,1956,2999,299,Urban,35.939032,-77.800239,2
+1048,Wayne State College,Wayne ,Nebraska,Midwest,1910,4999,299,Rural,42.235507,-97.020756,2
+1049,Carroll College,Helena ,Montana,West,1909,1999,199,Rural,46.59107,-112.020458,2
+1050,Nicholls State University,Thibodaux ,Louisiana,Southeast,1948,7999,299,Suburban,29.795742,-90.822529,2
+1051,United States Coast Guard Academy,New London ,Connecticut,Northeast,1876,1999,199,Urban,41.355167,-72.099561,2
+1052,Ouachita Baptist University,Arkadelphia ,Arkansas,Southeast,1886,1999,199,Suburban,34.120959,-93.053523,1
+1053,Coppin State University,Baltimore ,Maryland,Southeast,1938,3999,299,Urban,39.290443,-76.612333,2
+1054,Black Hills State University,Spearfish ,South Dakota,Midwest,1883,6999,299,Rural,44.482955,-103.850382,2
+1055,Francis Marion University,Florence ,South Carolina,Southeast,1970,4999,399,Suburban,34.195772,-79.761968,2
+1056,John Jay College of Criminal Justice,New York City ,New York,Northeast,1964,19999,1499,Urban,40.713054,-74.007228,2
+1057,Hardin-Simmons University,Abilene ,Texas,Southwest,1891,2999,299,Urban,32.453562,-99.732654,2
+1058,McKendree University,Lebanon ,Illinois,Midwest,1828,3999,99,Suburban,38.603944,-89.810378,2
+1059,University of the Sciences in Philadelphia,Philadelphia ,Pennsylvania,Northeast,1821,2999,199,Urban,39.951061,-75.16562,2
+1060,Southern California Institute of Architecture,Los Angeles ,California,West,1972,999,99,Urban,34.052238,-118.243344,3
+1061,A.T. Still University,Kirksville ,Missouri,Midwest,1892,4999,799,Rural,40.194722,-92.582052,2
+1062,University of Hawaii at Hilo,Hilo ,Hawaii,Northeast,1970,4999,399,Rural,19.725258,-155.089086,1
+1063,"Lincoln University, Missouri",Jefferson City ,Missouri,Midwest,1866,3999,199,Urban,38.577896,-92.187689,2
+1064,Southwest Minnesota State University,Marshall ,Minnesota,Midwest,1963,8999,299,Rural,44.444607,-95.785407,2
+1065,Trinity International University,Deerfield ,Illinois,Midwest,1897,2999,299,Suburban,42.167311,-87.845735,2
+1066,Greenville University,Greenville ,Illinois,Midwest,1892,1999,99,Rural,38.892715,-89.413455,2
+1067,Saint Peter's University,Jersey City ,New Jersey,Northeast,1872,4999,399,Urban,40.717495,-74.044111,2
+1068,Cornerstone University,Grand Rapids ,Michigan,Midwest,1941,2999,99,Urban,42.965446,-85.670209,2
+1069,Bard College at Simon's Rock,Great Barrington ,Massachusetts,Northeast,1964,499,99,Rural,42.193809,-73.362878,2
+1070,Southern Nazarene University,Bethany ,Oklahoma,Southwest,1899,2999,299,Suburban,35.507901,-97.635174,2
+1071,Fitchburg State University,Fitchburg ,Massachusetts,Northeast,1894,14999,399,Suburban,42.580807,-71.795967,2
+1072,University of Dubuque,Dubuque ,Iowa,Midwest,1852,2999,99,Urban,42.505512,-90.667314,2
+1073,New England Institute of Technology,East Greenwich ,Rhode Island,Northeast,1940,3999,399,Suburban,41.662261,-71.450022,2
+1074,Faulkner University,Montgomery ,Alabama,Southeast,1942,4999,399,Urban,32.376547,-86.299651,2
+1075,Maine College of Art,Portland ,Maine,Northeast,1882,999,199,Urban,43.659218,-70.256519,2
+1076,Presbyterian College,Clinton ,South Carolina,Southeast,1880,1999,199,Rural,34.47264,-81.880784,2
+1077,Indiana University Northwest,Gary ,Indiana,Midwest,1959,5999,399,Urban,41.601967,-87.349684,2
+1078,Rockhurst University,Kansas City ,Missouri,Midwest,1910,3999,299,Urban,39.099792,-94.578559,2
+1079,Cardinal Stritch University,Milwaukee ,Wisconsin,Midwest,1937,3999,299,Suburban,43.041072,-87.909421,2
+1080,Elmira College,Elmira ,New York,Northeast,1855,1999,199,Suburban,42.089823,-76.808259,2
+1081,Daytona State College,Daytona Beach ,Florida,Southeast,1957,19999,999,Urban,29.207056,-81.020739,2
+1082,Houghton College,Houghton ,New York,Northeast,1883,1999,199,Rural,42.426194,-78.151063,2
+1083,Nebraska Wesleyan University,Lincoln ,Nebraska,Midwest,1887,4999,399,Urban,40.813599,-96.70261,1
+1084,Soka University of America,Aliso Viejo ,California,West,2001,499,99,Suburban,33.569594,-117.726369,3
+1085,Asbury University,Wilmore ,Kentucky,Southeast,1890,2999,199,Suburban,37.861905,-84.661723,2
+1086,Pfeiffer University,Misenheimer ,North Carolina,Southeast,1885,1999,99,Rural,35.484951,-80.28186,2
+1087,Fielding Graduate University,Santa Barbara ,California,West,1974,1999,199,Urban,34.420867,-119.698342,1
+1088,Heidelberg University,Tiffin ,Ohio,Midwest,1850,1999,199,Rural,41.114589,-83.176563,2
+1089,Daemen College,Amherst ,New York,Northeast,1947,3999,299,Suburban,42.97911,-78.799259,2
+1090,Campbellsville University,Campbellsville ,Kentucky,Southeast,1906,14999,499,Rural,37.347967,-85.348089,2
+1091,State College of Florida-Manatee-Sarasota,Bradenton ,Florida,Southeast,1957,14999,499,Suburban,27.488962,-82.562798,2
+1092,National American University,Rapid City ,South Dakota,Midwest,1941,9999,399,Urban,44.082995,-103.224443,2
+1093,University of Montevallo,Montevallo ,Alabama,Southeast,1896,2999,299,Suburban,33.100335,-86.863057,2
+1094,Northland College,Ashland ,Wisconsin,Midwest,1906,999,99,Rural,46.59014,-90.888929,2
+1095,Mississippi University for Women,Columbus ,Mississippi,Southeast,1884,3999,299,Rural,33.495562,-88.424393,2
+1096,University of Sioux Falls,Sioux Falls ,South Dakota,Midwest,1883,2999,199,Urban,43.488765,-96.743185,1
+1097,Immaculata University,Immaculata ,Pennsylvania,Northeast,1920,3999,99,Suburban,40.0275,-75.5467,2
+1098,SUNY Maritime College,Throggs Neck ,New York,Northeast,1874,1999,199,Urban,40.822498,-73.82,2
+1099,Shorter University,Rome ,Georgia,Southeast,1873,1999,199,Urban,34.260461,-85.180623,2
+1100,Bethel College,North Newton ,Kansas,Midwest,1887,999,99,Suburban,38.073396,-97.345228,2
+1101,Curry College,Milton ,Massachusetts,Northeast,1879,3999,399,Suburban,42.248566,-71.069184,2
+1102,SUNY College at Old Westbury,Old Westbury ,New York,Northeast,1965,6999,399,Suburban,40.788748,-73.599747,4
+1103,Albany State University,Albany ,Georgia,Southeast,1903,14999,399,Urban,31.57846,-84.155875,2
+1104,Missouri Southern State University,Joplin ,Missouri,Midwest,1937,6999,299,Urban,37.087628,-94.512248,2
+1105,Massachusetts College of Liberal Arts,North Adams ,Massachusetts,Northeast,1894,2999,199,Suburban,42.700543,-73.108704,2
+1106,Worcester State University,Worcester ,Massachusetts,Northeast,1874,14999,499,Urban,42.262073,-71.802278,2
+1107,Neumann University,Aston ,Pennsylvania,Northeast,1965,3999,299,Suburban,39.864165,-75.427836,2
+1108,Rivier University,Nashua ,New Hampshire,Northeast,1933,3999,299,Urban,42.75787,-71.46395,2
+1109,East Central University,Ada ,Oklahoma,Southwest,1909,3999,299,Rural,34.774512,-96.678643,2
+1110,Southern Arkansas University,Magnolia ,Arkansas,Southeast,1909,5999,299,Rural,33.272642,-93.232869,1
+1111,Northwestern College,Orange City ,Iowa,Midwest,1882,1999,99,Rural,43.00136,-96.056776,2
+1112,Carlow University,Pittsburgh ,Pennsylvania,Northeast,1929,2999,199,Urban,40.442169,-79.994945,2
+1113,Georgian Court University,Lakewood ,New Jersey,Northeast,1908,2999,299,Urban,40.08991,-74.216273,2
+1114,University of Maryland Eastern Shore,Princess Anne ,Maryland,Southeast,1886,3999,399,Suburban,38.203903,-75.694321,2
+1115,Brenau University,Gainesville ,Georgia,Southeast,1878,3999,299,Urban,34.298772,-83.829629,2
+1116,Des Moines University,Des Moines ,Iowa,Midwest,1898,1999,199,Urban,41.588822,-93.620309,2
+1117,Cedar Crest College,Allentown ,Pennsylvania,Northeast,1867,1999,299,Urban,40.602753,-75.469759,2
+1118,Goddard College,Plainfield ,Vermont,Northeast,1863,999,50,Rural,44.275009,-72.422668,2
+1119,University of Houston-Victoria,Victoria ,Texas,Southwest,1973,4999,199,Urban,28.799192,-97.006062,2
+1120,Mansfield University of Pennsylvania,Mansfield ,Pennsylvania,Northeast,1857,2999,299,Rural,41.805865,-77.077598,2
+1121,Columbia International University,Columbia ,South Carolina,Southeast,1923,1999,99,Urban,34.009286,-81.037094,2
+1122,Mount Saint Mary College,Newburgh ,New York,Northeast,1954,2999,299,Suburban,41.500705,-74.021352,2
+1123,Dallas Baptist University,Dallas ,Texas,Southwest,1898,5999,199,Urban,32.777977,-96.796215,1
+1124,Cleveland Institute of Art,Cleveland ,Ohio,Midwest,1882,999,199,Urban,41.505546,-81.6915,2
+1125,Nichols College,Dudley ,Massachusetts,Northeast,1815,1999,199,Suburban,42.055553,-71.951205,2
+1126,University of Saint Joseph,West Hartford ,Connecticut,Northeast,1932,3999,199,Suburban,41.762008,-72.741807,2
+1127,Clarke University,Dubuque ,Iowa,Midwest,1843,1999,199,Urban,42.505512,-90.667314,2
+1128,Lasell University,Newton ,Massachusetts,Northeast,1851,2999,299,Urban,42.338028,-71.211578,2
+1129,University of the Cumberlands,Williamsburg ,Kentucky,Southeast,1888,19999,699,Rural,36.740616,-84.162089,1
+1130,Wisconsin Lutheran College,Milwaukee ,Wisconsin,Midwest,1973,1999,99,Urban,43.041072,-87.909421,2
+1131,Savannah State University,Savannah ,Georgia,Southeast,1890,5999,299,Urban,32.08059,-81.090103,2
+1132,Houston Baptist University,Houston ,Texas,Southwest,1960,3999,399,Urban,29.760803,-95.369506,2
+1133,Catawba College,Salisbury ,North Carolina,Southeast,1851,1999,199,Suburban,35.668328,-80.470993,1
+1134,Samuel Merritt University,Oakland ,California,West,1909,2999,399,Urban,37.804828,-122.27248,1
+1135,"Concordia University, Nebraska",Seward ,Nebraska,Midwest,1894,3999,99,Rural,40.907826,-97.09908,1
+1136,Johnson C. Smith University,Charlotte ,North Carolina,Southeast,1867,1999,199,Urban,35.222936,-80.840161,2
+1137,West Coast University-Los Angeles,North Hollywood ,California,West,1909,2999,199,Urban,34.172199,-118.378098,3
+1138,Meharry Medical College,Nashville ,Tennessee,Southeast,1876,999,299,Urban,36.166687,-86.779932,2
+1139,Franciscan University of Steubenville,Steubenville ,Ohio,Midwest,1946,3999,199,Urban,40.369896,-80.632082,2
+1140,Cornish College of the Arts,Seattle ,Washington,West,1914,999,199,Urban,47.603229,-122.33028,2
+1141,Delaware Valley University,Doylestown ,Pennsylvania,Northeast,1896,2999,299,Suburban,40.309997,-75.130507,2
+1142,Concordia University Chicago,River Forest ,Illinois,Midwest,1864,7999,599,Suburban,41.894047,-87.81635,2
+1143,Prescott College,Prescott ,Arizona,Southwest,1966,999,99,Urban,34.541445,-112.470124,1
+1144,American Jewish University,Los Angeles ,California,West,1947,250,50,Urban,34.052238,-118.243344,3
+1145,Converse College,Spartanburg ,South Carolina,Southeast,1889,3999,99,Urban,34.947914,-81.934664,2
+1146,SUNY Cobleskill,Cobleskill ,New York,Northeast,1911,3999,199,Rural,42.677833,-74.485353,2
+1147,Thomas Aquinas College,Santa Paula ,California,West,1971,499,99,Rural,34.35395,-119.059977,1
+1148,Trevecca Nazarene University,Nashville ,Tennessee,Southeast,1901,4999,199,Urban,36.166687,-86.779932,2
+1149,Alaska Pacific University,Anchorage ,Alaska,Outside,1957,999,99,Urban,61.216583,-149.899597,1
+1150,Texas Wesleyan University,Fort Worth ,Texas,Southwest,1890,2999,299,Urban,32.739977,-97.340038,2
+1151,Graceland University,Lamoni ,Iowa,Midwest,1895,2999,99,Rural,40.623734,-93.938951,2
+1152,Shawnee State University,Portsmouth ,Ohio,Midwest,1975,4999,399,Suburban,38.739972,-82.985267,2
+1153,Judson University,Elgin ,Illinois,Midwest,1963,1999,299,Urban,42.039567,-88.283975,2
+1154,Waldorf University,Forest City ,Iowa,Midwest,1903,4999,199,Rural,43.261486,-93.637271,2
+1155,Minot State University,Minot ,North Dakota,Midwest,1913,3999,399,Rural,48.235533,-101.296061,1
+1156,Adrian College,Adrian ,Michigan,Midwest,1859,1999,199,Rural,41.895299,-84.039815,2
+1157,Florida SouthWestern State College,Fort Myers ,Florida,Southeast,1962,24999,899,Suburban,26.614149,-81.825769,2
+1158,Wells College,Aurora ,New York,Northeast,1868,499,99,Rural,42.753982,-76.70241,2
+1159,Viterbo University,La Crosse ,Wisconsin,Midwest,1890,4999,399,Urban,43.808767,-91.25186,1
+1160,SUNY Canton,Canton ,New York,Northeast,1906,4999,299,Rural,44.595632,-75.169226,2
+1161,Northern Vermont University,Johnson ,Vermont,Northeast,2018,3999,99,Rural,44.636772,-72.677902,2
+1162,Concordia College-New York,Bronxville ,New York,Northeast,1881,1999,99,Suburban,40.936383,-73.831381,2
+1163,Chestnut Hill College,Philadelphia ,Pennsylvania,Northeast,1924,2999,99,Urban,39.951061,-75.16562,2
+1164,Talladega College,Talladega ,Alabama,Southeast,1867,1999,99,Rural,33.434936,-86.106204,2
+1165,William Carey University,Hattiesburg ,Mississippi,Southeast,1892,6999,499,Urban,31.326447,-89.289635,2
+1166,Colorado State University-Pueblo,Pueblo ,Colorado,West,1933,14999,399,Urban,38.265425,-104.610415,2
+1167,Chamberlain University,Addison ,Illinois,Midwest,1889,44999,1999,Suburban,41.93194,-87.988676,2
+1168,MidAmerica Nazarene University,Olathe ,Kansas,Midwest,1966,3999,99,Suburban,38.883525,-94.818236,2
+1169,Wayland Baptist University,Plainview ,Texas,Southwest,1908,7999,199,Rural,34.192454,-101.723218,2
+1170,Athens State University,Athens ,Alabama,Southeast,1822,4999,299,Suburban,34.812785,-86.961888,1
+1171,Brandman University,Irvine ,California,West,2009,14999,799,Urban,33.685908,-117.824719,5
+1172,Benedictine College,Atchison ,Kansas,Midwest,1971,2999,199,Rural,39.560903,-95.127377,2
+1173,Rocky Mountain College,Billings ,Montana,West,1878,1999,99,Urban,45.78265,-108.504578,1
+1174,Menlo College,Atherton ,California,West,1927,999,199,Suburban,37.461318,-122.19843,2
+1175,Albany Law School,Albany ,New York,Northeast,1851,499,99,Urban,42.651242,-73.755418,2
+1176,Palm Beach Atlantic University,West Palm Beach ,Florida,Southeast,1968,4999,199,Urban,26.714439,-80.054947,2
+1177,Montreat College,Montreat ,North Carolina,Southeast,1916,1999,199,Suburban,35.646761,-82.301321,2
+1178,Roberts Wesleyan College,Rochester ,New York,Northeast,1866,2999,199,Suburban,43.155708,-77.612547,2
+1179,Caldwell University,Caldwell ,New Jersey,Northeast,1939,2999,99,Suburban,40.838934,-74.275006,2
+1180,Lees-McRae College,Banner Elk ,North Carolina,Southeast,1900,1999,199,Rural,36.163284,-81.871848,3
+1181,The Master's University,Santa Clarita ,California,West,1927,2999,299,Suburban,34.414144,-118.554192,2
+1182,Maine Maritime Academy,Castine ,Maine,Northeast,1941,1999,199,Rural,44.390999,-68.803281,2
+1183,Spalding University,Louisville ,Kentucky,Southeast,1814,2999,299,Suburban,38.256078,-85.751569,2
+1184,Central State University,Wilberforce ,Ohio,Midwest,1887,2999,199,Rural,39.717167,-83.882919,2
+1185,West Virginia State University,Institute ,West Virginia,Southeast,1891,4999,199,Suburban,38.383598,-81.765602,2
+1186,College of the Atlantic,Bar Harbor ,Maine,Northeast,1969,499,50,Rural,44.387625,-68.204311,2
+1187,Middle Georgia State University,Macon ,Georgia,Southeast,2012,9999,499,Urban,32.836038,-83.631709,2
+1188,Bay Path University,Longmeadow ,Massachusetts,Northeast,1897,4999,399,Suburban,42.050501,-72.5829,2
+1189,Southwestern Adventist University,Keene ,Texas,Southwest,1893,1999,99,Suburban,32.391763,-97.333112,2
+1190,Adler University,Chicago ,Illinois,Midwest,1952,1999,199,Urban,41.883229,-87.632398,2
+1191,Fort Valley State University,Fort Valley ,Georgia,Southeast,1895,3999,199,Suburban,32.553575,-83.886613,2
+1192,Polk State College,Winter Haven ,Florida,Southeast,1964,19999,499,Suburban,28.025878,-81.732884,2
+1193,Friends University,Wichita ,Kansas,Midwest,1898,2999,99,Urban,37.686024,-97.335571,2
+1194,California Western School of Law,San Diego ,California,West,1924,999,99,Urban,32.71576,-117.163817,4
+1195,Oklahoma Baptist University,Shawnee ,Oklahoma,Southwest,1910,2999,199,Rural,35.327404,-96.924828,2
+1196,Cheyney University of Pennsylvania,Cheyney ,Pennsylvania,Northeast,1837,999,99,Suburban,39.928299,-75.523102,2
+1197,Brevard College,Brevard ,North Carolina,Southeast,1853,999,99,Suburban,35.233785,-82.734319,1
+1198,Albright College,Reading ,Pennsylvania,Northeast,1856,2999,199,Urban,40.336919,-75.921965,2
+1199,Our Lady of the Lake University,San Antonio ,Texas,Southwest,1919,3999,399,Urban,29.425173,-98.494599,2
+1200,New England Law | Boston,Boston ,Massachusetts,Northeast,1908,999,99,Urban,42.358894,-71.056742,2
+1201,Illinois College,Jacksonville ,Illinois,Midwest,1829,999,99,Rural,39.737907,-90.238627,2
+1202,Stephens College,Columbia ,Missouri,Midwest,1833,999,99,Urban,38.951551,-92.328594,2
+1203,Cabrini University,Radnor ,Pennsylvania,Northeast,1957,2999,299,Suburban,40.038043,-75.344449,2
+1204,La Sierra University,Riverside ,California,West,1971,2999,399,Urban,33.980534,-117.377025,4
+1205,Missouri Western State University,St. Joseph ,Missouri,Midwest,1915,6999,399,Urban,39.768194,-94.848164,2
+1206,Birmingham-Southern College,Birmingham ,Alabama,Southeast,1856,1999,199,Urban,33.522859,-86.807705,2
+1207,College of the Ozarks,Point Lookout ,Missouri,Midwest,1906,1999,199,Rural,36.6175,-93.239197,2
+1208,Oklahoma Wesleyan University,Bartlesville ,Oklahoma,Southwest,1910,1999,99,Rural,36.75067,-95.944392,2
+1209,Lindsey Wilson College,Columbia ,Kentucky,Southeast,1903,2999,199,Rural,37.102703,-85.306198,2
+1210,Avila University,Kansas City ,Missouri,Midwest,1916,2999,299,Urban,39.099792,-94.578559,2
+1211,Mount Mercy University,Cedar Rapids ,Iowa,Midwest,1928,2999,99,Urban,41.978122,-91.669808,2
+1212,The Institute of World Politics,Washington ,District of Columbia,Northeast,1990,250,50,Urban,38.892062,-77.019912,2
+1213,Claflin University,Orangeburg ,South Carolina,Southeast,1869,2999,299,Suburban,33.487414,-80.863927,2
+1214,Bryan College,Dayton ,Tennessee,Southeast,1930,1999,199,Rural,35.492798,-85.014079,2
+1215,Huntington University,Huntington ,Indiana,Midwest,1897,1999,99,Suburban,40.882786,-85.49732,2
+1216,Morningside College,Sioux City ,Iowa,Midwest,1894,3999,99,Suburban,42.496323,-96.406436,2
+1217,Methodist University,Fayetteville ,North Carolina,Southeast,1956,2999,399,Urban,35.054417,-78.883659,2
+1218,University of Mount Union,Alliance ,Ohio,Midwest,1846,2999,199,Suburban,40.9125,-81.105844,2
+1219,Wilson College,Chambersburg ,Pennsylvania,Northeast,1869,2999,99,Rural,39.937306,-77.659708,2
+1220,St. Joseph's College,Brooklyn ,New York,Northeast,1916,1999,99,Urban,40.692529,-73.990996,2
+1221,Colby-Sawyer College,New London ,New Hampshire,Northeast,1837,1999,99,Rural,43.412593,-71.980788,2
+1222,Randolph-Macon College,Ashland ,Virginia,Southeast,1830,1999,199,Suburban,37.758878,-77.479954,2
+1223,LIM College,New York City ,New York,Northeast,1939,2999,299,Urban,40.713054,-74.007228,2
+1224,Virginia Union University,Richmond ,Virginia,Southeast,1865,1999,199,Urban,37.540759,-77.433932,2
+1225,University of Science and Arts of Oklahoma,Chickasha ,Oklahoma,Southwest,1908,999,99,Rural,35.04759,-97.936929,2
+1226,"Queens College, City University of New York",New York City ,New York,Northeast,1937,24999,1999,Urban,40.713054,-74.007228,2
+1227,Ave Maria University,Ave Maria ,Florida,Southeast,1998,1999,99,Rural,26.374901,-81.368401,2
+1228,University of Northwestern - St. Paul,Saint Paul ,Minnesota,Midwest,1902,3999,99,Suburban,44.943719,-93.094281,1
+1229,Franklin Pierce University,Rindge ,New Hampshire,Northeast,1962,2999,399,Rural,42.757527,-72.008953,2
+1230,Fairmont State University,Fairmont ,West Virginia,Southeast,1867,4999,199,Suburban,39.481232,-80.147572,2
+1231,Eureka College,Eureka ,Illinois,Midwest,1855,999,99,Rural,40.721409,-89.272863,2
+1232,Harrisburg University of Science and Technology,Harrisburg ,Pennsylvania,Northeast,2001,6999,299,Urban,40.259571,-76.881821,2
+1233,Averett University,Danville ,Virginia,Southeast,1859,999,99,Urban,36.586137,-79.395299,2
+1234,National University of Health Sciences,Lombard ,Illinois,Midwest,1906,999,99,Suburban,41.87485,-88.019343,2
+1235,William Jewell College,Liberty ,Missouri,Midwest,1849,1999,199,Suburban,39.244739,-94.418465,2
+1236,Concord University,Athens ,West Virginia,Southeast,1872,2999,199,Rural,37.423208,-81.015481,2
+1237,University of Advancing Technology,Tempe ,Arizona,Southwest,1983,999,99,Urban,33.425522,-111.941253,2
+1238,Huntingdon College,Montgomery ,Alabama,Southeast,1854,1999,199,Suburban,32.376547,-86.299651,2
+1239,University of South Carolina-Beaufort,Bluffton ,South Carolina,Southeast,1795,2999,199,Rural,32.237169,-80.860625,2
+1240,Trine University,Angola ,Indiana,Midwest,1884,4999,299,Rural,41.63478,-85.004,2
+1241,Freed-Hardeman University,Henderson ,Tennessee,Southeast,1869,2999,199,Rural,35.440915,-88.638838,2
+1242,Rosalind Franklin University of Medicine and Science,North Chicago ,Illinois,Midwest,1912,2999,399,Suburban,42.319405,-87.856097,2
+1243,Snow College,Ephraim ,Utah,West,1888,6999,199,Rural,39.359772,-111.584173,1
+1244,Moore College of Art and Design,Philadelphia ,Pennsylvania,Northeast,1848,499,199,Urban,39.951061,-75.16562,2
+1245,Franklin College,Franklin ,Indiana,Midwest,1834,1999,199,Suburban,39.494444,-86.066666,2
+1246,Tusculum University,Greeneville ,Tennessee,Southeast,1794,2999,199,Rural,36.162235,-82.831451,2
+1247,Madonna University,Livonia ,Michigan,Midwest,1937,4999,399,Urban,42.39709,-83.36961,3
+1248,University of Silicon Valley,San Jose ,California,West,1887,999,99,Urban,37.334807,-121.888128,4
+1249,University of Charleston,Charleston ,West Virginia,Southeast,1888,3999,299,Urban,38.351194,-81.638362,2
+1250,United States Sports Academy,Daphne ,Alabama,Southeast,1972,999,50,Urban,30.618524,-87.905156,2
+1251,Northwest University,Kirkland ,Washington,West,1934,1999,299,Suburban,47.675506,-122.203364,2
+1252,South Texas College,McAllen ,Texas,Southwest,1993,44999,1499,Urban,26.196695,-98.235698,2
+1253,Massachusetts Maritime Academy,Buzzards Bay ,Massachusetts,Northeast,1891,1999,199,Suburban,41.75298,-70.6185,2
+1254,Wheeling University,Wheeling ,West Virginia,Southeast,1954,1999,199,Urban,40.063948,-80.722002,2
+1255,Tiffin University,Tiffin ,Ohio,Midwest,1888,3999,99,Rural,41.114589,-83.176563,2
+1256,Thomas More University,Crestview Hills ,Kentucky,Southeast,1921,2999,199,Suburban,39.021246,-84.575613,2
+1257,Bryant and Stratton College,Buffalo ,New York,Northeast,1854,999,99,Urban,42.887691,-78.879374,2
+1258,Georgia Southwestern State University,Americus ,Georgia,Southeast,1906,3999,199,Rural,32.073306,-84.232515,2
+1259,Millsaps College,Jackson ,Mississippi,Southeast,1890,1999,199,Urban,32.302897,-90.183488,2
+1260,Lakeland University,Plymouth ,Wisconsin,Midwest,1862,3999,299,Rural,43.747496,-87.981161,2
+1261,Loras College,Dubuque ,Iowa,Midwest,1839,1999,199,Urban,42.505512,-90.667314,2
+1262,Medaille College,Buffalo ,New York,Northeast,1937,2999,499,Urban,42.887691,-78.879374,2
+1263,Logan University,Chesterfield ,Missouri,Midwest,1935,1999,199,Suburban,38.661405,-90.564272,2
+1264,Barton College,Wilson ,North Carolina,Southeast,1902,1999,99,Suburban,35.731888,-77.922737,2
+1265,Kansas City Art Institute,Kansas City ,Missouri,Midwest,1885,999,199,Urban,39.099792,-94.578559,2
+1266,Cleveland Institute of Music,Cleveland ,Ohio,Midwest,1920,499,199,Urban,41.505546,-81.6915,2
+1267,University of Alaska Southeast,Juneau ,Alaska,Outside,1956,4999,199,Rural,58.301084,-134.424524,1
+1268,Castleton University,Castleton ,Vermont,Northeast,1787,3999,99,Rural,43.611049,-73.180583,2
+1269,Dalton State College,Dalton ,Georgia,Southeast,1963,6999,299,Urban,34.771541,-84.971777,2
+1270,Northeast Ohio Medical University,Rootstown ,Ohio,Midwest,1973,999,99,Suburban,41.099143,-81.237297,2
+1271,Trinity Christian College,Palos Heights ,Illinois,Midwest,1959,1999,199,Suburban,41.667958,-87.79891,2
+1272,Erskine College,Due West ,South Carolina,Southeast,1839,999,99,Rural,34.333637,-82.388145,2
+1273,Indiana Institute of Technology,Fort Wayne ,Indiana,Midwest,1930,2999,99,Urban,41.077474,-85.137495,2
+1274,Texas Lutheran University,Seguin ,Texas,Southwest,1891,1999,199,Suburban,29.580782,-97.968526,2
+1275,Bloomfield College,Bloomfield ,New Jersey,Northeast,1868,1999,99,Suburban,40.792112,-74.194954,2
+1276,Randolph College,Lynchburg ,Virginia,Southeast,1891,999,99,Urban,37.414345,-79.143204,2
+1277,Wilmington College,Wilmington ,Ohio,Midwest,1870,1999,199,Rural,39.446404,-83.825335,2
+1278,Anderson University,Anderson ,South Carolina,Southeast,1911,4999,199,Urban,34.49987,-82.651189,2
+1279,Oakwood University,Huntsville ,Alabama,Southeast,1896,1999,399,Urban,34.729538,-86.585283,2
+1280,Crown College,St. Bonifacius ,Minnesota,Midwest,1916,1999,199,Rural,44.905621,-93.747326,2
+1281,Lancaster Bible College,Lancaster ,Pennsylvania,Northeast,1933,2999,299,Suburban,40.039401,-76.307078,2
+1282,Elizabeth City State University,Elizabeth City ,North Carolina,Southeast,1891,1999,199,Rural,36.302126,-76.223253,2
+1283,Peru State College,Peru ,Nebraska,Midwest,1867,3999,99,Rural,40.477626,-95.730624,2
+1284,Pine Manor College,Chestnut Hill ,Massachusetts,Northeast,1911,499,99,Suburban,42.330601,-71.166702,2
+1285,Holy Names University,Oakland ,California,West,1868,1999,199,Urban,37.804828,-122.27248,1
+1286,"York College, City University of New York",Jamaica ,New York,Northeast,1966,14999,599,Urban,40.691399,-73.806099,2
+1287,University of Health Sciences and Pharmacy in St. Louis,St. Louis ,Missouri,Midwest,1864,1999,199,Urban,38.630276,-90.200309,2
+1288,MGH Institute of Health Professions,Boston ,Massachusetts,Northeast,1977,2999,199,Urban,42.358894,-71.056742,2
+1289,Langston University,Langston ,Oklahoma,Southwest,1897,2999,199,Rural,35.947138,-97.251911,2
+1290,John F. Kennedy University,Pleasant Hill ,California,West,1964,1999,399,Suburban,37.948004,-122.060268,2
+1291,Mount Mary University,Milwaukee ,Wisconsin,Midwest,1913,1999,299,Urban,43.041072,-87.909421,2
+1292,Midway University,Midway ,Kentucky,Southeast,1847,1999,199,Rural,38.150986,-84.684007,2
+1293,The College of Idaho,Caldwell ,Idaho,West,1891,999,199,Suburban,43.662853,-116.687705,1
+1294,University of Arkansas at Monticello,Monticello ,Arkansas,Southeast,1909,4999,199,Rural,33.628965,-91.79085,1
+1295,University of Arkansas at Pine Bluff,Pine Bluff ,Arkansas,Southeast,1873,2999,299,Urban,34.221586,-92.002005,2
+1296,"Westminster College, Missouri",Fulton ,Missouri,Midwest,1851,999,99,Rural,38.844393,-91.944662,2
+1297,Georgia Gwinnett College,Lawrenceville ,Georgia,Southeast,2006,19999,699,Suburban,33.955,-83.988245,2
+1298,Missouri Baptist University,St. Louis ,Missouri,Midwest,1964,6999,399,Suburban,38.630276,-90.200309,2
+1299,North Greenville University,Tigerville ,South Carolina,Southeast,1892,2999,299,Rural,35.066763,-82.372123,2
+1300,Misericordia University,Dallas ,Pennsylvania,Northeast,1924,3999,199,Suburban,41.335452,-75.962436,2
+1301,Piedmont College,Demorest ,Georgia,Southeast,1897,3999,399,Rural,34.565522,-83.544735,2
+1302,Milligan University,Elizabethton ,Tennessee,Southeast,1866,1999,399,Suburban,36.343894,-82.249703,2
+1303,Mississippi Valley State University,Itta Bena ,Mississippi,Southeast,1950,2999,199,Rural,33.496092,-90.319913,2
+1304,Notre Dame College,Cleveland ,Ohio,Midwest,1922,2999,99,Suburban,41.505546,-81.6915,2
+1305,Florida Memorial University,Miami Gardens ,Florida,Southeast,1879,1999,99,Suburban,25.927232,-80.228484,2
+1306,Hastings College,Hastings ,Nebraska,Midwest,1882,1999,99,Rural,40.588918,-98.393718,1
+1307,Dean College,Franklin ,Massachusetts,Northeast,1865,1999,199,Suburban,42.082434,-71.396717,2
+1308,Thomas Edison State University,Trenton ,New Jersey,Northeast,1972,19999,N/A,Urban,40.220572,-74.759709,2
+1309,East Texas Baptist University,Marshall ,Texas,Southwest,1912,1999,99,Rural,32.545002,-94.363315,1
+1310,SUNY Delhi,Delhi ,New York,Northeast,1913,4999,299,Rural,42.279591,-74.91376,2
+1311,Southern Virginia University,Buena Vista ,Virginia,Southeast,1867,1999,99,Rural,37.734446,-79.354257,2
+1312,McMurry University,Abilene ,Texas,Southwest,1923,1999,99,Urban,32.453562,-99.732654,2
+1313,Eastern Nazarene College,Quincy ,Massachusetts,Northeast,1900,999,199,Suburban,42.251269,-71.003564,2
+1314,Dakota Wesleyan University,Mitchell ,South Dakota,Midwest,1885,1999,199,Rural,43.709418,-98.029628,2
+1315,Louisiana College,Pineville ,Louisiana,Southeast,1906,1999,199,Suburban,31.333403,-92.414311,1
+1316,Newman University,Wichita ,Kansas,Midwest,1933,4999,99,Urban,37.686024,-97.335571,2
+1317,Mount Aloysius College,Cresson ,Pennsylvania,Northeast,1853,2999,199,Suburban,40.461547,-78.590396,2
+1318,"Columbia College, South Carolina",Columbia ,South Carolina,Southeast,1854,1999,199,Urban,34.009286,-81.037094,2
+1319,Thomas Jefferson School of Law,San Diego ,California,West,1969,999,99,Urban,32.71576,-117.163817,4
+1320,Ohio Dominican University,Columbus ,Ohio,Midwest,1911,2999,99,Urban,39.962649,-82.996216,2
+1321,Sierra Nevada University,Incline Village ,Nevada,West,1969,1999,199,Rural,39.250317,-119.961845,1
+1322,Lubbock Christian University,Lubbock ,Texas,Southwest,1957,1999,199,Urban,33.583578,-101.855113,2
+1323,Benedict College,Columbia ,South Carolina,Southeast,1870,2999,199,Urban,34.009286,-81.037094,2
+1324,Hodges University,Naples ,Florida,Southeast,1990,1999,199,Suburban,26.147369,-81.795483,2
+1325,Mary Baldwin University,Staunton ,Virginia,Southeast,1842,2999,399,Urban,38.15749,-79.071325,2
+1326,University of St. Augustine for Health Sciences,San Marcos ,California,West,1973,4999,599,Suburban,33.141383,-117.160845,2
+1327,Bluefield College,Bluefield ,Virginia,Southeast,1922,1999,199,Rural,37.252721,-81.271288,2
+1328,Lake Washington Institute of Technology,Kirkland ,Washington,West,1949,5999,199,Suburban,47.675506,-122.203364,2
+1329,Great Basin College,Elko ,Nevada,West,1967,4999,299,Rural,40.835734,-115.759456,1
+1330,Bethany College,Bethany ,West Virginia,Southeast,1840,999,99,Rural,40.205301,-80.557287,2
+1331,University of Pikeville,Pikeville ,Kentucky,Southeast,1889,2999,199,Rural,37.479465,-82.51967,1
+1332,Howard Payne University,Brownwood ,Texas,Southwest,1889,1999,99,Rural,31.718757,-98.986454,2
+1333,Huston-Tillotson University,Austin ,Texas,Southwest,1875,1999,199,Urban,30.264979,-97.746598,2
+1334,Vanguard University of Southern California,Costa Mesa ,California,West,1920,2999,99,Urban,33.663857,-117.904765,5
+1335,Kansas City University,Kansas City ,Missouri,Midwest,1916,1999,99,Urban,39.099792,-94.578559,2
+1336,Virginia Wesleyan University,Virginia Beach ,Virginia,Southeast,1961,1999,199,Urban,36.845117,-75.975518,2
+1337,University of Maine at Augusta,Augusta ,Maine,Northeast,1965,5999,299,Rural,44.307692,-69.780785,2
+1338,"New York City College of Technology, CUNY",Brooklyn ,New York,Northeast,1946,24999,1499,Urban,40.692529,-73.990996,2
+1339,Tabor College,Hillsboro ,Kansas,Midwest,1908,999,50,Rural,38.350735,-97.20609,2
+1340,Grand View University,Des Moines ,Iowa,Midwest,1896,2999,299,Urban,41.588822,-93.620309,2
+1341,Palo Alto University,Palo Alto ,California,West,1975,1999,199,Rural,37.445103,-122.160363,2
+1342,Limestone College,Gaffney ,South Carolina,Southeast,1845,2999,99,Suburban,35.058527,-81.640962,2
+1343,Briar Cliff University,Sioux City ,Iowa,Midwest,1930,1999,99,Urban,42.496323,-96.406436,2
+1344,Southern University at New Orleans,New Orleans ,Louisiana,Southeast,1956,3999,199,Urban,29.950621,-90.074948,1
+1345,Northwestern Health Sciences University,Bloomington ,Minnesota,Midwest,1941,1999,199,Urban,44.826255,-93.303856,1
+1346,Valley City State University,Valley City ,North Dakota,Midwest,1890,1999,199,Rural,46.923378,-98.002935,2
+1347,Warner Pacific College,Portland ,Oregon,West,1937,999,99,Urban,45.516018,-122.681425,1
+1348,Walsh College,Troy ,Michigan,Midwest,1922,3999,199,Urban,42.56294,-83.154042,3
+1349,NewSchool of Architecture and Design,San Diego ,California,West,1980,999,199,Urban,32.71576,-117.163817,4
+1350,Defiance College,Defiance ,Ohio,Midwest,1850,999,99,Rural,41.286716,-84.362106,2
+1351,William Peace University,Raleigh ,North Carolina,Southeast,1857,1999,199,Urban,35.781295,-78.64167,2
+1352,University of Northwestern Ohio,Lima ,Ohio,Midwest,1920,4999,199,Suburban,40.742696,-84.104987,2
+1353,Milwaukee Institute of Art and Design,Milwaukee ,Wisconsin,Midwest,1974,999,199,Urban,43.041072,-87.909421,2
+1354,Keystone College,La Plume ,Pennsylvania,Northeast,1868,1999,199,Suburban,41.560993,-75.770353,2
+1355,Lenoir-Rhyne University,Hickory ,North Carolina,Southeast,1891,2999,199,Urban,35.72964,-81.333464,2
+1356,Waynesburg University,Waynesburg ,Pennsylvania,Northeast,1849,1999,299,Rural,39.895267,-80.185397,2
+1357,Alcorn State University,Lorman ,Mississippi,Southeast,1871,3999,299,Rural,31.820299,-91.050003,2
+1358,Newberry College,Newberry ,South Carolina,Southeast,1856,1999,99,Rural,34.278686,-81.610092,2
+1359,Saint Augustine's University,Raleigh ,North Carolina,Southeast,1867,1999,199,Urban,35.781295,-78.64167,2
+1360,Goldey-Beacom College,Wilmington ,Delaware,Southeast,1886,2999,99,Suburban,39.744432,-75.5451,2
+1361,Thomas College,Waterville ,Maine,Northeast,1894,2999,99,Rural,44.552839,-69.631309,2
+1362,Saint Mary-of-the-Woods College,Saint Mary of the Woods ,Indiana,Midwest,1840,1999,199,Suburban,39.508436,-87.462916,2
+1363,Southwest Baptist University,Bolivar ,Missouri,Midwest,1878,4999,399,Rural,37.613929,-93.41462,2
+1364,McPherson College,McPherson ,Kansas,Midwest,1887,999,99,Rural,38.373551,-97.667066,2
+1365,Louisiana State University of Alexandria,Alexandria ,Louisiana,Southeast,1961,4999,199,Rural,31.2931,-92.463284,1
+1366,Anna Maria College,Paxton ,Massachusetts,Northeast,1946,1999,199,Rural,42.311418,-71.927906,2
+1367,Finlandia University,Hancock ,Michigan,Midwest,1896,499,50,Rural,47.130692,-88.591217,2
+1368,Rocky Mountain College of Art and Design,Lakewood ,Colorado,West,1963,1999,99,Urban,39.710997,-105.088872,2
+1369,Keuka College,Keuka Park ,New York,Northeast,1890,2999,99,Rural,42.615103,-77.091924,2
+1370,Covenant College,Lookout Mountain ,Georgia,Southeast,1955,1999,99,Suburban,34.981984,-85.361135,1
+1371,Edward Waters College,Jacksonville ,Florida,Southeast,1866,4999,99,Urban,30.325968,-81.65676,2
+1372,Gulf Coast State College,Panama City ,Florida,Southeast,1957,7999,599,Urban,30.185159,-85.73078,2
+1373,Vermont Technical College,Randolph ,Vermont,Northeast,1866,2999,99,Rural,43.925266,-72.665754,2
+1374,University of Mobile,Mobile ,Alabama,Southeast,1961,1999,99,Rural,30.688943,-88.044822,2
+1375,Paine College,Augusta ,Georgia,Southeast,1882,499,99,Urban,33.472494,-81.964397,2
+1376,Kentucky Wesleyan College,Owensboro ,Kentucky,Southeast,1858,999,99,Urban,37.772696,-87.111033,2
+1377,College of Our Lady of the Elms,Chicopee ,Massachusetts,Northeast,1928,1999,299,Suburban,42.148326,-72.60696,2
+1378,Charles R. Drew University of Medicine and Science,Los Angeles ,California,West,1966,999,399,Urban,34.052238,-118.243344,3
+1379,LaGrange College,LaGrange ,Georgia,Southeast,1831,1999,99,Rural,33.038741,-85.029644,2
+1380,St. Francis College,Brooklyn Heights ,New York,Northeast,1859,2999,399,Urban,40.692529,-73.990996,2
+1381,Southern Wesleyan University,Central ,South Carolina,Southeast,1906,2999,99,Suburban,34.724328,-82.781277,2
+1382,Hope International University,Fullerton ,California,West,1928,1999,199,Suburban,33.870345,-117.924302,5
+1383,College of Saint Mary,Omaha ,Nebraska,Midwest,1923,1999,99,Urban,41.258652,-95.937195,1
+1384,Culver-Stockton College,Canton ,Missouri,Midwest,1853,1999,199,Rural,40.130298,-91.523581,2
+1385,Emory & Henry College,Emory ,Virginia,Southeast,1836,1999,199,Rural,36.775148,-81.815693,2
+1386,University of the Potomac,Washington ,District of Columbia,Northeast,1991,250,50,Urban,38.892062,-77.019912,2
+1387,Nyack College,Nyack ,New York,Northeast,1882,2999,299,Suburban,41.090984,-73.918239,2
+1388,Oklahoma Panhandle State University,Goodwell ,Oklahoma,Southwest,1909,1999,99,Rural,36.59023,-101.631553,2
+1389,College of Mount Saint Vincent,The Bronx ,New York,Northeast,1847,2999,299,Urban,40.826153,-73.920265,2
+1390,Alice Lloyd College,Pippa Passes ,Kentucky,Southeast,1923,999,50,Rural,37.333253,-82.878939,2
+1391,Wesleyan College,Macon ,Georgia,Southeast,1836,999,99,Urban,32.836038,-83.631709,2
+1392,Siena Heights University,Adrian ,Michigan,Midwest,1919,3999,99,Rural,41.895299,-84.039815,2
+1393,Heritage University,Toppenish ,Washington,West,1907,1999,199,Rural,46.375097,-120.311193,1
+1394,Pacific Northwest College of Art,Portland ,Oregon,West,1910,999,199,Urban,45.516018,-122.681425,1
+1395,William Jessup University,Rocklin ,California,West,1939,1999,299,Rural,38.792326,-121.23981,1
+1396,Cleary University,Howell ,Michigan,Midwest,1883,999,99,Suburban,42.607165,-83.929601,2
+1397,Belmont Abbey College,Belmont ,North Carolina,Southeast,1876,1999,199,Suburban,35.243884,-81.037813,2
+1398,Beacon College,Leesburg ,Florida,Southeast,1989,499,50,Suburban,28.811191,-81.881816,2
+1399,Salus University,Elkins Park ,Pennsylvania,Northeast,1919,1999,199,Suburban,40.0769,-75.127197,2
+1400,Dickinson State University,Dickinson ,North Dakota,Midwest,1987,1999,199,Rural,46.878989,-102.789866,1
+1401,Bismarck State College,Bismarck ,North Dakota,Midwest,1939,4999,199,Urban,46.80537,-100.781609,1
+1402,University of the Ozarks,Clarksville ,Arkansas,Southeast,1834,999,99,Rural,35.471168,-93.466348,2
+1403,Midland College,Midland ,Texas,Southwest,1972,9999,299,Urban,31.997433,-102.078043,2
+1404,Olivet College,Olivet ,Michigan,Midwest,1844,1999,99,Rural,42.441463,-84.92437,2
+1405,West Liberty University,West Liberty ,West Virginia,Southeast,1837,2999,299,Rural,40.16851,-80.593348,2
+1406,The University of Tennessee Southern,Pulaski ,Tennessee,Southeast,1870,1999,99,Rural,35.19683,-87.032,2
+1407,La Roche University,Pittsburgh ,Pennsylvania,Northeast,1963,1999,199,Suburban,40.442169,-79.994945,2
+1408,The University of Texas Health Science Center at Tyler,Tyler ,Texas,Southwest,1947,250,199,Urban,32.350763,-95.300644,1
+1409,SUNY College of Optometry,New York City ,New York,Northeast,1971,499,199,Urban,40.713054,-74.007228,2
+1410,Cazenovia College,Cazenovia ,New York,Northeast,1824,1999,99,Suburban,42.929884,-75.850926,2
+1411,Mars Hill University,Mars Hill ,North Carolina,Southeast,1856,1999,199,Suburban,35.826425,-82.54957,2
+1412,The University of Virginia's College at Wise,Wise ,Virginia,Southeast,1954,3999,199,Rural,36.977722,-82.58027,2
+1413,The Chicago School of Professional Psychology,Los Angeles ,California,West,1979,3999,50,Urban,34.052238,-118.243344,3
+1414,Reinhardt University,Waleska ,Georgia,Southeast,1883,1999,199,Rural,34.315483,-84.551125,2
+1415,Mount Vernon Nazarene University,Mount Vernon ,Ohio,Midwest,1968,2999,99,Rural,40.393695,-82.486656,2
+1416,Coker University,Hartsville ,South Carolina,Southeast,1908,1999,199,Rural,34.369846,-80.084526,2
+1417,Corban University,Salem ,Oregon,West,1935,1999,199,Suburban,44.939016,-123.039307,1
+1418,Thiel College,Greenville ,Pennsylvania,Northeast,1866,999,99,Suburban,41.406912,-80.383378,2
+1419,MacMurray College,Jacksonville ,Illinois,Midwest,1846,999,99,Rural,39.737907,-90.238627,2
+1420,East Georgia State College,Swainsboro ,Georgia,Southeast,1973,3999,199,Rural,32.596933,-82.333911,2
+1421,Dominican College,Orangeburg ,New York,Northeast,1952,2999,299,Suburban,41.045962,-73.954884,2
+1422,University of Saint Francis,Fort Wayne ,Indiana,Midwest,1890,2999,399,Urban,41.077474,-85.137495,2
+1423,Columbia Basin College,Pasco ,Washington,West,1955,9999,199,Suburban,46.241552,-119.117372,1
+1424,AdventHealth University,Orlando ,Florida,Southeast,1992,2999,199,Urban,28.538331,-81.378879,2
+1425,Goodwin University,East Hartford ,Connecticut,Northeast,1999,4999,299,Urban,41.769319,-72.643785,2
+1426,Sul Ross State University,Alpine ,Texas,Southwest,1917,3999,199,Rural,30.35765,-103.661328,2
+1427,Sullivan University,Louisville ,Kentucky,Southeast,1962,5999,599,Suburban,38.256078,-85.751569,2
+1428,Multnomah University,Portland ,Oregon,West,1936,999,99,Urban,45.516018,-122.681425,1
+1429,Lane College,Jackson ,Tennessee,Southeast,1882,1999,99,Urban,35.614344,-88.81938,2
+1430,Centenary University,Hackettstown ,New Jersey,Northeast,1867,2999,99,Suburban,40.852269,-74.827567,2
+1431,Mount Saint Mary's University,Los Angeles ,California,West,1925,3999,499,Urban,34.052238,-118.243344,3
+1432,Mount Marty University,Yankton ,South Dakota,Midwest,1936,1999,199,Rural,42.871088,-97.392228,2
+1433,Concordia University Ann Arbor,Ann Arbor ,Michigan,Midwest,1962,1999,99,Urban,42.281419,-83.748478,2
+1434,Lyon College,Batesville ,Arkansas,Southeast,1872,999,99,Rural,35.777648,-91.640781,2
+1435,Air Force Institute of Technology,Wright-Patterson AFB ,Ohio,Midwest,1919,1999,N/A,Suburban,39.819976,-84.051459,2
+1436,University of Arkansas - Fort Smith,Fort Smith ,Arkansas,Southeast,1928,7999,399,Urban,35.386636,-94.424357,2
+1437,Brescia University,Owensboro ,Kentucky,Southeast,1950,1999,199,Urban,37.772696,-87.111033,2
+1438,Hebrew College,Newton Centre ,Massachusetts,Northeast,1921,499,99,Urban,42.330601,-71.199997,2
+1439,Maryville College,Maryville ,Tennessee,Southeast,1819,1999,99,Suburban,35.750607,-83.973082,2
+1440,Montana State University-Northern,Havre ,Montana,West,1929,1999,99,Rural,48.553419,-109.676615,2
+1441,Nebraska Methodist College,Omaha ,Nebraska,Midwest,1891,1999,99,Urban,41.258652,-95.937195,1
+1442,William Woods University,Fulton ,Missouri,Midwest,1870,2999,299,Rural,38.844393,-91.944662,2
+1443,Holy Family University,Philadelphia ,Pennsylvania,Northeast,1954,3999,399,Urban,39.951061,-75.16562,2
+1444,College of Central Florida,Ocala ,Florida,Southeast,1957,9999,399,Urban,29.189311,-82.137789,2
+1445,Kansas Wesleyan University,Salina ,Kansas,Midwest,1886,999,99,Rural,38.840558,-97.612409,2
+1446,Saint Joseph's College of Maine,Standish ,Maine,Northeast,1912,3999,99,Suburban,43.735578,-70.550979,2
+1447,Alderson Broaddus University,Philippi ,West Virginia,Southeast,1871,1999,99,Rural,39.153409,-80.041128,2
+1448,Bethel University,Mishawaka ,Indiana,Midwest,1947,1999,99,Suburban,41.661126,-86.1793,2
+1449,University of Rio Grande,Rio Grande ,Ohio,Midwest,1876,2999,299,Rural,38.882731,-82.379398,2
+1450,College of Staten Island,Staten Island ,New York,Northeast,1956,19999,1499,Urban,40.643498,-74.076203,2
+1451,Hannibal-LaGrange University,Hannibal ,Missouri,Midwest,1858,1999,99,Rural,39.704996,-91.385386,2
+1452,University of Maine at Presque Isle,Presque Isle ,Maine,Northeast,1903,1999,99,Rural,46.681196,-68.015463,2
+1453,"Marian University, Wisconsin",Fond du Lac ,Wisconsin,Midwest,1936,2999,99,Urban,43.77195,-88.433826,2
+1454,Principia College,Elsah ,Illinois,Midwest,1912,499,99,Rural,38.954693,-90.36077,2
+1455,Vaughn College of Aeronautics and Technology,Flushing ,New York,Northeast,1932,1999,50,Urban,40.765301,-73.817802,2
+1456,Notre Dame de Namur University,Belmont ,California,West,1851,1999,299,Suburban,37.508536,-122.291951,2
+1457,Central Penn College,Summerdale ,Pennsylvania,Northeast,1881,1999,99,Suburban,40.032612,-75.089063,2
+1458,LeMoyne-Owen College,Memphis ,Tennessee,Southeast,1968,1999,99,Urban,35.143378,-90.052136,2
+1459,Cranbrook Academy of Art,Bloomfield Hills ,Michigan,Midwest,1932,250,50,Suburban,42.584093,-83.243237,3
+1460,Hilbert College,Hamburg ,New York,Northeast,1957,1999,199,Suburban,42.723291,-78.839026,2
+1461,The University of Montana Western,Dillon ,Montana,West,1893,1999,199,Rural,45.21469,-112.634606,1
+1462,Toccoa Falls College,Toccoa Falls ,Georgia,Southeast,1907,1999,199,Rural,34.593601,-83.358299,2
+1463,Montserrat College of Art,Beverly ,Massachusetts,Northeast,1970,499,99,Suburban,42.552163,-70.882679,2
+1464,Martin Luther College,New Ulm ,Minnesota,Midwest,1995,1999,99,Rural,44.312958,-94.456617,2
+1465,University of Western States,Portland ,Oregon,West,1904,1999,99,Urban,45.516018,-122.681425,1
+1466,Fontbonne University,St. Louis ,Missouri,Midwest,1923,1999,199,Suburban,38.630276,-90.200309,2
+1467,York College,York ,Nebraska,Midwest,1890,999,99,Rural,40.868917,-97.591772,1
+1468,West Virginia University at Parkersburg,Parkersburg ,West Virginia,Southeast,1961,3999,99,Suburban,39.263525,-81.544756,2
+1469,"Sterling College, Vermont",Craftsbury Common ,Vermont,Northeast,1958,250,50,Rural,44.644199,-72.3825,2
+1470,Western Nevada College,Carson City ,Nevada,West,1971,4999,499,Rural,39.16458,-119.766919,1
+1471,Northwestern Oklahoma State University,Alva ,Oklahoma,Southwest,1897,2999,99,Rural,36.804949,-98.666802,2
+1472,West Virginia Wesleyan College,Buckhannon ,West Virginia,Southeast,1890,1999,199,Rural,38.986389,-80.226319,2
+1473,Becker College,Worcester ,Massachusetts,Northeast,1784,2999,199,Urban,42.262073,-71.802278,2
+1474,Clarkson College,Omaha ,Nebraska,Midwest,1888,1999,99,Urban,41.258652,-95.937195,1
+1475,Wilberforce University,Wilberforce ,Ohio,Midwest,1856,999,99,Rural,39.717167,-83.882919,2
+1476,"Union College, Kentucky",Barbourville ,Kentucky,Southeast,1879,1999,99,Rural,36.867283,-83.889121,1
+1477,University of Alaska Anchorage,Anchorage ,Alaska,Outside,1954,24999,1499,Urban,61.216583,-149.899597,1
+1478,Metropolitan College of New York,New York City ,New York,Northeast,1964,1999,299,Urban,40.713054,-74.007228,2
+1479,Abraham Baldwin Agricultural College,Tifton ,Georgia,Southeast,1908,6999,299,Rural,31.450487,-83.508944,2
+1480,Granite State College,Concord ,New Hampshire,Northeast,1972,3999,199,Suburban,43.208452,-71.536941,2
+1481,Florida National University,Hialeah ,Florida,Southeast,1988,7999,199,Suburban,25.827202,-80.281502,2
+1482,Parker University,Dallas ,Texas,Southwest,1982,1999,199,Urban,32.777977,-96.796215,1
+1483,Landmark College,Putney ,Vermont,Northeast,1985,999,99,Rural,42.975246,-72.52169,2
+1484,Brewton-Parker College,Mount Vernon ,Georgia,Southeast,1904,999,50,Rural,32.181424,-82.594872,2
+1485,William James College,Newton ,Massachusetts,Northeast,1974,999,199,Urban,42.338028,-71.211578,2
+1486,Louisiana State University Health Sciences Center-Shreveport,Shreveport ,Louisiana,Southeast,1969,1999,599,Urban,32.51424,-93.747757,1
+1487,Ohio Christian University,Circleville ,Ohio,Midwest,1948,5999,199,Rural,39.60188,-82.945073,2
+1488,Roseman University of Health Sciences,Henderson ,Nevada,West,1999,1999,399,Urban,36.034095,-114.984455,2
+1489,William Penn University,Oskaloosa ,Iowa,Midwest,1873,1999,99,Rural,41.296244,-92.645022,2
+1490,Pacifica Graduate Institute,Carpinteria ,California,West,1974,999,199,Suburban,34.398922,-119.518363,1
+1491,Indian River State College,Fort Pierce ,Florida,Southeast,1959,24999,899,Suburban,27.447119,-80.337237,2
+1492,The King's College,New York City ,New York,Northeast,1938,999,99,Urban,40.713054,-74.007228,2
+1493,Centralia College,Centralia ,Washington,West,1925,5999,199,Suburban,46.718217,-122.964066,2
+1494,Texas A&M University-San Antonio,San Antonio ,Texas,Southwest,2009,6999,N/A,N/A,29.425173,-98.494599,2
+1495,Bay State College,Boston ,Massachusetts,Northeast,1946,1999,99,Urban,42.358894,-71.056742,2
+1496,Bushnell University,Eugene ,Oregon,West,1895,1999,50,Urban,44.052153,-123.091195,1
+1497,Union Institute & University,Cincinnati ,Ohio,Midwest,1964,1999,299,Urban,39.104427,-84.513808,2
+1498,Life Pacific College,San Dimas ,California,West,1923,999,99,Suburban,34.106678,-117.802753,1
+1499,Faith Baptist Bible College and Theological Seminary,Ankeny ,Iowa,Midwest,1921,499,50,Suburban,41.72508,-93.600414,2
+1500,Marymount Manhattan College,New York City ,New York,Northeast,1936,2999,399,Urban,40.713054,-74.007228,2
+1501,Adler Graduate School,Minnetonka ,Minnesota,Midwest,1969,499,99,Suburban,44.938058,-93.466322,1
+1502,Felician University,Lodi ,New Jersey,Northeast,1942,2999,299,Suburban,40.883146,-74.079159,2
+1503,Wingate University,Wingate ,North Carolina,Southeast,1896,3999,199,Suburban,34.985475,-80.448846,2
+1504,Calumet College of St. Joseph,Whiting ,Indiana,Midwest,1951,1999,99,Suburban,41.679255,-87.499121,2
+1505,Salem College,Winston-Salem ,North Carolina,Southeast,1772,1999,199,Urban,36.096261,-80.243735,2
+1506,Bluefield State College,Bluefield ,West Virginia,Southeast,1895,1999,199,Rural,37.269683,-81.223318,2
+1507,Northwest Florida State College,Niceville ,Florida,Southeast,1963,7999,299,Rural,30.518721,-86.478152,2
+1508,St. Thomas Aquinas College,Sparkill ,New York,Northeast,1952,2999,199,Suburban,41.029965,-73.928265,2
+1509,Oakland City University,Oakland City ,Indiana,Midwest,1885,1999,199,Rural,38.339999,-87.34446,2
+1510,Mitchell College,New London ,Connecticut,Northeast,1938,999,50,Urban,41.355167,-72.099561,2
+1511,Cairn University,Langhorne ,Pennsylvania,Northeast,1913,1999,199,Suburban,40.176768,-74.917008,2
+1512,Massachusetts School of Law,Andover ,Massachusetts,Northeast,1988,499,99,Suburban,42.655245,-71.139666,2
+1513,Davis and Elkins College,Elkins ,West Virginia,Southeast,1904,999,99,Rural,38.923814,-79.844297,2
+1514,Maryland University of Integrative Health,Laurel ,Maryland,Southeast,1974,1999,50,Suburban,39.099535,-76.848374,2
+1515,Saint Elizabeth University,Morristown ,New Jersey,Northeast,1899,1999,199,Suburban,40.79664,-74.481595,2
+1516,Central Baptist College,Conway ,Arkansas,Southeast,1952,999,199,Urban,35.091798,-92.4367,1
+1517,Baptist Health Sciences University,Memphis ,Tennessee,Southeast,1912,1999,99,Urban,35.143378,-90.052136,2
+1518,New York Academy of Art,New York City ,New York,Northeast,1982,250,99,Urban,40.713054,-74.007228,2
+1519,Missouri Valley College,Marshall ,Missouri,Midwest,1889,1999,199,Rural,39.114478,-93.19492,2
+1520,Rust College,Holly Springs ,Mississippi,Southeast,1866,999,99,Rural,34.767501,-89.444805,2
+1521,Cottey College,Nevada ,Missouri,Midwest,1884,499,99,Rural,37.837233,-94.359373,2
+1522,Albertus Magnus College,New Haven ,Connecticut,Northeast,1925,1999,299,Urban,41.308252,-72.924161,2
+1523,Arizona Christian University,Phoenix ,Arizona,Southwest,1960,999,99,Urban,33.448204,-112.072585,4
+1524,North Central University,Minneapolis ,Minnesota,Midwest,1930,1999,99,Urban,44.977479,-93.264346,1
+1525,Shaw University,Raleigh ,North Carolina,Southeast,1865,1999,199,Urban,35.781295,-78.64167,2
+1526,Saybrook University,Pasadena ,California,West,1971,999,199,Urban,34.14955,-118.141452,2
+1527,Livingstone College,Salisbury ,North Carolina,Southeast,1879,1999,99,Suburban,35.668328,-80.470993,1
+1528,Warner University,Lake Wales ,Florida,Southeast,1968,1999,199,Rural,27.901237,-81.586277,2
+1529,Nazarene Bible College,Colorado Springs ,Colorado,West,1964,1999,50,Urban,38.835224,-104.819798,2
+1530,Art Academy of Cincinnati,Cincinnati ,Ohio,Midwest,1887,250,99,Urban,39.104427,-84.513808,2
+1531,Mid-America Christian University,Oklahoma City ,Oklahoma,Southwest,1953,2999,50,Urban,35.468494,-97.521264,2
+1532,Gordon State College,Barnesville ,Georgia,Southeast,1852,4999,299,Suburban,33.054589,-84.155528,2
+1533,Johnson University,Knoxville ,Tennessee,Southeast,1893,1999,99,Rural,35.962631,-83.916677,3
+1534,Criswell College,Dallas ,Texas,Southwest,1970,499,50,Urban,32.777977,-96.796215,1
+1535,Cumberland University,Lebanon ,Tennessee,Southeast,1842,2999,199,Suburban,36.213087,-86.306476,2
+1536,Amberton University,Garland ,Texas,Southwest,1971,2999,99,Suburban,32.914343,-96.636564,1
+1537,Glenville State College,Glenville ,West Virginia,Southeast,1872,2999,99,Rural,38.91388,-80.749167,2
+1538,Barclay College,Haviland ,Kansas,Midwest,1917,499,50,Rural,37.617368,-99.10487,1
+1539,Midland University,Fremont ,Nebraska,Midwest,1883,1999,50,Rural,41.435822,-96.498494,1
+1540,Texas A&M University-Texarkana,Texarkana ,Texas,Southwest,1971,2999,199,Suburban,33.44221,-94.06408,1
+1541,Boston Graduate School of Psychoanalysis,Brookline ,Massachusetts,Northeast,1973,250,N/A,Suburban,42.333674,-71.120879,2
+1542,Columbia College Hollywood,Tarzana ,California,West,1952,999,99,Urban,34.173302,-118.553101,1
+1543,New York College of Podiatric Medicine,New York City ,New York,Northeast,1911,499,50,Urban,40.713054,-74.007228,2
+1544,Northern New Mexico College,Espanola ,New Mexico,Southwest,1909,1999,99,Rural,35.996427,-106.084008,2
+1545,Bacone College,Muskogee ,Oklahoma,Southwest,1880,1999,50,Suburban,35.747864,-95.369421,2
+1546,Atlanta Metropolitan State College,Atlanta ,Georgia,Southeast,1974,3999,199,Urban,33.748547,-84.391502,2
+1547,Blackburn College,Carlinville ,Illinois,Midwest,1837,999,99,Rural,39.285496,-89.881681,2
+1548,Harris-Stowe State University,St. Louis ,Missouri,Midwest,1857,1999,299,Urban,38.630276,-90.200309,2
+1549,Washington Adventist University,Takoma Park ,Maryland,Southeast,1904,1999,199,Suburban,38.981004,-77.010337,2
+1550,Southwestern Assemblies of God University,Waxahachie ,Texas,Southwest,1927,2999,199,Suburban,32.39361,-96.846992,2
+1551,Indiana University East,Richmond ,Indiana,Midwest,1971,5999,299,Rural,39.827286,-84.890357,2
+1552,Young Harris College,Young Harris ,Georgia,Southeast,1886,1999,199,Rural,34.932142,-83.848666,2
+1553,"Bethel University, Tennessee",McKenzie ,Tennessee,Southeast,1842,6999,199,Rural,36.131705,-88.517305,2
+1554,University of Jamestown,Jamestown ,North Dakota,Midwest,1883,1999,99,Rural,46.911627,-98.708622,2
+1555,"Union College, Nebraska",Lincoln ,Nebraska,Midwest,1891,999,99,Urban,40.813599,-96.70261,1
+1556,Cleveland University-Kansas City,Overland Park ,Kansas,Midwest,1922,999,99,Urban,38.974799,-94.683622,2
+1557,Brazosport College,Lake Jackson ,Texas,Southwest,1968,6999,99,Suburban,29.036192,-95.448867,2
+1558,Schreiner University,Kerrville ,Texas,Southwest,1923,1999,199,Rural,30.042787,-99.135299,2
+1559,Pardee RAND Graduate School,Santa Monica ,California,West,1970,250,50,Urban,34.010932,-118.491512,1
+1560,South College,Knoxville ,Tennessee,Southeast,1882,3999,399,Urban,35.962631,-83.916677,3
+1561,University of the Southwest,Hobbs ,New Mexico,Southwest,1962,1999,50,Rural,32.700807,-103.136211,2
+1562,University of Maine at Fort Kent,Fort Kent ,Maine,Northeast,1878,2999,99,Rural,47.255675,-68.590516,2
+1563,Southern College of Optometry,Memphis ,Tennessee,Southeast,1932,999,99,Urban,35.143378,-90.052136,2
+1564,Jarvis Christian College,Hawkins ,Texas,Southwest,1912,1999,99,Rural,32.588298,-95.205319,2
+1565,Morris College,Sumter ,South Carolina,Southeast,1908,999,99,Urban,33.930281,-80.367464,2
+1566,Touro University California,Vallejo ,California,West,1997,1999,399,Urban,38.101088,-122.254959,1
+1567,University of Providence,Great Falls ,Montana,West,1932,1999,199,Urban,47.506453,-111.306019,2
+1568,Truett McConnell University,Cleveland ,Georgia,Southeast,1946,2999,99,Rural,34.596724,-83.762891,2
+1569,Holy Cross College,Notre Dame ,Indiana,Midwest,1966,999,99,Suburban,41.705669,-86.247525,2
+1570,Texas College,Tyler ,Texas,Southwest,1894,1999,99,Urban,32.350763,-95.300644,1
+1571,Kentucky Christian University,Grayson ,Kentucky,Southeast,1919,999,99,Rural,38.33263,-82.948818,2
+1572,Emmaus Bible College,Dubuque ,Iowa,Midwest,1941,499,99,Urban,42.505512,-90.667314,2
+1573,Central Christian College of Kansas,McPherson ,Kansas,Midwest,1884,999,99,Rural,38.373551,-97.667066,2
+1574,Greensboro College,Greensboro ,North Carolina,Southeast,1838,1999,99,Urban,36.072701,-79.793899,2
+1575,Mayville State University,Mayville ,North Dakota,Midwest,1889,1999,99,Rural,47.498067,-97.324384,1
+1576,Blue Mountain College,Blue Mountain ,Mississippi,Southeast,1873,999,99,Rural,34.670972,-89.026546,2
+1577,Dallas Christian College,Dallas ,Texas,Southwest,1950,499,50,Suburban,32.777977,-96.796215,1
+1578,American Film Institute Conservatory,Los Angeles ,California,West,1969,499,199,Urban,34.052238,-118.243344,3
+1579,Florida College,Temple Terrace ,Florida,Southeast,1946,999,99,Suburban,28.035943,-82.389373,2
+1580,"Bethany College, Kansas",Lindsborg ,Kansas,Midwest,1881,999,99,Rural,38.575065,-97.675893,2
+1581,Everglades University,Boca Raton ,Florida,Southeast,1999,2999,299,Urban,26.35052,-80.089831,2
+1582,Simpson University,Redding ,California,West,1921,1999,99,Urban,40.574637,-122.38109,1
+1583,Lincoln Christian University,Lincoln ,Illinois,Midwest,1944,999,99,Rural,40.148571,-89.365188,2
+1584,Rockford University,Rockford ,Illinois,Midwest,1847,1999,199,Urban,42.266802,-89.088377,2
+1585,Miles College,Fairfield ,Alabama,Southeast,1898,2999,199,Suburban,33.486925,-86.912659,2
+1586,Chowan University,Murfreesboro ,North Carolina,Southeast,1848,1999,99,Rural,36.442499,-77.104575,2
+1587,Pensacola State College,Pensacola ,Florida,Southeast,1948,14999,499,Urban,30.406931,-87.217578,2
+1588,Manhattan Christian College,Manhattan ,Kansas,Midwest,1927,499,50,Urban,39.190363,-96.549656,2
+1589,New York School of Interior Design,New York City ,New York,Northeast,1916,999,199,Urban,40.713054,-74.007228,2
+1590,Southern University Law Center,Baton Rouge ,Louisiana,Southeast,1947,999,99,Urban,30.443319,-91.187488,1
+1591,Maranatha Baptist University,Watertown ,Wisconsin,Midwest,1968,1999,99,Suburban,43.207102,-88.731572,2
+1592,Marshall B. Ketchum University,Fullerton ,California,West,1904,999,199,Suburban,33.870345,-117.924302,5
+1593,South Georgia State College,Douglas ,Georgia,Southeast,1906,3999,199,Suburban,31.508865,-82.850392,2
+1594,Monmouth College,Monmouth ,Illinois,Midwest,1853,1999,199,Suburban,40.912018,-90.647017,2
+1595,Indiana University Kokomo,Kokomo ,Indiana,Midwest,1945,3999,299,Urban,40.486508,-86.131244,2
+1596,Trocaire College,Buffalo ,New York,Northeast,1958,1999,199,Urban,42.887691,-78.879374,2
+1597,Wiley College,Marshall ,Texas,Southwest,1873,1999,99,Rural,32.545002,-94.363315,1
+1598,Salem University,Salem ,West Virginia,Southeast,1888,1999,99,Rural,39.285812,-80.559264,2
+1599,Vermont College of Fine Arts,Montpelier ,Vermont,Northeast,1831,499,99,Suburban,44.259544,-72.57592,2
+1600,Appalachian College of Pharmacy,Oakwood ,Virginia,Southeast,2003,250,50,Rural,38.793725,-77.13248,2
+1601,Marymount California University,Rancho Palos Verdes ,California,West,1932,1999,99,Suburban,33.74516,-118.402399,4
+1602,West Virginia School of Osteopathic Medicine,Lewisburg ,West Virginia,Southeast,1972,999,99,Rural,37.801721,-80.445414,2
+1603,Mount Carmel College of Nursing,Columbus ,Ohio,Midwest,1939,1999,199,Urban,39.962649,-82.996216,2
+1604,Webber International University,Babson Park ,Florida,Southeast,1927,999,50,Suburban,27.832021,-81.520875,2
+1605,Albany College of Pharmacy and Health Sciences,Albany ,New York,Northeast,1881,1999,199,Urban,42.651242,-73.755418,2
+1606,Ursuline College,Pepper Pike ,Ohio,Midwest,1871,1999,199,Suburban,41.478519,-81.463313,3
+1607,Lake Erie College,Painesville ,Ohio,Midwest,1856,1999,199,Suburban,41.724109,-81.245167,3
+1608,University of Saint Mary,Leavenworth ,Kansas,Midwest,1923,1999,199,Suburban,39.32746,-94.918953,2
+1609,Relay Graduate School of Education,New York City ,New York,Northeast,2011,3999,399,Urban,40.713054,-74.007228,2
+1610,Ozark Christian College,Joplin ,Missouri,Midwest,1942,999,99,Urban,37.087628,-94.512248,2
+1611,Philander Smith College,Little Rock ,Arkansas,Southeast,1882,1999,99,Urban,34.748745,-92.275105,1
+1612,Villa Maria College,Buffalo ,New York,Northeast,1961,999,199,Urban,42.887691,-78.879374,2
+1613,St. Johns River State College,Palatka ,Florida,Southeast,1958,9999,499,Suburban,29.647203,-81.651886,2
+1614,Peirce College,Philadelphia ,Pennsylvania,Northeast,1865,2999,50,Urban,39.951061,-75.16562,2
+1615,Holy Apostles College and Seminary,Cromwell ,Connecticut,Northeast,1956,999,50,Suburban,41.595859,-72.645562,2
+1616,Nevada State College,Henderson ,Nevada,West,2002,5999,99,Suburban,36.034095,-114.984455,2
+1617,Pennsylvania College of Art and Design,Lancaster ,Pennsylvania,Northeast,1982,499,99,Urban,40.039401,-76.307078,2
+1618,Dunwoody College of Technology,Minneapolis ,Minnesota,Midwest,1914,1999,199,Urban,44.977479,-93.264346,1
+1619,Fisher College,Boston ,Massachusetts,Northeast,1903,3999,199,Urban,42.358894,-71.056742,2
+1620,Carolina University,Winston Salem ,North Carolina,Southeast,1945,999,99,Urban,36.096261,-80.243735,2
+1621,Lincoln College,Lincoln ,Illinois,Midwest,1865,1999,199,Suburban,40.148571,-89.365188,2
+1622,Conway School of Landscape Design,Northampton ,Massachusetts,Northeast,1972,250,50,Urban,42.31952,-72.629756,2
+1623,Rochester University,Rochester Hills ,Michigan,Midwest,1959,1999,99,Suburban,42.652398,-83.132561,3
+1624,College of Coastal Georgia,Brunswick ,Georgia,Southeast,1961,4999,299,Urban,31.168992,-81.50248,2
+1625,St Andrews University,Laurinburg ,North Carolina,Southeast,1958,999,99,Suburban,34.774167,-79.462818,2
+1626,Appalachian Bible College,Mount Hope ,West Virginia,Southeast,1950,499,99,Suburban,37.893568,-81.16594,2
+1627,Bethany Lutheran College,Mankato ,Minnesota,Midwest,1927,999,99,Urban,44.166117,-94.005587,1
+1628,Webb Institute,Glen Cove ,New York,Northeast,1889,250,50,Suburban,40.867785,-73.63976,2
+1629,Clarks Summit University,Clarks Summit ,Pennsylvania,Northeast,1932,999,50,Suburban,41.492139,-75.709113,2
+1630,American Baptist College,Nashville ,Tennessee,Southeast,1924,250,50,Urban,36.166687,-86.779932,2
+1631,"Aquinas College, Tennessee",Nashville ,Tennessee,Southeast,1961,999,N/A,Christian-Catholic,36.166687,-86.779932,2
+1632,Arkansas Baptist College,Little Rock ,Arkansas,Southeast,1884,999,99,Urban,34.748745,-92.275105,1
+1633,Kuyper College,Grand Rapids ,Michigan,Midwest,1939,250,50,Suburban,42.965446,-85.670209,2
+1634,Judson College,Marion ,Alabama,Southeast,1838,499,99,Rural,32.631708,-87.309965,2
+1635,University of Mount Olive,Mount Olive ,North Carolina,Southeast,1951,4999,99,Suburban,35.198265,-78.061635,2
+1636,Mercy College of Ohio,Toledo ,Ohio,Midwest,1917,1999,99,Urban,41.655298,-83.535717,2
+1637,Bryn Athyn College,Bryn Athyn ,Pennsylvania,Northeast,1877,499,99,Suburban,40.13334,-75.061886,2
+1638,Humphreys University,Stockton ,California,West,1896,999,99,Urban,37.957541,-121.292451,2
+1639,Benjamin Franklin Institute of Technology,Boston ,Massachusetts,Northeast,1908,999,99,Urban,42.358894,-71.056742,2
+1640,Donnelly College,Kansas City ,Kansas,Midwest,1949,999,50,Urban,39.1127,-94.626804,2
+1641,Lake Forest Graduate School of Management,Lake Forest ,Illinois,Midwest,1946,999,199,Suburban,42.232631,-87.854956,2
+1642,University of Valley Forge,Phoenixville ,Pennsylvania,Northeast,1939,999,99,Suburban,40.132857,-75.515819,2
+1643,Maria College,Albany ,New York,Northeast,1958,1999,99,Urban,42.651242,-73.755418,2
+1644,VanderCook College of Music,Chicago ,Illinois,Midwest,1909,1999,50,Urban,41.883229,-87.632398,2
+1645,Boricua College,New York City ,New York,Northeast,1974,1999,99,Urban,40.713054,-74.007228,2
+1646,Oak Hills Christian College,Bemidji ,Minnesota,Midwest,1946,250,50,Rural,47.472647,-94.879661,1
+1647,Heritage Christian University,Florence ,Alabama,Southeast,1971,250,50,Urban,34.801317,-87.673264,2
+1648,University of Maine at Farmington,Farmington ,Maine,Northeast,1864,2999,199,Rural,44.67063,-70.151254,2
+1649,Point University,West Point ,Georgia,Southeast,1937,2999,299,Suburban,32.876125,-85.184282,2
+1650,Alaska Bible College,Palmer ,Alaska,Outside,1966,250,50,Rural,61.599411,-149.122551,1
+1651,CUNY School of Law,Long Island City ,New York,Northeast,1983,999,99,Urban,40.744701,-73.949203,2
+1652,The College of Westchester,White Plains ,New York,Northeast,1915,1999,99,Suburban,41.032587,-73.766669,2
+1653,Stillman College,Tuscaloosa ,Alabama,Southeast,1876,999,99,Urban,33.210617,-87.565564,2
+1654,Memphis College of Art,Memphis ,Tennessee,Southeast,1936,499,50,Urban,35.143378,-90.052136,2
+1655,The School of Architecture,Cosanti ,Arizona,Southwest,1932,250,50,Suburban,34.29323,-111.6646,1
+1656,Kettering College,Kettering ,Ohio,Midwest,1967,1999,99,Suburban,39.689571,-84.167354,2
+1657,San Diego Christian College,Santee ,California,West,1970,999,199,Suburban,32.871379,-116.971181,2
+1658,Goldfarb School of Nursing at Barnes-Jewish College,St. Louis ,Missouri,Midwest,1902,1999,199,Urban,38.630276,-90.200309,2
+1659,Martin University,Indianapolis ,Indiana,Midwest,1977,499,50,Urban,39.76845,-86.156212,2
+1660,Five Towns College,Dix Hills ,New York,Northeast,1972,999,199,Suburban,40.812322,-73.345795,4
+1661,Mercy College of Health Sciences,Des Moines ,Iowa,Midwest,1899,999,199,Urban,41.588822,-93.620309,2
+1662,Boise Bible College,Boise ,Idaho,West,1945,250,50,Suburban,43.615791,-116.201579,1
+1663,University of the West,Rosemead ,California,West,1990,499,50,Suburban,34.080676,-118.077638,2
+1664,Blessing-Rieman College of Nursing and Health Sciences,Quincy ,Illinois,Midwest,1985,499,50,Rural,39.93553,-91.388754,2
+1665,Ohio Valley University,Vienna ,West Virginia,Southeast,1960,999,99,Urban,39.327729,-81.548228,2
+1666,Medgar Evers College,Brooklyn ,New York,Northeast,1970,9999,499,Urban,40.692529,-73.990996,2
+1667,Gratz College,Melrose Park ,Pennsylvania,Northeast,1895,499,50,Suburban,40.061699,-75.132202,2
+1668,Iowa Wesleyan University,Mount Pleasant ,Iowa,Midwest,1842,999,99,Rural,40.965605,-91.554839,2
+1669,Pontifical Faculty of the Immaculate Conception,Washington ,District of Columbia,Northeast,1905,250,50,Urban,38.892062,-77.019912,2
+1670,Mid-Atlantic Christian University,Elizabeth City ,North Carolina,Southeast,1948,250,50,Suburban,36.302126,-76.223253,2
+1671,Watkins College of Art,Nashville ,Tennessee,Southeast,1885,250,99,Urban,36.166687,-86.779932,2
+1672,Trinity Bible College,Ellendale ,North Dakota,Midwest,1948,250,50,Rural,46.002563,-98.527367,2
+1673,Chipola College,Marianna ,Florida,Southeast,1947,2999,299,Rural,30.775533,-85.239053,2
+1674,Trinity College of Florida,Trinity ,Florida,Southeast,1932,250,50,Suburban,28.175591,-82.669418,2
+1675,Pacific Oaks College,Pasadena ,California,West,1945,1999,399,Urban,34.14955,-118.141452,2
+1676,Laguna College of Art and Design,Laguna Beach ,California,West,1961,999,199,Rural,33.545844,-117.781731,3
+1677,Presentation College,Aberdeen ,South Dakota,Midwest,1951,999,99,Rural,45.465163,-98.488057,2
+1678,Tennessee Wesleyan University,Athens ,Tennessee,Southeast,1857,1999,99,Rural,35.448396,-84.606903,2
+1679,New England College of Optometry,Boston ,Massachusetts,Northeast,1894,999,99,Urban,42.358894,-71.056742,2
+1680,Cox College,Springfield ,Missouri,Midwest,1907,1999,99,Urban,37.215521,-93.292361,2
+1681,Thomas University,Thomasville ,Georgia,Southeast,1950,2999,199,Rural,30.835525,-83.978387,2
+1682,Allen College,Waterloo ,Iowa,Midwest,1989,999,99,Urban,42.493469,-92.34364,2
+1683,Thomas More College of Liberal Arts,Merrimack ,New Hampshire,Northeast,1978,250,50,Suburban,42.866953,-71.495437,2
+1684,Calvary University,Kansas City ,Missouri,Midwest,1932,499,99,Urban,39.099792,-94.578559,2
+1685,Westfield State University,Westfield ,Massachusetts,Northeast,1838,7999,599,Suburban,42.121185,-72.749082,2
+1686,Williams Baptist University,Walnut Ridge ,Arkansas,Southeast,1941,999,50,Rural,36.069736,-90.957539,2
+1687,Magdalen College of the Liberal Arts,Warner ,New Hampshire,Northeast,1973,250,50,Rural,43.280839,-71.816608,2
+1688,"Emmanuel College, Georgia",Franklin Springs ,Georgia,Southeast,1919,1999,99,Rural,34.284948,-83.144563,2
+1689,Sofia University,Palo Alto ,California,West,1975,999,99,Urban,37.445103,-122.160363,2
+1690,San Joaquin College of Law,Clovis ,California,West,1969,250,50,Suburban,36.823982,-119.696376,1
+1691,Dharma Realm Buddhist University,Ukiah ,California,West,1976,250,50,Rural,39.149997,-123.207635,1
+1692,God's Bible School and College,Cincinnati ,Ohio,Midwest,1900,499,99,Urban,39.104427,-84.513808,2
+1693,Illinois College of Optometry,Chicago ,Illinois,Midwest,1872,999,99,Urban,41.883229,-87.632398,2
+1694,Allen University,Columbia ,South Carolina,Southeast,1870,999,99,Urban,34.009286,-81.037094,2
+1695,Dominican School of Philosophy & Theology,Berkeley ,California,West,1932,250,50,Urban,37.869058,-122.270455,1
+1696,University of Holy Cross,New Orleans ,Louisiana,Southeast,1916,1999,199,Urban,29.950621,-90.074948,1
+1697,The Wright Institute,Berkeley ,California,West,1969,999,99,Urban,37.869058,-122.270455,1
+1698,Baptist University of the Americas,San Antonio ,Texas,Southwest,1947,250,50,Urban,29.425173,-98.494599,2
+1699,Rocky Vista University,Parker ,Colorado,West,2006,999,199,Urban,39.518515,-104.762773,1
+1700,Welch College,Gallatin ,Tennessee,Southeast,1942,499,99,Suburban,36.381608,-86.44383,2
+1701,Southwestern Christian University,Bethany ,Oklahoma,Southwest,1946,999,99,Suburban,35.507901,-97.635174,2
+1702,Middle Tennessee School of Anesthesia,Madison ,Tennessee,Southeast,1950,499,50,Suburban,36.2561,-86.713898,2
+1703,Franciscan Missionaries of Our Lady University,Baton Rouge ,Louisiana,Southeast,1923,1999,99,Urban,30.443319,-91.187488,1
+1704,Florida Gateway College,Lake City ,Florida,Southeast,1947,4999,199,Rural,30.188652,-82.637146,2
+1705,College of Biblical Studies,Houston ,Texas,Southwest,1979,999,99,Urban,29.760803,-95.369506,2
+1706,Pennsylvania College of Health Sciences,Lancaster ,Pennsylvania,Northeast,1903,2999,99,Suburban,40.039401,-76.307078,2
+1707,Plaza College,New York City ,New York,Northeast,1916,1999,99,Urban,40.713054,-74.007228,2
+1708,Grace Christian University,Wyoming ,Michigan,Midwest,1945,1999,50,Urban,42.913415,-85.695442,2
+1709,The Baptist College of Florida,Graceville ,Florida,Southeast,1943,499,50,Rural,30.960913,-85.518421,2
+1710,Nebraska Christian College,Papillion ,Nebraska,Midwest,1945,250,50,Rural,41.156464,-96.042941,2
+1711,Central Christian College of the Bible,Moberly ,Missouri,Midwest,1957,499,50,Rural,39.421755,-92.433556,2
+1712,United States University,San Diego ,California,West,1997,999,50,Urban,32.71576,-117.163817,4
+1713,East-West University,Chicago ,Illinois,Midwest,1980,999,50,Urban,41.883229,-87.632398,2
+1714,Davis College,Johnson City ,New York,Northeast,1900,499,50,Suburban,42.115476,-75.956045,2
+1715,Great Lakes Christian College,Lansing ,Michigan,Midwest,1949,250,50,Suburban,42.733625,-84.553927,2
+1716,Oak Point University,Chicago ,Illinois,Midwest,1914,1999,99,Urban,41.883229,-87.632398,2
+1717,Rocky Mountain University of Health Professions,Provo ,Utah,West,1998,999,99,Urban,40.233677,-111.663926,2
+1718,Jamestown Business College,Jamestown ,New York,Northeast,1886,499,50,Suburban,42.098961,-79.242051,2
+1719,Clear Creek Baptist Bible College,Pineville ,Kentucky,Southeast,1926,250,50,Rural,36.763443,-83.693622,2
+1720,"Southwestern College, Santa Fe",Santa Fe ,New Mexico,Southwest,1979,250,50,Suburban,35.692133,-105.939593,2
+1721,Crowley's Ridge College,Paragould ,Arkansas,Southeast,1964,250,50,Rural,36.052644,-90.505164,2
+1722,The King's University,Southlake ,Texas,Southwest,1997,999,99,Suburban,32.941061,-97.133584,2
+1723,Bellin College,Green Bay ,Wisconsin,Midwest,1909,999,50,Rural,44.513288,-88.013256,1
+1724,Wade College,Dallas ,Texas,Southwest,1962,250,50,Urban,32.777977,-96.796215,1
+1725,Saint Augustine College,Chicago ,Illinois,Midwest,1980,1999,199,Urban,41.883229,-87.632398,2
+1726,Labouré College,Milton ,Massachusetts,Northeast,1892,1999,99,Suburban,42.248566,-71.069184,2
+1727,Arlington Baptist University,Arlington ,Texas,Southwest,1939,250,50,Urban,32.735594,-97.10711,2
+1728,Northpoint Bible College,Haverhill ,Massachusetts,Northeast,1924,499,99,Suburban,42.777425,-71.077334,2
+1729,Bryan College of Health Sciences,Lincoln ,Nebraska,Midwest,2001,999,99,Urban,40.813599,-96.70261,1
+1730,John Paul the Great Catholic University,Escondido ,California,West,2003,499,50,Urban,33.130363,-117.085357,2
+1731,Tri-State Bible College,South Point ,Ohio,Midwest,1970,250,50,Rural,38.417122,-82.585539,2
+1732,Michigan School of Psychology,Farmington Hills ,Michigan,Midwest,1981,250,50,Urban,42.485645,-83.357869,3
+1733,Ecclesia College,Springdale ,Arkansas,Southeast,1975,499,99,Rural,36.185104,-94.138521,2
+1734,Lakeview College of Nursing,Danville ,Illinois,Midwest,1894,499,50,Urban,40.142128,-87.630211,2
+1735,Baptist Bible College,Springfield ,Missouri,Midwest,1950,499,50,Urban,37.215521,-93.292361,2
+1736,Beulah Heights University,Atlanta ,Georgia,Southeast,1918,999,99,Urban,33.748547,-84.391502,2
+1737,St. Louis Christian College,Florissant ,Missouri,Midwest,1956,250,50,Suburban,38.789013,-90.322755,2
+1738,Methodist College,Peoria ,Illinois,Midwest,1900,999,99,Urban,40.694592,-89.590362,2
+1739,Helene Fuld College of Nursing,New York City ,New York,Northeast,1945,999,99,Urban,40.713054,-74.007228,2
+1740,Trinity College of Nursing & Health Sciences,Rock Island ,Illinois,Midwest,1898,499,50,Urban,41.472348,-90.583568,2
+1741,New Hope Christian College,Eugene ,Oregon,West,1925,250,N/A,Urban,44.052153,-123.091195,1
+1742,The University of West Los Angeles,Inglewood ,California,West,1966,250,N/A,Suburban,33.961767,-118.353336,5
+1743,Pillar College,Newark ,New Jersey,Northeast,1908,999,199,Urban,40.731507,-74.174388,2
+1744,Denver College of Nursing,Denver ,Colorado,West,,1999,199,Urban,39.738453,-104.984853,1
+1745,Providence Christian College,Pasadena ,California,West,2002,250,50,Suburban,34.14955,-118.141452,2
+1746,Bethesda University,Anaheim ,California,West,1976,499,N/A,Urban,33.834492,-117.915638,5
+1747,Good Samaritan College of Nursing and Health Science,Cincinnati ,Ohio,Midwest,2001,999,50,Urban,39.104427,-84.513808,2
+1748,Research College of Nursing,Kansas City ,Missouri,Midwest,1905,999,50,Urban,39.099792,-94.578559,2
+1749,Richmont Graduate University,Chattanooga ,Tennessee,Southeast,1933,499,50,Urban,35.045756,-85.308287,2
+1750,WON Institute of Graduate Studies,Glenside ,Pennsylvania,Northeast,2001,250,99,Suburban,40.102454,-75.151903,2
+1751,Southeastern Baptist College,Laurel ,Mississippi,Southeast,1948,250,N/A,Rural,31.691551,-89.12937,2
+1752,Wisconsin School of Professional Psychology,Milwaukee ,Wisconsin,Midwest,1978,250,50,Urban,43.041072,-87.909421,2
+1753,Indiana University Fort Wayne,Fort Wayne ,Indiana,Midwest,2018,14999,399,Suburban,41.077474,-85.137495,2
+1754,Saint Anthony College of Nursing,Rockford ,Illinois,Midwest,1915,499,99,Urban,42.266802,-89.088377,2
+1755,Cabarrus College of Health Sciences,Concord ,North Carolina,Southeast,1942,999,99,Urban,35.408672,-80.579179,2
+1756,Geisinger Commonwealth School of Medicine,Scranton ,Pennsylvania,Northeast,2008,999,99,Urban,41.409113,-75.662346,2
+1757,Irell and Manella Graduate School of Biological Sciences,Duarte ,California,West,1994,250,50,Suburban,34.139586,-117.973256,1
+1758,Antioch University Santa Barbara,Santa Barbara ,California,West,1977,499,199,Urban,34.420867,-119.698342,1
+1759,Antioch University Los Angeles,Culver City ,California,West,1972,1999,N/A,Suburban,34.0225,-118.394287,3
+1760,Saint Francis Medical Center College of Nursing,Peoria ,Illinois,Midwest,1905,999,99,Urban,40.694592,-89.590362,2
+1761,Antioch University New England,Keene ,New Hampshire,Northeast,1964,1999,199,Rural,42.933677,-72.278255,2
+1762,Antioch University Seattle,Seattle ,Washington,West,1975,999,N/A,Urban,47.603229,-122.33028,2
+1763,Paul Quinn College,Dallas ,Texas,Southwest,1872,999,99,Urban,32.777977,-96.796215,1
+1764,Ohio University Southern,Ironton ,Ohio,Midwest,1804,1999,199,Suburban,38.531473,-82.677901,2
+1765,Ohio University-Chillicothe,Chillicothe ,Ohio,Midwest,1946,2999,199,Rural,39.331846,-82.981776,2
