@@ -6,7 +6,7 @@ https://medium.com/@macbestcam
 
 
 | Assignment     | Description | Medium Link     | 
-| ---      | ---       | ---      |
+| :----:      | :----:       | :----:    |
 | 1 | Api's | [Link](https://medium.com/inst414-data-science-tech/universities-with-the-best-air-quality-fe6917376d94) | 
 | 2     | Web Data and Graphs | [Link](https://medium.com/inst414-data-science-tech/most-popular-genres-of-anime-76c92a05ca57) |
 | 3     | Similarity, Hashing, and Dimensionality Reduction | [Link](https://medium.com/inst414-data-science-tech/finding-friends-via-hashtags-b5fb5488edff) |
